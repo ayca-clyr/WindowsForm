@@ -1,0 +1,9 @@
+C:\Users\Bilal\Desktop\GenelTekrar\20-OOP-Encapsulation\bin\Debug\20-OOP-Encapsulation.exe.config
+C:\Users\Bilal\Desktop\GenelTekrar\20-OOP-Encapsulation\bin\Debug\20-OOP-Encapsulation.exe
+C:\Users\Bilal\Desktop\GenelTekrar\20-OOP-Encapsulation\bin\Debug\20-OOP-Encapsulation.pdb
+C:\Users\Bilal\Desktop\GenelTekrar\20-OOP-Encapsulation\obj\Debug\20-OOP-Encapsulation.csprojResolveAssemblyReference.cache
+C:\Users\Bilal\Desktop\GenelTekrar\20-OOP-Encapsulation\obj\Debug\_20_OOP_Encapsulation.Form1.resources
+C:\Users\Bilal\Desktop\GenelTekrar\20-OOP-Encapsulation\obj\Debug\_20_OOP_Encapsulation.Properties.Resources.resources
+C:\Users\Bilal\Desktop\GenelTekrar\20-OOP-Encapsulation\obj\Debug\20-OOP-Encapsulation.csproj.GenerateResource.Cache
+C:\Users\Bilal\Desktop\GenelTekrar\20-OOP-Encapsulation\obj\Debug\20-OOP-Encapsulation.exe
+C:\Users\Bilal\Desktop\GenelTekrar\20-OOP-Encapsulation\obj\Debug\20-OOP-Encapsulation.pdb

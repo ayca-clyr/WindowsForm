@@ -1,0 +1,9 @@
+c:\users\ba\documents\visual studio 2013\Projects\160927_Interface\Uygulama\bin\Debug\Uygulama.exe.config
+c:\users\ba\documents\visual studio 2013\Projects\160927_Interface\Uygulama\obj\Debug\Uygulama.csprojResolveAssemblyReference.cache
+c:\users\ba\documents\visual studio 2013\Projects\160927_Interface\Uygulama\obj\Debug\Uygulama.Form1.resources
+c:\users\ba\documents\visual studio 2013\Projects\160927_Interface\Uygulama\obj\Debug\Uygulama.Properties.Resources.resources
+c:\users\ba\documents\visual studio 2013\Projects\160927_Interface\Uygulama\obj\Debug\Uygulama.csproj.GenerateResource.Cache
+c:\users\ba\documents\visual studio 2013\Projects\160927_Interface\Uygulama\bin\Debug\Uygulama.exe
+c:\users\ba\documents\visual studio 2013\Projects\160927_Interface\Uygulama\bin\Debug\Uygulama.pdb
+c:\users\ba\documents\visual studio 2013\Projects\160927_Interface\Uygulama\obj\Debug\Uygulama.exe
+c:\users\ba\documents\visual studio 2013\Projects\160927_Interface\Uygulama\obj\Debug\Uygulama.pdb

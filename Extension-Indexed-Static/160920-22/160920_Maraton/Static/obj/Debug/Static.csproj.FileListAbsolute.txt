@@ -1,0 +1,9 @@
+C:\Users\BA\Desktop\160920_Maraton_Part1\160920_Maraton\Static\bin\Debug\Static.exe.config
+C:\Users\BA\Desktop\160920_Maraton_Part1\160920_Maraton\Static\obj\Debug\Static.csprojResolveAssemblyReference.cache
+C:\Users\BA\Desktop\160920_Maraton_Part1\160920_Maraton\Static\obj\Debug\Static.Form1.resources
+C:\Users\BA\Desktop\160920_Maraton_Part1\160920_Maraton\Static\obj\Debug\Static.Properties.Resources.resources
+C:\Users\BA\Desktop\160920_Maraton_Part1\160920_Maraton\Static\obj\Debug\Static.csproj.GenerateResource.Cache
+C:\Users\BA\Desktop\160920_Maraton_Part1\160920_Maraton\Static\bin\Debug\Static.exe
+C:\Users\BA\Desktop\160920_Maraton_Part1\160920_Maraton\Static\bin\Debug\Static.pdb
+C:\Users\BA\Desktop\160920_Maraton_Part1\160920_Maraton\Static\obj\Debug\Static.exe
+C:\Users\BA\Desktop\160920_Maraton_Part1\160920_Maraton\Static\obj\Debug\Static.pdb

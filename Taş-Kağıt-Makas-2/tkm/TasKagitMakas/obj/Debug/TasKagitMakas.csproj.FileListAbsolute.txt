@@ -1,0 +1,37 @@
+c:\users\burak\documents\visual studio 2013\Projects\SIFIRDAN_CALISMA\TasKagitMakas\bin\Debug\TasKagitMakas.exe.config
+c:\users\burak\documents\visual studio 2013\Projects\SIFIRDAN_CALISMA\TasKagitMakas\bin\Debug\TasKagitMakas.exe
+c:\users\burak\documents\visual studio 2013\Projects\SIFIRDAN_CALISMA\TasKagitMakas\bin\Debug\TasKagitMakas.pdb
+c:\users\burak\documents\visual studio 2013\Projects\SIFIRDAN_CALISMA\TasKagitMakas\obj\Debug\TasKagitMakas.csprojResolveAssemblyReference.cache
+c:\users\burak\documents\visual studio 2013\Projects\SIFIRDAN_CALISMA\TasKagitMakas\obj\Debug\TasKagitMakas.Form1.resources
+c:\users\burak\documents\visual studio 2013\Projects\SIFIRDAN_CALISMA\TasKagitMakas\obj\Debug\TasKagitMakas.Properties.Resources.resources
+c:\users\burak\documents\visual studio 2013\Projects\SIFIRDAN_CALISMA\TasKagitMakas\obj\Debug\TasKagitMakas.csproj.GenerateResource.Cache
+c:\users\burak\documents\visual studio 2013\Projects\SIFIRDAN_CALISMA\TasKagitMakas\obj\Debug\TasKagitMakas.exe
+c:\users\burak\documents\visual studio 2013\Projects\SIFIRDAN_CALISMA\TasKagitMakas\obj\Debug\TasKagitMakas.pdb
+c:\users\burak\documents\visual studio 2013\Projects\SIFIRDAN_CALISMA\TasKagitMakas\obj\Debug\TasKagitMakas.FormGiris.resources
+C:\Users\BURAK\Desktop\SIFIRDAN_CALISMA\TasKagitMakas\bin\Debug\TasKagitMakas.exe.config
+C:\Users\BURAK\Desktop\SIFIRDAN_CALISMA\TasKagitMakas\obj\Debug\TasKagitMakas.exe
+C:\Users\BURAK\Desktop\SIFIRDAN_CALISMA\TasKagitMakas\obj\Debug\TasKagitMakas.pdb
+C:\Users\Gunaydın\Downloads\tkm\tkm\TasKagitMakas\bin\Debug\TasKagitMakas.exe.config
+C:\Users\Gunaydın\Downloads\tkm\tkm\TasKagitMakas\obj\Debug\TasKagitMakas.exe
+C:\Users\Gunaydın\Downloads\tkm\tkm\TasKagitMakas\obj\Debug\TasKagitMakas.pdb
+C:\Users\Bilall\Downloads\Stage Windows Form\Stage Windows Form\Stage Windows Form\Erdi Hoca\Taş kağıt makas\tkm\TasKagitMakas\bin\Debug\TasKagitMakas.exe.config
+C:\Users\Bilall\Downloads\Stage Windows Form\Stage Windows Form\Stage Windows Form\Erdi Hoca\Taş kağıt makas\tkm\TasKagitMakas\obj\Debug\TasKagitMakas.exe
+C:\Users\Bilall\Downloads\Stage Windows Form\Stage Windows Form\Stage Windows Form\Erdi Hoca\Taş kağıt makas\tkm\TasKagitMakas\obj\Debug\TasKagitMakas.pdb
+C:\Users\Bilall\Downloads\Stage Windows Form\Stage Windows Form\Stage Windows Form\Erdi Hoca\Taş kağıt makas\tkm\TasKagitMakas\bin\Debug\TasKagitMakas.exe
+C:\Users\Bilall\Downloads\Stage Windows Form\Stage Windows Form\Stage Windows Form\Erdi Hoca\Taş kağıt makas\tkm\TasKagitMakas\bin\Debug\TasKagitMakas.pdb
+C:\Users\Bilall\Downloads\Stage Windows Form\Stage Windows Form\Stage Windows Form\Erdi Hoca\Taş kağıt makas\tkm\TasKagitMakas\obj\Debug\TasKagitMakas.csprojResolveAssemblyReference.cache
+C:\Users\Bilall\Downloads\Stage Windows Form\Stage Windows Form\Stage Windows Form\Erdi Hoca\Taş kağıt makas\tkm\TasKagitMakas\obj\Debug\TasKagitMakas.Form1.resources
+C:\Users\Bilall\Downloads\Stage Windows Form\Stage Windows Form\Stage Windows Form\Erdi Hoca\Taş kağıt makas\tkm\TasKagitMakas\obj\Debug\TasKagitMakas.FormGiris.resources
+C:\Users\Bilall\Downloads\Stage Windows Form\Stage Windows Form\Stage Windows Form\Erdi Hoca\Taş kağıt makas\tkm\TasKagitMakas\obj\Debug\TasKagitMakas.Properties.Resources.resources
+C:\Users\Bilall\Downloads\Stage Windows Form\Stage Windows Form\Stage Windows Form\Erdi Hoca\Taş kağıt makas\tkm\TasKagitMakas\obj\Debug\TasKagitMakas.csproj.GenerateResource.Cache
+C:\Users\Ayça\Desktop\Bilge Adam\drive-download-20161214T123646Z\Erdi Hoca\Taş kağıt makas\tkm\TasKagitMakas\bin\Debug\TasKagitMakas.exe.config
+C:\Users\Ayça\Desktop\Bilge Adam\drive-download-20161214T123646Z\Erdi Hoca\Taş kağıt makas\tkm\TasKagitMakas\bin\Debug\TasKagitMakas.exe
+C:\Users\Ayça\Desktop\Bilge Adam\drive-download-20161214T123646Z\Erdi Hoca\Taş kağıt makas\tkm\TasKagitMakas\bin\Debug\TasKagitMakas.pdb
+C:\Users\Ayça\Desktop\Bilge Adam\drive-download-20161214T123646Z\Erdi Hoca\Taş kağıt makas\tkm\TasKagitMakas\obj\Debug\TasKagitMakas.csprojResolveAssemblyReference.cache
+C:\Users\Ayça\Desktop\Bilge Adam\drive-download-20161214T123646Z\Erdi Hoca\Taş kağıt makas\tkm\TasKagitMakas\obj\Debug\TasKagitMakas.Form1.resources
+C:\Users\Ayça\Desktop\Bilge Adam\drive-download-20161214T123646Z\Erdi Hoca\Taş kağıt makas\tkm\TasKagitMakas\obj\Debug\TasKagitMakas.FormGiris.resources
+C:\Users\Ayça\Desktop\Bilge Adam\drive-download-20161214T123646Z\Erdi Hoca\Taş kağıt makas\tkm\TasKagitMakas\obj\Debug\TasKagitMakas.Properties.Resources.resources
+C:\Users\Ayça\Desktop\Bilge Adam\drive-download-20161214T123646Z\Erdi Hoca\Taş kağıt makas\tkm\TasKagitMakas\obj\Debug\TasKagitMakas.csproj.GenerateResource.Cache
+C:\Users\Ayça\Desktop\Bilge Adam\drive-download-20161214T123646Z\Erdi Hoca\Taş kağıt makas\tkm\TasKagitMakas\obj\Debug\TasKagitMakas.csproj.CoreCompileInputs.cache
+C:\Users\Ayça\Desktop\Bilge Adam\drive-download-20161214T123646Z\Erdi Hoca\Taş kağıt makas\tkm\TasKagitMakas\obj\Debug\TasKagitMakas.exe
+C:\Users\Ayça\Desktop\Bilge Adam\drive-download-20161214T123646Z\Erdi Hoca\Taş kağıt makas\tkm\TasKagitMakas\obj\Debug\TasKagitMakas.pdb

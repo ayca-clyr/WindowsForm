@@ -1,0 +1,11 @@
+C:\Users\BA\documents\visual studio 2013\Projects\CokluFormlar_160829\ButonMdi_Part1\bin\Debug\ButonMdi_Part1.exe.config
+C:\Users\BA\documents\visual studio 2013\Projects\CokluFormlar_160829\ButonMdi_Part1\obj\Debug\ButonMdi_Part1.csprojResolveAssemblyReference.cache
+C:\Users\BA\documents\visual studio 2013\Projects\CokluFormlar_160829\ButonMdi_Part1\obj\Debug\ButonMdi_Part1.FirstForm.resources
+C:\Users\BA\documents\visual studio 2013\Projects\CokluFormlar_160829\ButonMdi_Part1\obj\Debug\ButonMdi_Part1.Form1.resources
+C:\Users\BA\documents\visual studio 2013\Projects\CokluFormlar_160829\ButonMdi_Part1\obj\Debug\ButonMdi_Part1.Properties.Resources.resources
+C:\Users\BA\documents\visual studio 2013\Projects\CokluFormlar_160829\ButonMdi_Part1\obj\Debug\ButonMdi_Part1.csproj.GenerateResource.Cache
+C:\Users\BA\documents\visual studio 2013\Projects\CokluFormlar_160829\ButonMdi_Part1\bin\Debug\ButonMdi_Part1.exe
+C:\Users\BA\documents\visual studio 2013\Projects\CokluFormlar_160829\ButonMdi_Part1\bin\Debug\ButonMdi_Part1.pdb
+C:\Users\BA\documents\visual studio 2013\Projects\CokluFormlar_160829\ButonMdi_Part1\obj\Debug\ButonMdi_Part1.exe
+C:\Users\BA\documents\visual studio 2013\Projects\CokluFormlar_160829\ButonMdi_Part1\obj\Debug\ButonMdi_Part1.pdb
+C:\Users\BA\documents\visual studio 2013\Projects\CokluFormlar_160829\ButonMdi_Part1\obj\Debug\ButonMdi_Part1.SecondForm.resources

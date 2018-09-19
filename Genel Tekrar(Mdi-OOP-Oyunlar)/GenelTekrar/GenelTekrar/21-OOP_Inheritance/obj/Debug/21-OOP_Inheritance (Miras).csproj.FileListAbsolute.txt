@@ -1,0 +1,2 @@
+C:\Users\Bilal\Desktop\GenelTekrar\21-OOP_Inheritance\bin\Debug\21-OOP_Inheritance.exe.config
+C:\Users\Gunaydın\Desktop\GenelTekrar\21-OOP_Inheritance\bin\Debug\21-OOP_Inheritance.exe.config

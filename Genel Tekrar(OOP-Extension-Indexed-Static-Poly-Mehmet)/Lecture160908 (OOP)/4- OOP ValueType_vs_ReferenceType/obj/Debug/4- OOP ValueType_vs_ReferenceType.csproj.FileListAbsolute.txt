@@ -1,0 +1,9 @@
+C:\Users\BA\Documents\Visual Studio 2013\Projects\160908\Lecture160908 (OOP)\4- OOP ValueType_vs_ReferenceType\bin\Debug\4- OOP ValueType_vs_ReferenceType.exe.config
+C:\Users\BA\Documents\Visual Studio 2013\Projects\160908\Lecture160908 (OOP)\4- OOP ValueType_vs_ReferenceType\bin\Debug\4- OOP ValueType_vs_ReferenceType.exe
+C:\Users\BA\Documents\Visual Studio 2013\Projects\160908\Lecture160908 (OOP)\4- OOP ValueType_vs_ReferenceType\bin\Debug\4- OOP ValueType_vs_ReferenceType.pdb
+C:\Users\BA\Documents\Visual Studio 2013\Projects\160908\Lecture160908 (OOP)\4- OOP ValueType_vs_ReferenceType\obj\Debug\_4__OOP_ValueType_vs_ReferenceType.Form1.resources
+C:\Users\BA\Documents\Visual Studio 2013\Projects\160908\Lecture160908 (OOP)\4- OOP ValueType_vs_ReferenceType\obj\Debug\_4__OOP_ValueType_vs_ReferenceType.Properties.Resources.resources
+C:\Users\BA\Documents\Visual Studio 2013\Projects\160908\Lecture160908 (OOP)\4- OOP ValueType_vs_ReferenceType\obj\Debug\4- OOP ValueType_vs_ReferenceType.csproj.GenerateResource.Cache
+C:\Users\BA\Documents\Visual Studio 2013\Projects\160908\Lecture160908 (OOP)\4- OOP ValueType_vs_ReferenceType\obj\Debug\4- OOP ValueType_vs_ReferenceType.exe
+C:\Users\BA\Documents\Visual Studio 2013\Projects\160908\Lecture160908 (OOP)\4- OOP ValueType_vs_ReferenceType\obj\Debug\4- OOP ValueType_vs_ReferenceType.pdb
+C:\Users\BA\Documents\Visual Studio 2013\Projects\160908\Lecture160908 (OOP)\4- OOP ValueType_vs_ReferenceType\obj\Debug\4- OOP ValueType_vs_ReferenceType.csprojResolveAssemblyReference.cache

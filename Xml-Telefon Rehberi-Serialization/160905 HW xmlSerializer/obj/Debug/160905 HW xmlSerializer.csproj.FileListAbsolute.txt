@@ -1,0 +1,52 @@
+c:\users\gunaydın\documents\visual studio 2013\Projects\160905 HW xmlSerializer\160905 HW xmlSerializer\bin\Debug\160905 HW xmlSerializer.exe.config
+c:\users\gunaydın\documents\visual studio 2013\Projects\160905 HW xmlSerializer\160905 HW xmlSerializer\bin\Debug\160905 HW xmlSerializer.exe
+c:\users\gunaydın\documents\visual studio 2013\Projects\160905 HW xmlSerializer\160905 HW xmlSerializer\bin\Debug\160905 HW xmlSerializer.pdb
+c:\users\gunaydın\documents\visual studio 2013\Projects\160905 HW xmlSerializer\160905 HW xmlSerializer\obj\Debug\160905 HW xmlSerializer.csprojResolveAssemblyReference.cache
+c:\users\gunaydın\documents\visual studio 2013\Projects\160905 HW xmlSerializer\160905 HW xmlSerializer\obj\Debug\_160905_HW_xmlSerializer.Form1.resources
+c:\users\gunaydın\documents\visual studio 2013\Projects\160905 HW xmlSerializer\160905 HW xmlSerializer\obj\Debug\_160905_HW_xmlSerializer.Properties.Resources.resources
+c:\users\gunaydın\documents\visual studio 2013\Projects\160905 HW xmlSerializer\160905 HW xmlSerializer\obj\Debug\160905 HW xmlSerializer.csproj.GenerateResource.Cache
+c:\users\gunaydın\documents\visual studio 2013\Projects\160905 HW xmlSerializer\160905 HW xmlSerializer\obj\Debug\160905 HW xmlSerializer.exe
+c:\users\gunaydın\documents\visual studio 2013\Projects\160905 HW xmlSerializer\160905 HW xmlSerializer\obj\Debug\160905 HW xmlSerializer.pdb
+C:\Users\Gunaydın\Desktop\160905 HW xmlSerializer\160905 HW xmlSerializer\160905 HW xmlSerializer\bin\Debug\160905 HW xmlSerializer.exe.config
+C:\Users\Gunaydın\Desktop\160905 HW xmlSerializer\160905 HW xmlSerializer\160905 HW xmlSerializer\obj\Debug\160905 HW xmlSerializer.exe
+C:\Users\Gunaydın\Desktop\160905 HW xmlSerializer\160905 HW xmlSerializer\160905 HW xmlSerializer\obj\Debug\160905 HW xmlSerializer.pdb
+C:\Users\Gunaydın\Desktop\160905 HW xmlSerializer\160905 HW xmlSerializer\160905 HW xmlSerializer\bin\Debug\160905 HW xmlSerializer.exe
+C:\Users\Gunaydın\Desktop\160905 HW xmlSerializer\160905 HW xmlSerializer\160905 HW xmlSerializer\bin\Debug\160905 HW xmlSerializer.pdb
+C:\Users\Gunaydın\Desktop\160905 HW xmlSerializer\160905 HW xmlSerializer\160905 HW xmlSerializer\obj\Debug\160905 HW xmlSerializer.csprojResolveAssemblyReference.cache
+C:\Users\Gunaydın\Desktop\160905 HW xmlSerializer\160905 HW xmlSerializer\160905 HW xmlSerializer\obj\Debug\_160905_HW_xmlSerializer.Form1.resources
+C:\Users\Gunaydın\Desktop\160905 HW xmlSerializer\160905 HW xmlSerializer\160905 HW xmlSerializer\obj\Debug\_160905_HW_xmlSerializer.Properties.Resources.resources
+C:\Users\Gunaydın\Desktop\160905 HW xmlSerializer\160905 HW xmlSerializer\160905 HW xmlSerializer\obj\Debug\160905 HW xmlSerializer.csproj.GenerateResource.Cache
+C:\Users\Gunaydın\Desktop\Telefon defteri - Hafıza Oyunu- Kart Dağıtım Uygulaması Versiyon 2\160905 HW xmlSerializer\160905 HW xmlSerializer\bin\Debug\160905 HW xmlSerializer.exe.config
+C:\Users\Gunaydın\Desktop\Telefon defteri - Hafıza Oyunu- Kart Dağıtım Uygulaması Versiyon 2\160905 HW xmlSerializer\160905 HW xmlSerializer\obj\Debug\160905 HW xmlSerializer.exe
+C:\Users\Gunaydın\Desktop\Telefon defteri - Hafıza Oyunu- Kart Dağıtım Uygulaması Versiyon 2\160905 HW xmlSerializer\160905 HW xmlSerializer\obj\Debug\160905 HW xmlSerializer.pdb
+C:\Users\Gunaydın\Desktop\Telefon defteri - Hafıza Oyunu- Kart Dağıtım Uygulaması Versiyon 2\160905 HW xmlSerializer\160905 HW xmlSerializer\bin\Debug\160905 HW xmlSerializer.exe
+C:\Users\Gunaydın\Desktop\Telefon defteri - Hafıza Oyunu- Kart Dağıtım Uygulaması Versiyon 2\160905 HW xmlSerializer\160905 HW xmlSerializer\bin\Debug\160905 HW xmlSerializer.pdb
+C:\Users\Gunaydın\Desktop\Telefon defteri - Hafıza Oyunu- Kart Dağıtım Uygulaması Versiyon 2\160905 HW xmlSerializer\160905 HW xmlSerializer\obj\Debug\160905 HW xmlSerializer.csprojResolveAssemblyReference.cache
+C:\Users\Gunaydın\Desktop\Telefon defteri - Hafıza Oyunu- Kart Dağıtım Uygulaması Versiyon 2\160905 HW xmlSerializer\160905 HW xmlSerializer\obj\Debug\_160905_HW_xmlSerializer.Form1.resources
+C:\Users\Gunaydın\Desktop\Telefon defteri - Hafıza Oyunu- Kart Dağıtım Uygulaması Versiyon 2\160905 HW xmlSerializer\160905 HW xmlSerializer\obj\Debug\_160905_HW_xmlSerializer.Properties.Resources.resources
+C:\Users\Gunaydın\Desktop\Telefon defteri - Hafıza Oyunu- Kart Dağıtım Uygulaması Versiyon 2\160905 HW xmlSerializer\160905 HW xmlSerializer\obj\Debug\160905 HW xmlSerializer.csproj.GenerateResource.Cache
+C:\Users\Gunaydın\Desktop\Stage Windows Form\Stage Windows Form\190905_Lecture_XML\160905 HW xmlSerializer\160905 HW xmlSerializer\bin\Debug\160905 HW xmlSerializer.exe.config
+C:\Users\Gunaydın\Desktop\Stage Windows Form\Stage Windows Form\190905_Lecture_XML\160905 HW xmlSerializer\160905 HW xmlSerializer\obj\Debug\160905 HW xmlSerializer.exe
+C:\Users\Gunaydın\Desktop\Stage Windows Form\Stage Windows Form\190905_Lecture_XML\160905 HW xmlSerializer\160905 HW xmlSerializer\obj\Debug\160905 HW xmlSerializer.pdb
+C:\Users\Gunaydın\Desktop\Stage Windows Form\Stage Windows Form\Erdi Hoca\190905_Lecture_XML\160905 HW xmlSerializer\160905 HW xmlSerializer\bin\Debug\160905 HW xmlSerializer.exe.config
+C:\Users\Gunaydın\Desktop\Stage Windows Form\Stage Windows Form\Erdi Hoca\190905_Lecture_XML\160905 HW xmlSerializer\160905 HW xmlSerializer\obj\Debug\160905 HW xmlSerializer.exe
+C:\Users\Gunaydın\Desktop\Stage Windows Form\Stage Windows Form\Erdi Hoca\190905_Lecture_XML\160905 HW xmlSerializer\160905 HW xmlSerializer\obj\Debug\160905 HW xmlSerializer.pdb
+C:\Users\Gunaydın\Desktop\Stage Windows Form\Stage Windows Form\Erdi Hoca\190905_Lecture_XML\160905 HW xmlSerializer\160905 HW xmlSerializer\bin\Debug\160905 HW xmlSerializer.exe
+C:\Users\Gunaydın\Desktop\Stage Windows Form\Stage Windows Form\Erdi Hoca\190905_Lecture_XML\160905 HW xmlSerializer\160905 HW xmlSerializer\bin\Debug\160905 HW xmlSerializer.pdb
+C:\Users\Gunaydın\Desktop\Stage Windows Form\Stage Windows Form\Erdi Hoca\190905_Lecture_XML\160905 HW xmlSerializer\160905 HW xmlSerializer\obj\Debug\160905 HW xmlSerializer.csprojResolveAssemblyReference.cache
+C:\Users\Gunaydın\Desktop\Stage Windows Form\Stage Windows Form\Erdi Hoca\190905_Lecture_XML\160905 HW xmlSerializer\160905 HW xmlSerializer\obj\Debug\_160905_HW_xmlSerializer.Form1.resources
+C:\Users\Gunaydın\Desktop\Stage Windows Form\Stage Windows Form\Erdi Hoca\190905_Lecture_XML\160905 HW xmlSerializer\160905 HW xmlSerializer\obj\Debug\_160905_HW_xmlSerializer.Properties.Resources.resources
+C:\Users\Gunaydın\Desktop\Stage Windows Form\Stage Windows Form\Erdi Hoca\190905_Lecture_XML\160905 HW xmlSerializer\160905 HW xmlSerializer\obj\Debug\160905 HW xmlSerializer.csproj.GenerateResource.Cache
+C:\Users\Bilall\Downloads\Stage Windows Form\Stage Windows Form\Erdi Hoca\190905_Lecture_XML\160905 HW xmlSerializer\160905 HW xmlSerializer\bin\Debug\160905 HW xmlSerializer.exe.config
+C:\Users\Bilall\Downloads\Stage Windows Form\Stage Windows Form\Erdi Hoca\190905_Lecture_XML\160905 HW xmlSerializer\160905 HW xmlSerializer\obj\Debug\160905 HW xmlSerializer.exe
+C:\Users\Bilall\Downloads\Stage Windows Form\Stage Windows Form\Erdi Hoca\190905_Lecture_XML\160905 HW xmlSerializer\160905 HW xmlSerializer\obj\Debug\160905 HW xmlSerializer.pdb
+C:\Users\Ayça\Desktop\Bilge Adam\drive-download-20161214T123646Z\Erdi Hoca\190905_Lecture_XML\160905 HW xmlSerializer\160905 HW xmlSerializer\bin\Debug\160905 HW xmlSerializer.exe.config
+C:\Users\Ayça\Desktop\Bilge Adam\drive-download-20161214T123646Z\Erdi Hoca\190905_Lecture_XML\160905 HW xmlSerializer\160905 HW xmlSerializer\bin\Debug\160905 HW xmlSerializer.exe
+C:\Users\Ayça\Desktop\Bilge Adam\drive-download-20161214T123646Z\Erdi Hoca\190905_Lecture_XML\160905 HW xmlSerializer\160905 HW xmlSerializer\bin\Debug\160905 HW xmlSerializer.pdb
+C:\Users\Ayça\Desktop\Bilge Adam\drive-download-20161214T123646Z\Erdi Hoca\190905_Lecture_XML\160905 HW xmlSerializer\160905 HW xmlSerializer\obj\Debug\160905 HW xmlSerializer.csprojResolveAssemblyReference.cache
+C:\Users\Ayça\Desktop\Bilge Adam\drive-download-20161214T123646Z\Erdi Hoca\190905_Lecture_XML\160905 HW xmlSerializer\160905 HW xmlSerializer\obj\Debug\_160905_HW_xmlSerializer.Form1.resources
+C:\Users\Ayça\Desktop\Bilge Adam\drive-download-20161214T123646Z\Erdi Hoca\190905_Lecture_XML\160905 HW xmlSerializer\160905 HW xmlSerializer\obj\Debug\_160905_HW_xmlSerializer.Properties.Resources.resources
+C:\Users\Ayça\Desktop\Bilge Adam\drive-download-20161214T123646Z\Erdi Hoca\190905_Lecture_XML\160905 HW xmlSerializer\160905 HW xmlSerializer\obj\Debug\160905 HW xmlSerializer.csproj.GenerateResource.Cache
+C:\Users\Ayça\Desktop\Bilge Adam\drive-download-20161214T123646Z\Erdi Hoca\190905_Lecture_XML\160905 HW xmlSerializer\160905 HW xmlSerializer\obj\Debug\160905 HW xmlSerializer.csproj.CoreCompileInputs.cache
+C:\Users\Ayça\Desktop\Bilge Adam\drive-download-20161214T123646Z\Erdi Hoca\190905_Lecture_XML\160905 HW xmlSerializer\160905 HW xmlSerializer\obj\Debug\160905 HW xmlSerializer.exe
+C:\Users\Ayça\Desktop\Bilge Adam\drive-download-20161214T123646Z\Erdi Hoca\190905_Lecture_XML\160905 HW xmlSerializer\160905 HW xmlSerializer\obj\Debug\160905 HW xmlSerializer.pdb

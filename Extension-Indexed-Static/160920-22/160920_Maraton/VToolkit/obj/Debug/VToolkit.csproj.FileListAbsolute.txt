@@ -1,0 +1,5 @@
+C:\Users\BA\Desktop\160920_Maraton_Part1\160920_Maraton\VToolkit\bin\Debug\VToolkit.dll
+C:\Users\BA\Desktop\160920_Maraton_Part1\160920_Maraton\VToolkit\bin\Debug\VToolkit.pdb
+C:\Users\BA\Desktop\160920_Maraton_Part1\160920_Maraton\VToolkit\obj\Debug\VToolkit.csprojResolveAssemblyReference.cache
+C:\Users\BA\Desktop\160920_Maraton_Part1\160920_Maraton\VToolkit\obj\Debug\VToolkit.dll
+C:\Users\BA\Desktop\160920_Maraton_Part1\160920_Maraton\VToolkit\obj\Debug\VToolkit.pdb

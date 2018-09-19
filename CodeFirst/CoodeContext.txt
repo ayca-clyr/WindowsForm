@@ -1,0 +1,18 @@
+1.Class'larýmý oluþturuyorum. (Company,Employee)
+2.Appconfig'de connectionStrings'imi belirtiyorum.
+3.DbContext'de baðlantýmý yapýyorum.
+4.enable-migrations (migration klasörü oluþturuyorum, uygulama içinde bir defaya mahsus yapýlýr.)
+5.Add-migration migrationName (configuration içerisindeki alaný true yapmak.)
+6.update-database(codefirst de yapýlan her deðiþikliðin sql tarafýnda gösterilmesi için her defasýnda yazýlýr.)
+
+					Baþka bilgisayarda çalýþtýrma komutlarý
+
+1) Form Load'ýna 
+
+		CompanyContext db = new CompanyContext();
+		db.Companies.Add(new Company { CompanyName = "Ayça" });
+		db.SaveChanges();
+2) CompanyContext ctor içine
+		Database.SetInitializer(new CreateDatabaseIfNotExists<CompanyContext>()); // Yeni bir Database oluþturulcaksa
+            	Database.SetInitializer(new MigrateDatabaseToLatestVersion<CompanyContext,Configuration>()); // Ayný Database varsa.(Son verison alýr.)
+

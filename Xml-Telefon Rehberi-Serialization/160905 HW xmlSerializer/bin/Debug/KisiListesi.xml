@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Kisiler>
+  <Kisi ID="1">
+    <Ad>Tsubasa</Ad>
+    <Soyad>Ozora</Soyad>
+    <Telefon>(555) 555-5555</Telefon>
+  </Kisi>
+  <Kisi ID="2">
+    <Ad>Kojiro</Ad>
+    <Soyad>Hyuga</Soyad>
+    <Telefon>(555) 555-5555</Telefon>
+  </Kisi>
+  <Kisi ID="3">
+    <Ad>Ken</Ad>
+    <Soyad>wakashimazu</Soyad>
+    <Telefon>(555) 555-5555</Telefon>
+  </Kisi>
+</Kisiler>

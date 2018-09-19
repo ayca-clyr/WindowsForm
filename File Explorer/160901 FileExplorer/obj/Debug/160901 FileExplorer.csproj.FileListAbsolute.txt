@@ -1,0 +1,39 @@
+c:\users\ba\documents\visual studio 2013\Projects\160901 FileExplorer\160901 FileExplorer\bin\Debug\160901 FileExplorer.exe.config
+c:\users\ba\documents\visual studio 2013\Projects\160901 FileExplorer\160901 FileExplorer\bin\Debug\160901 FileExplorer.exe
+c:\users\ba\documents\visual studio 2013\Projects\160901 FileExplorer\160901 FileExplorer\bin\Debug\160901 FileExplorer.pdb
+c:\users\ba\documents\visual studio 2013\Projects\160901 FileExplorer\160901 FileExplorer\obj\Debug\160901 FileExplorer.csprojResolveAssemblyReference.cache
+c:\users\ba\documents\visual studio 2013\Projects\160901 FileExplorer\160901 FileExplorer\obj\Debug\_160901_FileExplorer.Form1.resources
+c:\users\ba\documents\visual studio 2013\Projects\160901 FileExplorer\160901 FileExplorer\obj\Debug\_160901_FileExplorer.Properties.Resources.resources
+c:\users\ba\documents\visual studio 2013\Projects\160901 FileExplorer\160901 FileExplorer\obj\Debug\160901 FileExplorer.csproj.GenerateResource.Cache
+c:\users\ba\documents\visual studio 2013\Projects\160901 FileExplorer\160901 FileExplorer\obj\Debug\160901 FileExplorer.exe
+c:\users\ba\documents\visual studio 2013\Projects\160901 FileExplorer\160901 FileExplorer\obj\Debug\160901 FileExplorer.pdb
+C:\Users\BA\Documents\Visual Studio 2013\Projects\Stage Windows Form\Stage Windows Form\160901 FileExplorer\160901 FileExplorer\bin\Debug\160901 FileExplorer.exe.config
+C:\Users\BA\Documents\Visual Studio 2013\Projects\Stage Windows Form\Stage Windows Form\160901 FileExplorer\160901 FileExplorer\obj\Debug\160901 FileExplorer.exe
+C:\Users\BA\Documents\Visual Studio 2013\Projects\Stage Windows Form\Stage Windows Form\160901 FileExplorer\160901 FileExplorer\obj\Debug\160901 FileExplorer.pdb
+C:\Users\BA\Documents\Visual Studio 2013\Projects\Stage Windows Form\Stage Windows Form\160901 FileExplorer\160901 FileExplorer\obj\Debug\160901 FileExplorer.csprojResolveAssemblyReference.cache
+C:\Users\BA\Documents\Visual Studio 2013\Projects\Stage Windows Form\Stage Windows Form\160901 FileExplorer\160901 FileExplorer\obj\Debug\_160901_FileExplorer.Form1.resources
+C:\Users\BA\Documents\Visual Studio 2013\Projects\Stage Windows Form\Stage Windows Form\160901 FileExplorer\160901 FileExplorer\obj\Debug\_160901_FileExplorer.Properties.Resources.resources
+C:\Users\BA\Documents\Visual Studio 2013\Projects\Stage Windows Form\Stage Windows Form\160901 FileExplorer\160901 FileExplorer\obj\Debug\160901 FileExplorer.csproj.GenerateResource.Cache
+C:\Users\BA\Documents\Visual Studio 2013\Projects\Stage Windows Form\Stage Windows Form\160901 FileExplorer\160901 FileExplorer\bin\Debug\160901 FileExplorer.exe
+C:\Users\BA\Documents\Visual Studio 2013\Projects\Stage Windows Form\Stage Windows Form\160901 FileExplorer\160901 FileExplorer\bin\Debug\160901 FileExplorer.pdb
+C:\Users\Gunaydın\Downloads\Stage Windows Form\160901 FileExplorer\160901 FileExplorer\bin\Debug\160901 FileExplorer.exe.config
+C:\Users\Gunaydın\Downloads\Stage Windows Form\160901 FileExplorer\160901 FileExplorer\obj\Debug\160901 FileExplorer.exe
+C:\Users\Gunaydın\Downloads\Stage Windows Form\160901 FileExplorer\160901 FileExplorer\obj\Debug\160901 FileExplorer.pdb
+C:\Users\Gunaydın\Downloads\Stage Windows Form\160901 FileExplorer\160901 FileExplorer\bin\Debug\160901 FileExplorer.exe
+C:\Users\Gunaydın\Downloads\Stage Windows Form\160901 FileExplorer\160901 FileExplorer\bin\Debug\160901 FileExplorer.pdb
+C:\Users\Gunaydın\Downloads\Stage Windows Form\160901 FileExplorer\160901 FileExplorer\obj\Debug\160901 FileExplorer.csprojResolveAssemblyReference.cache
+C:\Users\Gunaydın\Downloads\Stage Windows Form\160901 FileExplorer\160901 FileExplorer\obj\Debug\_160901_FileExplorer.Form1.resources
+C:\Users\Gunaydın\Downloads\Stage Windows Form\160901 FileExplorer\160901 FileExplorer\obj\Debug\_160901_FileExplorer.Properties.Resources.resources
+C:\Users\Gunaydın\Downloads\Stage Windows Form\160901 FileExplorer\160901 FileExplorer\obj\Debug\160901 FileExplorer.csproj.GenerateResource.Cache
+C:\Users\Gunaydın\Desktop\Stage Windows Form\Stage Windows Form\160901 FileExplorer\160901 FileExplorer\bin\Debug\160901 FileExplorer.exe.config
+C:\Users\Gunaydın\Desktop\Stage Windows Form\Stage Windows Form\160901 FileExplorer\160901 FileExplorer\obj\Debug\160901 FileExplorer.exe
+C:\Users\Gunaydın\Desktop\Stage Windows Form\Stage Windows Form\160901 FileExplorer\160901 FileExplorer\obj\Debug\160901 FileExplorer.pdb
+C:\Users\Gunaydın\Desktop\Stage Windows Form\Stage Windows Form\160901 FileExplorer\160901 FileExplorer\bin\Debug\160901 FileExplorer.exe
+C:\Users\Gunaydın\Desktop\Stage Windows Form\Stage Windows Form\160901 FileExplorer\160901 FileExplorer\bin\Debug\160901 FileExplorer.pdb
+C:\Users\Gunaydın\Desktop\Stage Windows Form\Stage Windows Form\160901 FileExplorer\160901 FileExplorer\obj\Debug\160901 FileExplorer.csprojResolveAssemblyReference.cache
+C:\Users\Gunaydın\Desktop\Stage Windows Form\Stage Windows Form\160901 FileExplorer\160901 FileExplorer\obj\Debug\_160901_FileExplorer.Form1.resources
+C:\Users\Gunaydın\Desktop\Stage Windows Form\Stage Windows Form\160901 FileExplorer\160901 FileExplorer\obj\Debug\_160901_FileExplorer.Properties.Resources.resources
+C:\Users\Gunaydın\Desktop\Stage Windows Form\Stage Windows Form\160901 FileExplorer\160901 FileExplorer\obj\Debug\160901 FileExplorer.csproj.GenerateResource.Cache
+C:\Users\Gunaydın\Desktop\Stage Windows Form\Stage Windows Form\Erdi Hoca\160901 FileExplorer\160901 FileExplorer\bin\Debug\160901 FileExplorer.exe.config
+C:\Users\Gunaydın\Desktop\Stage Windows Form\Stage Windows Form\Erdi Hoca\160901 FileExplorer\160901 FileExplorer\obj\Debug\160901 FileExplorer.exe
+C:\Users\Gunaydın\Desktop\Stage Windows Form\Stage Windows Form\Erdi Hoca\160901 FileExplorer\160901 FileExplorer\obj\Debug\160901 FileExplorer.pdb

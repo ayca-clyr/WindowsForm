@@ -1,0 +1,15 @@
+c:\users\ayça\documents\visual studio 2015\Projects\Tez2\Tez2\bin\Debug\Tez2.exe.config
+C:\Users\Ayça\documents\visual studio 2015\Projects\Tez2\Tez2\obj\Debug\Tez2.csprojResolveAssemblyReference.cache
+C:\Users\Ayça\documents\visual studio 2015\Projects\Tez2\Tez2\obj\Debug\Tez2.Form1.resources
+C:\Users\Ayça\documents\visual studio 2015\Projects\Tez2\Tez2\obj\Debug\Tez2.Form2.resources
+C:\Users\Ayça\documents\visual studio 2015\Projects\Tez2\Tez2\obj\Debug\Tez2.Form3.resources
+C:\Users\Ayça\documents\visual studio 2015\Projects\Tez2\Tez2\obj\Debug\Tez2.Form4.resources
+C:\Users\Ayça\documents\visual studio 2015\Projects\Tez2\Tez2\obj\Debug\Tez2.Form5.resources
+C:\Users\Ayça\documents\visual studio 2015\Projects\Tez2\Tez2\obj\Debug\Tez2.Form6.resources
+C:\Users\Ayça\documents\visual studio 2015\Projects\Tez2\Tez2\obj\Debug\Tez2.Form7.resources
+C:\Users\Ayça\documents\visual studio 2015\Projects\Tez2\Tez2\obj\Debug\Tez2.Properties.Resources.resources
+C:\Users\Ayça\documents\visual studio 2015\Projects\Tez2\Tez2\obj\Debug\Tez2.csproj.GenerateResource.Cache
+C:\Users\Ayça\documents\visual studio 2015\Projects\Tez2\Tez2\bin\Debug\Tez2.exe
+C:\Users\Ayça\documents\visual studio 2015\Projects\Tez2\Tez2\bin\Debug\Tez2.pdb
+C:\Users\Ayça\documents\visual studio 2015\Projects\Tez2\Tez2\obj\Debug\Tez2.exe
+C:\Users\Ayça\documents\visual studio 2015\Projects\Tez2\Tez2\obj\Debug\Tez2.pdb

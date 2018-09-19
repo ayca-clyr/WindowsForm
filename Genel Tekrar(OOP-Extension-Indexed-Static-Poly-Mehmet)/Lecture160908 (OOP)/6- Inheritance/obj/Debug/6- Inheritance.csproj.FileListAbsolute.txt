@@ -1,0 +1,2 @@
+C:\Users\BA\Documents\Visual Studio 2013\Projects\160908\160909\Lecture160908 (OOP)\6- Inheritance\bin\Debug\6- Inheritance.exe.config
+C:\Users\BA\Documents\Visual Studio 2013\Projects\Lecture160908 (OOP)\6- Inheritance\bin\Debug\6- Inheritance.exe.config

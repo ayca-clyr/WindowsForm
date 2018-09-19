@@ -1,0 +1,9 @@
+C:\Users\BA\Documents\Visual Studio 2013\Projects\Object_Oriented_Programming\StructWinForms\bin\Debug\StructWinForms.exe.config
+C:\Users\BA\Documents\Visual Studio 2013\Projects\Object_Oriented_Programming\StructWinForms\obj\Debug\StructWinForms.csprojResolveAssemblyReference.cache
+C:\Users\BA\Documents\Visual Studio 2013\Projects\Object_Oriented_Programming\StructWinForms\obj\Debug\StructWinForms.Form1.resources
+C:\Users\BA\Documents\Visual Studio 2013\Projects\Object_Oriented_Programming\StructWinForms\obj\Debug\StructWinForms.Properties.Resources.resources
+C:\Users\BA\Documents\Visual Studio 2013\Projects\Object_Oriented_Programming\StructWinForms\obj\Debug\StructWinForms.csproj.GenerateResource.Cache
+C:\Users\BA\Documents\Visual Studio 2013\Projects\Object_Oriented_Programming\StructWinForms\bin\Debug\StructWinForms.exe
+C:\Users\BA\Documents\Visual Studio 2013\Projects\Object_Oriented_Programming\StructWinForms\bin\Debug\StructWinForms.pdb
+C:\Users\BA\Documents\Visual Studio 2013\Projects\Object_Oriented_Programming\StructWinForms\obj\Debug\StructWinForms.exe
+C:\Users\BA\Documents\Visual Studio 2013\Projects\Object_Oriented_Programming\StructWinForms\obj\Debug\StructWinForms.pdb

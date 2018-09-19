@@ -1,0 +1,17 @@
+C:\Users\Gunaydın\Documents\Visual Studio 2013\Projects\GenelTekrar\13-MoveButtons\bin\Debug\13-MoveButtons.exe.config
+C:\Users\Gunaydın\Documents\Visual Studio 2013\Projects\GenelTekrar\13-MoveButtons\bin\Debug\13-MoveButtons.exe
+C:\Users\Gunaydın\Documents\Visual Studio 2013\Projects\GenelTekrar\13-MoveButtons\bin\Debug\13-MoveButtons.pdb
+C:\Users\Gunaydın\Documents\Visual Studio 2013\Projects\GenelTekrar\13-MoveButtons\obj\Debug\_13_MoveButtons.Form1.resources
+C:\Users\Gunaydın\Documents\Visual Studio 2013\Projects\GenelTekrar\13-MoveButtons\obj\Debug\_13_MoveButtons.Properties.Resources.resources
+C:\Users\Gunaydın\Documents\Visual Studio 2013\Projects\GenelTekrar\13-MoveButtons\obj\Debug\13-MoveButtons.csproj.GenerateResource.Cache
+C:\Users\Gunaydın\Documents\Visual Studio 2013\Projects\GenelTekrar\13-MoveButtons\obj\Debug\13-MoveButtons.exe
+C:\Users\Gunaydın\Documents\Visual Studio 2013\Projects\GenelTekrar\13-MoveButtons\obj\Debug\13-MoveButtons.pdb
+C:\Users\Ayça\Desktop\Bilge Adam\drive-download-20161214T123646Z\GenelTekrar\GenelTekrar\GenelTekrar\13-MoveButtons\bin\Debug\13-MoveButtons.exe.config
+C:\Users\Ayça\Desktop\Bilge Adam\drive-download-20161214T123646Z\GenelTekrar\GenelTekrar\GenelTekrar\13-MoveButtons\bin\Debug\13-MoveButtons.exe
+C:\Users\Ayça\Desktop\Bilge Adam\drive-download-20161214T123646Z\GenelTekrar\GenelTekrar\GenelTekrar\13-MoveButtons\bin\Debug\13-MoveButtons.pdb
+C:\Users\Ayça\Desktop\Bilge Adam\drive-download-20161214T123646Z\GenelTekrar\GenelTekrar\GenelTekrar\13-MoveButtons\obj\Debug\_13_MoveButtons.Form1.resources
+C:\Users\Ayça\Desktop\Bilge Adam\drive-download-20161214T123646Z\GenelTekrar\GenelTekrar\GenelTekrar\13-MoveButtons\obj\Debug\_13_MoveButtons.Properties.Resources.resources
+C:\Users\Ayça\Desktop\Bilge Adam\drive-download-20161214T123646Z\GenelTekrar\GenelTekrar\GenelTekrar\13-MoveButtons\obj\Debug\13-MoveButtons.csproj.GenerateResource.Cache
+C:\Users\Ayça\Desktop\Bilge Adam\drive-download-20161214T123646Z\GenelTekrar\GenelTekrar\GenelTekrar\13-MoveButtons\obj\Debug\13-MoveButtons.csproj.CoreCompileInputs.cache
+C:\Users\Ayça\Desktop\Bilge Adam\drive-download-20161214T123646Z\GenelTekrar\GenelTekrar\GenelTekrar\13-MoveButtons\obj\Debug\13-MoveButtons.exe
+C:\Users\Ayça\Desktop\Bilge Adam\drive-download-20161214T123646Z\GenelTekrar\GenelTekrar\GenelTekrar\13-MoveButtons\obj\Debug\13-MoveButtons.pdb

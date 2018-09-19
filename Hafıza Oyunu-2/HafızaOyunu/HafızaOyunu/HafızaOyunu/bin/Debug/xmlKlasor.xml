@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Oluşturulan xml hakkında bilgi-->
+<Rekor>
+  <Kisiler>
+    <adi>ttt</adi>
+    <puan>840</puan>
+  </Kisiler>
+  <Kisiler>
+    <adi>turgay</adi>
+    <puan>830</puan>
+  </Kisiler>
+  <Kisiler>
+    <adi>Oğuzhan</adi>
+    <puan>820</puan>
+  </Kisiler>
+  <Kisiler>
+    <adi>as</adi>
+    <puan>710</puan>
+  </Kisiler>
+  <Kisiler>
+    <adi>Beşiktaş</adi>
+    <puan>860</puan>
+  </Kisiler>
+  <Kisiler>
+    <adi>Olcay</adi>
+    <puan>760</puan>
+  </Kisiler>
+  <Kisiler>
+    <adi>Aboubakar</adi>
+    <puan>1060</puan>
+  </Kisiler>
+  <Kisiler>
+    <adi>Gökhan Gönül</adi>
+    <puan>1370</puan>
+  </Kisiler>
+  <Kisiler>
+    <adi>Fabricio</adi>
+    <puan>690</puan>
+  </Kisiler>
+  <Kisiler>
+    <adi>Atiba</adi>
+    <puan>1250</puan>
+  </Kisiler>
+  <Kisiler>
+    <adi>Cenk Tosun</adi>
+    <puan>1060</puan>
+  </Kisiler>
+  <Kisiler>
+    <adi>Tolgay Arslan</adi>
+    <puan>1030</puan>
+  </Kisiler>
+  <Kisiler>
+    <adi>muhittin</adi>
+    <puan>690</puan>
+  </Kisiler>
+  <Kisiler>
+    <adi>asd</adi>
+    <puan>760</puan>
+  </Kisiler>
+</Rekor>

@@ -1,0 +1,79 @@
+c:\users\ba\documents\visual studio 2013\Projects\160906 Hafıza Oyunu\160906 Hafıza Oyunu\bin\Debug\160906 Hafıza Oyunu.exe.config
+c:\users\ba\documents\visual studio 2013\Projects\160906 Hafıza Oyunu\160906 Hafıza Oyunu\bin\Debug\160906 Hafıza Oyunu.exe
+c:\users\ba\documents\visual studio 2013\Projects\160906 Hafıza Oyunu\160906 Hafıza Oyunu\bin\Debug\160906 Hafıza Oyunu.pdb
+c:\users\ba\documents\visual studio 2013\Projects\160906 Hafıza Oyunu\160906 Hafıza Oyunu\obj\Debug\160906 Hafıza Oyunu.csprojResolveAssemblyReference.cache
+c:\users\ba\documents\visual studio 2013\Projects\160906 Hafıza Oyunu\160906 Hafıza Oyunu\obj\Debug\_160906_Hafıza_Oyunu.Form1.resources
+c:\users\ba\documents\visual studio 2013\Projects\160906 Hafıza Oyunu\160906 Hafıza Oyunu\obj\Debug\_160906_Hafıza_Oyunu.Properties.Resources.resources
+c:\users\ba\documents\visual studio 2013\Projects\160906 Hafıza Oyunu\160906 Hafıza Oyunu\obj\Debug\160906 Hafıza Oyunu.csproj.GenerateResource.Cache
+c:\users\ba\documents\visual studio 2013\Projects\160906 Hafıza Oyunu\160906 Hafıza Oyunu\obj\Debug\160906 Hafıza Oyunu.exe
+c:\users\ba\documents\visual studio 2013\Projects\160906 Hafıza Oyunu\160906 Hafıza Oyunu\obj\Debug\160906 Hafıza Oyunu.pdb
+C:\Users\BA\Documents\visual studio 2013\Projects\160906 Hafıza Oyunu\160906 Hafıza Oyunu\obj\Debug\_160906_Hafıza_Oyunu.OyunEkranı.resources
+C:\Users\BA\Downloads\Stage Windows Form\Stage Windows Form\Stage Windows Form\160906 Hafıza Oyunu\160906 Hafıza Oyunu\bin\Debug\160906 Hafıza Oyunu.exe.config
+C:\Users\BA\Downloads\Stage Windows Form\Stage Windows Form\Stage Windows Form\160906 Hafıza Oyunu\160906 Hafıza Oyunu\obj\Debug\160906 Hafıza Oyunu.exe
+C:\Users\BA\Downloads\Stage Windows Form\Stage Windows Form\Stage Windows Form\160906 Hafıza Oyunu\160906 Hafıza Oyunu\obj\Debug\160906 Hafıza Oyunu.pdb
+C:\Users\BA\Downloads\Stage Windows Form\Stage Windows Form\Stage Windows Form\160906 Hafıza Oyunu\160906 Hafıza Oyunu\bin\Debug\160906 Hafıza Oyunu.exe
+C:\Users\BA\Downloads\Stage Windows Form\Stage Windows Form\Stage Windows Form\160906 Hafıza Oyunu\160906 Hafıza Oyunu\bin\Debug\160906 Hafıza Oyunu.pdb
+C:\Users\BA\Downloads\Stage Windows Form\Stage Windows Form\Stage Windows Form\160906 Hafıza Oyunu\160906 Hafıza Oyunu\obj\Debug\160906 Hafıza Oyunu.csprojResolveAssemblyReference.cache
+C:\Users\BA\Downloads\Stage Windows Form\Stage Windows Form\Stage Windows Form\160906 Hafıza Oyunu\160906 Hafıza Oyunu\obj\Debug\_160906_Hafıza_Oyunu.Form1.resources
+C:\Users\BA\Downloads\Stage Windows Form\Stage Windows Form\Stage Windows Form\160906 Hafıza Oyunu\160906 Hafıza Oyunu\obj\Debug\_160906_Hafıza_Oyunu.OyunEkranı.resources
+C:\Users\BA\Downloads\Stage Windows Form\Stage Windows Form\Stage Windows Form\160906 Hafıza Oyunu\160906 Hafıza Oyunu\obj\Debug\_160906_Hafıza_Oyunu.Properties.Resources.resources
+C:\Users\BA\Downloads\Stage Windows Form\Stage Windows Form\Stage Windows Form\160906 Hafıza Oyunu\160906 Hafıza Oyunu\obj\Debug\160906 Hafıza Oyunu.csproj.GenerateResource.Cache
+C:\Users\Gunaydın\Desktop\Stage Windows Form\Stage Windows Form\160906 Hafıza Oyunu\160906 Hafıza Oyunu\bin\Debug\160906 Hafıza Oyunu.exe.config
+C:\Users\Gunaydın\Desktop\Stage Windows Form\Stage Windows Form\160906 Hafıza Oyunu\160906 Hafıza Oyunu\obj\Debug\160906 Hafıza Oyunu.exe
+C:\Users\Gunaydın\Desktop\Stage Windows Form\Stage Windows Form\160906 Hafıza Oyunu\160906 Hafıza Oyunu\obj\Debug\160906 Hafıza Oyunu.pdb
+C:\Users\Gunaydın\Desktop\Stage Windows Form\Stage Windows Form\160906 Hafıza Oyunu\160906 Hafıza Oyunu\bin\Debug\160906 Hafıza Oyunu.exe
+C:\Users\Gunaydın\Desktop\Stage Windows Form\Stage Windows Form\160906 Hafıza Oyunu\160906 Hafıza Oyunu\bin\Debug\160906 Hafıza Oyunu.pdb
+C:\Users\Gunaydın\Desktop\Stage Windows Form\Stage Windows Form\160906 Hafıza Oyunu\160906 Hafıza Oyunu\obj\Debug\160906 Hafıza Oyunu.csprojResolveAssemblyReference.cache
+C:\Users\Gunaydın\Desktop\Stage Windows Form\Stage Windows Form\160906 Hafıza Oyunu\160906 Hafıza Oyunu\obj\Debug\_160906_Hafıza_Oyunu.Form1.resources
+C:\Users\Gunaydın\Desktop\Stage Windows Form\Stage Windows Form\160906 Hafıza Oyunu\160906 Hafıza Oyunu\obj\Debug\_160906_Hafıza_Oyunu.OyunEkranı.resources
+C:\Users\Gunaydın\Desktop\Stage Windows Form\Stage Windows Form\160906 Hafıza Oyunu\160906 Hafıza Oyunu\obj\Debug\_160906_Hafıza_Oyunu.Properties.Resources.resources
+C:\Users\Gunaydın\Desktop\Stage Windows Form\Stage Windows Form\160906 Hafıza Oyunu\160906 Hafıza Oyunu\obj\Debug\160906 Hafıza Oyunu.csproj.GenerateResource.Cache
+C:\Users\Gunaydın\Desktop\Stage Windows Form\Stage Windows Form\160906 Hafıza Oyunu\160906 Hafıza Oyunu\obj\Debug\_160906_Hafıza_Oyunu.KullanıcıKayıt.resources
+C:\Users\BA\Desktop\Stage Windows Form\160906 Hafıza Oyunu\160906 Hafıza Oyunu\bin\Debug\160906 Hafıza Oyunu.exe.config
+C:\Users\BA\Desktop\Stage Windows Form\160906 Hafıza Oyunu\160906 Hafıza Oyunu\obj\Debug\160906 Hafıza Oyunu.exe
+C:\Users\BA\Desktop\Stage Windows Form\160906 Hafıza Oyunu\160906 Hafıza Oyunu\obj\Debug\160906 Hafıza Oyunu.pdb
+C:\Users\BA\Desktop\Stage Windows Form\160906 Hafıza Oyunu\160906 Hafıza Oyunu\bin\Debug\160906 Hafıza Oyunu.exe
+C:\Users\BA\Desktop\Stage Windows Form\160906 Hafıza Oyunu\160906 Hafıza Oyunu\bin\Debug\160906 Hafıza Oyunu.pdb
+C:\Users\BA\Desktop\Stage Windows Form\160906 Hafıza Oyunu\160906 Hafıza Oyunu\obj\Debug\160906 Hafıza Oyunu.csprojResolveAssemblyReference.cache
+C:\Users\BA\Desktop\Stage Windows Form\160906 Hafıza Oyunu\160906 Hafıza Oyunu\obj\Debug\_160906_Hafıza_Oyunu.Form1.resources
+C:\Users\BA\Desktop\Stage Windows Form\160906 Hafıza Oyunu\160906 Hafıza Oyunu\obj\Debug\_160906_Hafıza_Oyunu.KullanıcıKayıt.resources
+C:\Users\BA\Desktop\Stage Windows Form\160906 Hafıza Oyunu\160906 Hafıza Oyunu\obj\Debug\_160906_Hafıza_Oyunu.OyunEkranı.resources
+C:\Users\BA\Desktop\Stage Windows Form\160906 Hafıza Oyunu\160906 Hafıza Oyunu\obj\Debug\_160906_Hafıza_Oyunu.Properties.Resources.resources
+C:\Users\BA\Desktop\Stage Windows Form\160906 Hafıza Oyunu\160906 Hafıza Oyunu\obj\Debug\160906 Hafıza Oyunu.csproj.GenerateResource.Cache
+C:\Users\Gunaydın\Desktop\Telefon defteri - Hafıza Oyunu- Kart Dağıtım Uygulaması Versiyon 2\160906 Hafıza Oyunu\160906 Hafıza Oyunu\bin\Debug\160906 Hafıza Oyunu.exe.config
+C:\Users\Gunaydın\Desktop\Telefon defteri - Hafıza Oyunu- Kart Dağıtım Uygulaması Versiyon 2\160906 Hafıza Oyunu\160906 Hafıza Oyunu\obj\Debug\160906 Hafıza Oyunu.exe
+C:\Users\Gunaydın\Desktop\Telefon defteri - Hafıza Oyunu- Kart Dağıtım Uygulaması Versiyon 2\160906 Hafıza Oyunu\160906 Hafıza Oyunu\obj\Debug\160906 Hafıza Oyunu.pdb
+C:\Users\Gunaydın\Desktop\Telefon defteri - Hafıza Oyunu- Kart Dağıtım Uygulaması Versiyon 2\160906 Hafıza Oyunu\160906 Hafıza Oyunu\bin\Debug\160906 Hafıza Oyunu.exe
+C:\Users\Gunaydın\Desktop\Telefon defteri - Hafıza Oyunu- Kart Dağıtım Uygulaması Versiyon 2\160906 Hafıza Oyunu\160906 Hafıza Oyunu\bin\Debug\160906 Hafıza Oyunu.pdb
+C:\Users\Gunaydın\Desktop\Telefon defteri - Hafıza Oyunu- Kart Dağıtım Uygulaması Versiyon 2\160906 Hafıza Oyunu\160906 Hafıza Oyunu\obj\Debug\160906 Hafıza Oyunu.csprojResolveAssemblyReference.cache
+C:\Users\Gunaydın\Desktop\Telefon defteri - Hafıza Oyunu- Kart Dağıtım Uygulaması Versiyon 2\160906 Hafıza Oyunu\160906 Hafıza Oyunu\obj\Debug\_160906_Hafıza_Oyunu.Form1.resources
+C:\Users\Gunaydın\Desktop\Telefon defteri - Hafıza Oyunu- Kart Dağıtım Uygulaması Versiyon 2\160906 Hafıza Oyunu\160906 Hafıza Oyunu\obj\Debug\_160906_Hafıza_Oyunu.KullanıcıKayıt.resources
+C:\Users\Gunaydın\Desktop\Telefon defteri - Hafıza Oyunu- Kart Dağıtım Uygulaması Versiyon 2\160906 Hafıza Oyunu\160906 Hafıza Oyunu\obj\Debug\_160906_Hafıza_Oyunu.OyunEkranı.resources
+C:\Users\Gunaydın\Desktop\Telefon defteri - Hafıza Oyunu- Kart Dağıtım Uygulaması Versiyon 2\160906 Hafıza Oyunu\160906 Hafıza Oyunu\obj\Debug\_160906_Hafıza_Oyunu.Properties.Resources.resources
+C:\Users\Gunaydın\Desktop\Telefon defteri - Hafıza Oyunu- Kart Dağıtım Uygulaması Versiyon 2\160906 Hafıza Oyunu\160906 Hafıza Oyunu\obj\Debug\160906 Hafıza Oyunu.csproj.GenerateResource.Cache
+C:\Users\Gunaydın\Desktop\Stage Windows Form\Stage Windows Form\Erdi Hoca\160906 Hafıza Oyunu\160906 Hafıza Oyunu\bin\Debug\160906 Hafıza Oyunu.exe.config
+C:\Users\Gunaydın\Desktop\Stage Windows Form\Stage Windows Form\Erdi Hoca\160906 Hafıza Oyunu\160906 Hafıza Oyunu\obj\Debug\160906 Hafıza Oyunu.exe
+C:\Users\Gunaydın\Desktop\Stage Windows Form\Stage Windows Form\Erdi Hoca\160906 Hafıza Oyunu\160906 Hafıza Oyunu\obj\Debug\160906 Hafıza Oyunu.pdb
+C:\Users\Bilall\Downloads\Stage Windows Form\Stage Windows Form\Stage Windows Form\Erdi Hoca\160906 Hafıza Oyunu\160906 Hafıza Oyunu\bin\Debug\160906 Hafıza Oyunu.exe.config
+C:\Users\Bilall\Downloads\Stage Windows Form\Stage Windows Form\Stage Windows Form\Erdi Hoca\160906 Hafıza Oyunu\160906 Hafıza Oyunu\obj\Debug\160906 Hafıza Oyunu.exe
+C:\Users\Bilall\Downloads\Stage Windows Form\Stage Windows Form\Stage Windows Form\Erdi Hoca\160906 Hafıza Oyunu\160906 Hafıza Oyunu\obj\Debug\160906 Hafıza Oyunu.pdb
+C:\Users\Bilall\Downloads\Stage Windows Form\Stage Windows Form\Stage Windows Form\Erdi Hoca\160906 Hafıza Oyunu\160906 Hafıza Oyunu\bin\Debug\160906 Hafıza Oyunu.exe
+C:\Users\Bilall\Downloads\Stage Windows Form\Stage Windows Form\Stage Windows Form\Erdi Hoca\160906 Hafıza Oyunu\160906 Hafıza Oyunu\bin\Debug\160906 Hafıza Oyunu.pdb
+C:\Users\Bilall\Downloads\Stage Windows Form\Stage Windows Form\Stage Windows Form\Erdi Hoca\160906 Hafıza Oyunu\160906 Hafıza Oyunu\obj\Debug\160906 Hafıza Oyunu.csprojResolveAssemblyReference.cache
+C:\Users\Bilall\Downloads\Stage Windows Form\Stage Windows Form\Stage Windows Form\Erdi Hoca\160906 Hafıza Oyunu\160906 Hafıza Oyunu\obj\Debug\_160906_Hafıza_Oyunu.Form1.resources
+C:\Users\Bilall\Downloads\Stage Windows Form\Stage Windows Form\Stage Windows Form\Erdi Hoca\160906 Hafıza Oyunu\160906 Hafıza Oyunu\obj\Debug\_160906_Hafıza_Oyunu.KullanıcıKayıt.resources
+C:\Users\Bilall\Downloads\Stage Windows Form\Stage Windows Form\Stage Windows Form\Erdi Hoca\160906 Hafıza Oyunu\160906 Hafıza Oyunu\obj\Debug\_160906_Hafıza_Oyunu.OyunEkranı.resources
+C:\Users\Bilall\Downloads\Stage Windows Form\Stage Windows Form\Stage Windows Form\Erdi Hoca\160906 Hafıza Oyunu\160906 Hafıza Oyunu\obj\Debug\_160906_Hafıza_Oyunu.Properties.Resources.resources
+C:\Users\Bilall\Downloads\Stage Windows Form\Stage Windows Form\Stage Windows Form\Erdi Hoca\160906 Hafıza Oyunu\160906 Hafıza Oyunu\obj\Debug\160906 Hafıza Oyunu.csproj.GenerateResource.Cache
+C:\Users\Ayça\Desktop\Bilge Adam\drive-download-20161214T123646Z\Erdi Hoca\160906 Hafıza Oyunu\160906 Hafıza Oyunu\bin\Debug\160906 Hafıza Oyunu.exe.config
+C:\Users\Ayça\Desktop\Bilge Adam\drive-download-20161214T123646Z\Erdi Hoca\160906 Hafıza Oyunu\160906 Hafıza Oyunu\bin\Debug\160906 Hafıza Oyunu.exe
+C:\Users\Ayça\Desktop\Bilge Adam\drive-download-20161214T123646Z\Erdi Hoca\160906 Hafıza Oyunu\160906 Hafıza Oyunu\bin\Debug\160906 Hafıza Oyunu.pdb
+C:\Users\Ayça\Desktop\Bilge Adam\drive-download-20161214T123646Z\Erdi Hoca\160906 Hafıza Oyunu\160906 Hafıza Oyunu\obj\Debug\160906 Hafıza Oyunu.csprojResolveAssemblyReference.cache
+C:\Users\Ayça\Desktop\Bilge Adam\drive-download-20161214T123646Z\Erdi Hoca\160906 Hafıza Oyunu\160906 Hafıza Oyunu\obj\Debug\_160906_Hafıza_Oyunu.Form1.resources
+C:\Users\Ayça\Desktop\Bilge Adam\drive-download-20161214T123646Z\Erdi Hoca\160906 Hafıza Oyunu\160906 Hafıza Oyunu\obj\Debug\_160906_Hafıza_Oyunu.KullanıcıKayıt.resources
+C:\Users\Ayça\Desktop\Bilge Adam\drive-download-20161214T123646Z\Erdi Hoca\160906 Hafıza Oyunu\160906 Hafıza Oyunu\obj\Debug\_160906_Hafıza_Oyunu.OyunEkranı.resources
+C:\Users\Ayça\Desktop\Bilge Adam\drive-download-20161214T123646Z\Erdi Hoca\160906 Hafıza Oyunu\160906 Hafıza Oyunu\obj\Debug\_160906_Hafıza_Oyunu.Properties.Resources.resources
+C:\Users\Ayça\Desktop\Bilge Adam\drive-download-20161214T123646Z\Erdi Hoca\160906 Hafıza Oyunu\160906 Hafıza Oyunu\obj\Debug\160906 Hafıza Oyunu.csproj.GenerateResource.Cache
+C:\Users\Ayça\Desktop\Bilge Adam\drive-download-20161214T123646Z\Erdi Hoca\160906 Hafıza Oyunu\160906 Hafıza Oyunu\obj\Debug\160906 Hafıza Oyunu.csproj.CoreCompileInputs.cache
+C:\Users\Ayça\Desktop\Bilge Adam\drive-download-20161214T123646Z\Erdi Hoca\160906 Hafıza Oyunu\160906 Hafıza Oyunu\obj\Debug\160906 Hafıza Oyunu.exe
+C:\Users\Ayça\Desktop\Bilge Adam\drive-download-20161214T123646Z\Erdi Hoca\160906 Hafıza Oyunu\160906 Hafıza Oyunu\obj\Debug\160906 Hafıza Oyunu.pdb

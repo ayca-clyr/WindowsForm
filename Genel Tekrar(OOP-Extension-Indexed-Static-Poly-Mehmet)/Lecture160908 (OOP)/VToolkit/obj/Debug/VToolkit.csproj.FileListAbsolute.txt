@@ -1,0 +1,5 @@
+C:\Users\BA\Documents\Visual Studio 2013\Projects\Lecture160908 (OOP)\VToolkit\bin\Debug\VToolkit.dll
+C:\Users\BA\Documents\Visual Studio 2013\Projects\Lecture160908 (OOP)\VToolkit\bin\Debug\VToolkit.pdb
+C:\Users\BA\Documents\Visual Studio 2013\Projects\Lecture160908 (OOP)\VToolkit\obj\Debug\VToolkit.csprojResolveAssemblyReference.cache
+C:\Users\BA\Documents\Visual Studio 2013\Projects\Lecture160908 (OOP)\VToolkit\obj\Debug\VToolkit.dll
+C:\Users\BA\Documents\Visual Studio 2013\Projects\Lecture160908 (OOP)\VToolkit\obj\Debug\VToolkit.pdb

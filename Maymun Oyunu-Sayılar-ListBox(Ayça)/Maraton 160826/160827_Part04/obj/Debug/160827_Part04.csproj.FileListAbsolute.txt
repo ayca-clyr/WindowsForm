@@ -1,0 +1,28 @@
+C:\Users\Ayça\Downloads\160826_Maraton\Maraton 160826\160827_Part04\bin\Debug\160827_Part04.exe.config
+C:\Users\Ayça\Downloads\160826_Maraton\Maraton 160826\160827_Part04\bin\Debug\160827_Part04.exe
+C:\Users\Ayça\Downloads\160826_Maraton\Maraton 160826\160827_Part04\bin\Debug\160827_Part04.pdb
+C:\Users\Ayça\Downloads\160826_Maraton\Maraton 160826\160827_Part04\obj\Debug\160827_Part04.csprojResolveAssemblyReference.cache
+C:\Users\Ayça\Downloads\160826_Maraton\Maraton 160826\160827_Part04\obj\Debug\_160827_Part04.Form1.resources
+C:\Users\Ayça\Downloads\160826_Maraton\Maraton 160826\160827_Part04\obj\Debug\_160827_Part04.Properties.Resources.resources
+C:\Users\Ayça\Downloads\160826_Maraton\Maraton 160826\160827_Part04\obj\Debug\160827_Part04.csproj.GenerateResource.Cache
+C:\Users\Ayça\Downloads\160826_Maraton\Maraton 160826\160827_Part04\obj\Debug\160827_Part04.exe
+C:\Users\Ayça\Downloads\160826_Maraton\Maraton 160826\160827_Part04\obj\Debug\160827_Part04.pdb
+C:\Users\Ayça\Desktop\Bilge Adam\160826_Maraton\Maraton 160826\160827_Part04\bin\Debug\160827_Part04.exe.config
+C:\Users\Ayça\Desktop\Bilge Adam\160826_Maraton\Maraton 160826\160827_Part04\obj\Debug\160827_Part04.exe
+C:\Users\Ayça\Desktop\Bilge Adam\160826_Maraton\Maraton 160826\160827_Part04\obj\Debug\160827_Part04.pdb
+C:\Users\Ayça\Desktop\Bilge Adam\160826_Maraton\Maraton 160826\160827_Part04\bin\Debug\160827_Part04.exe
+C:\Users\Ayça\Desktop\Bilge Adam\160826_Maraton\Maraton 160826\160827_Part04\bin\Debug\160827_Part04.pdb
+C:\Users\Ayça\Desktop\Bilge Adam\160826_Maraton\Maraton 160826\160827_Part04\obj\Debug\160827_Part04.csprojResolveAssemblyReference.cache
+C:\Users\Ayça\Desktop\Bilge Adam\160826_Maraton\Maraton 160826\160827_Part04\obj\Debug\_160827_Part04.Form1.resources
+C:\Users\Ayça\Desktop\Bilge Adam\160826_Maraton\Maraton 160826\160827_Part04\obj\Debug\_160827_Part04.Properties.Resources.resources
+C:\Users\Ayça\Desktop\Bilge Adam\160826_Maraton\Maraton 160826\160827_Part04\obj\Debug\160827_Part04.csproj.GenerateResource.Cache
+C:\Users\Ayça\Desktop\Bilge Adam\C#\160826_Maraton\Maraton 160826\160827_Part04\bin\Debug\160827_Part04.exe.config
+C:\Users\Ayça\Desktop\Bilge Adam\C#\160826_Maraton\Maraton 160826\160827_Part04\bin\Debug\160827_Part04.exe
+C:\Users\Ayça\Desktop\Bilge Adam\C#\160826_Maraton\Maraton 160826\160827_Part04\bin\Debug\160827_Part04.pdb
+C:\Users\Ayça\Desktop\Bilge Adam\C#\160826_Maraton\Maraton 160826\160827_Part04\obj\Debug\160827_Part04.csprojResolveAssemblyReference.cache
+C:\Users\Ayça\Desktop\Bilge Adam\C#\160826_Maraton\Maraton 160826\160827_Part04\obj\Debug\_160827_Part04.Form1.resources
+C:\Users\Ayça\Desktop\Bilge Adam\C#\160826_Maraton\Maraton 160826\160827_Part04\obj\Debug\_160827_Part04.Properties.Resources.resources
+C:\Users\Ayça\Desktop\Bilge Adam\C#\160826_Maraton\Maraton 160826\160827_Part04\obj\Debug\160827_Part04.csproj.GenerateResource.Cache
+C:\Users\Ayça\Desktop\Bilge Adam\C#\160826_Maraton\Maraton 160826\160827_Part04\obj\Debug\160827_Part04.csproj.CoreCompileInputs.cache
+C:\Users\Ayça\Desktop\Bilge Adam\C#\160826_Maraton\Maraton 160826\160827_Part04\obj\Debug\160827_Part04.exe
+C:\Users\Ayça\Desktop\Bilge Adam\C#\160826_Maraton\Maraton 160826\160827_Part04\obj\Debug\160827_Part04.pdb

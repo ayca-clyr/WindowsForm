@@ -1,0 +1,25 @@
+c:\users\nbuy_ogrenci\documents\visual studio 2013\Projects\Etüt_160928\Lecture_160928\bin\Debug\Lecture_160928.exe.config
+c:\users\nbuy_ogrenci\documents\visual studio 2013\Projects\Etüt_160928\Lecture_160928\bin\Debug\Lecture_160928.exe
+c:\users\nbuy_ogrenci\documents\visual studio 2013\Projects\Etüt_160928\Lecture_160928\bin\Debug\Lecture_160928.pdb
+c:\users\nbuy_ogrenci\documents\visual studio 2013\Projects\Etüt_160928\Lecture_160928\obj\Debug\Lecture_160928.csprojResolveAssemblyReference.cache
+c:\users\nbuy_ogrenci\documents\visual studio 2013\Projects\Etüt_160928\Lecture_160928\obj\Debug\Lecture_160928.Form1.resources
+c:\users\nbuy_ogrenci\documents\visual studio 2013\Projects\Etüt_160928\Lecture_160928\obj\Debug\Lecture_160928.Properties.Resources.resources
+c:\users\nbuy_ogrenci\documents\visual studio 2013\Projects\Etüt_160928\Lecture_160928\obj\Debug\Lecture_160928.csproj.GenerateResource.Cache
+c:\users\nbuy_ogrenci\documents\visual studio 2013\Projects\Etüt_160928\Lecture_160928\obj\Debug\Lecture_160928.exe
+c:\users\nbuy_ogrenci\documents\visual studio 2013\Projects\Etüt_160928\Lecture_160928\obj\Debug\Lecture_160928.pdb
+c:\users\nbuy_ogrenci\documents\visual studio 2013\Projects\Etüt_160928\Lecture_160928\obj\Debug\Lecture_160928.FormToplama.resources
+c:\users\nbuy_ogrenci\documents\visual studio 2013\Projects\Etüt_160928\Lecture_160928\obj\Debug\Lecture_160928.Form3.resources
+c:\users\nbuy_ogrenci\documents\visual studio 2013\Projects\Etüt_160928\Lecture_160928\obj\Debug\Lecture_160928.Form4.resources
+C:\Users\Ayça\Desktop\Bilge Adam\drive-download-20161214T123646Z\Etüt_160928\Etüt_160928\Lecture_160928\bin\Debug\Lecture_160928.exe.config
+C:\Users\Ayça\Desktop\Bilge Adam\drive-download-20161214T123646Z\Etüt_160928\Etüt_160928\Lecture_160928\bin\Debug\Lecture_160928.exe
+C:\Users\Ayça\Desktop\Bilge Adam\drive-download-20161214T123646Z\Etüt_160928\Etüt_160928\Lecture_160928\bin\Debug\Lecture_160928.pdb
+C:\Users\Ayça\Desktop\Bilge Adam\drive-download-20161214T123646Z\Etüt_160928\Etüt_160928\Lecture_160928\obj\Debug\Lecture_160928.csprojResolveAssemblyReference.cache
+C:\Users\Ayça\Desktop\Bilge Adam\drive-download-20161214T123646Z\Etüt_160928\Etüt_160928\Lecture_160928\obj\Debug\Lecture_160928.Form1.resources
+C:\Users\Ayça\Desktop\Bilge Adam\drive-download-20161214T123646Z\Etüt_160928\Etüt_160928\Lecture_160928\obj\Debug\Lecture_160928.Form3.resources
+C:\Users\Ayça\Desktop\Bilge Adam\drive-download-20161214T123646Z\Etüt_160928\Etüt_160928\Lecture_160928\obj\Debug\Lecture_160928.Form4.resources
+C:\Users\Ayça\Desktop\Bilge Adam\drive-download-20161214T123646Z\Etüt_160928\Etüt_160928\Lecture_160928\obj\Debug\Lecture_160928.FormToplama.resources
+C:\Users\Ayça\Desktop\Bilge Adam\drive-download-20161214T123646Z\Etüt_160928\Etüt_160928\Lecture_160928\obj\Debug\Lecture_160928.Properties.Resources.resources
+C:\Users\Ayça\Desktop\Bilge Adam\drive-download-20161214T123646Z\Etüt_160928\Etüt_160928\Lecture_160928\obj\Debug\Lecture_160928.csproj.GenerateResource.Cache
+C:\Users\Ayça\Desktop\Bilge Adam\drive-download-20161214T123646Z\Etüt_160928\Etüt_160928\Lecture_160928\obj\Debug\Lecture_160928.csproj.CoreCompileInputs.cache
+C:\Users\Ayça\Desktop\Bilge Adam\drive-download-20161214T123646Z\Etüt_160928\Etüt_160928\Lecture_160928\obj\Debug\Lecture_160928.exe
+C:\Users\Ayça\Desktop\Bilge Adam\drive-download-20161214T123646Z\Etüt_160928\Etüt_160928\Lecture_160928\obj\Debug\Lecture_160928.pdb

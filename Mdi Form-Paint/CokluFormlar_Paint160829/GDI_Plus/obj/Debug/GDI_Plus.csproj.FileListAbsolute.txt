@@ -1,0 +1,9 @@
+C:\Users\BA\documents\visual studio 2013\Projects\CokluFormlar_160829\GDI_Plus\bin\Debug\GDI_Plus.exe.config
+C:\Users\BA\documents\visual studio 2013\Projects\CokluFormlar_160829\GDI_Plus\bin\Debug\GDI_Plus.exe
+C:\Users\BA\documents\visual studio 2013\Projects\CokluFormlar_160829\GDI_Plus\bin\Debug\GDI_Plus.pdb
+C:\Users\BA\documents\visual studio 2013\Projects\CokluFormlar_160829\GDI_Plus\obj\Debug\GDI_Plus.csprojResolveAssemblyReference.cache
+C:\Users\BA\documents\visual studio 2013\Projects\CokluFormlar_160829\GDI_Plus\obj\Debug\GDI_Plus.Form1.resources
+C:\Users\BA\documents\visual studio 2013\Projects\CokluFormlar_160829\GDI_Plus\obj\Debug\GDI_Plus.Properties.Resources.resources
+C:\Users\BA\documents\visual studio 2013\Projects\CokluFormlar_160829\GDI_Plus\obj\Debug\GDI_Plus.csproj.GenerateResource.Cache
+C:\Users\BA\documents\visual studio 2013\Projects\CokluFormlar_160829\GDI_Plus\obj\Debug\GDI_Plus.exe
+C:\Users\BA\documents\visual studio 2013\Projects\CokluFormlar_160829\GDI_Plus\obj\Debug\GDI_Plus.pdb

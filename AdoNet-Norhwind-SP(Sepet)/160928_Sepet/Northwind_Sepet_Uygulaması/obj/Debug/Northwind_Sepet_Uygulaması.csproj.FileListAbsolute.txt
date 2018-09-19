@@ -1,0 +1,30 @@
+C:\Users\BA\documents\visual studio 2013\Projects\160928_ADONET\Northwind_Sepet_Uygulaması\bin\Debug\Northwind_Sepet_Uygulaması.exe.config
+C:\Users\BA\documents\visual studio 2013\Projects\160928_ADONET\Northwind_Sepet_Uygulaması\bin\Debug\Northwind_Sepet_Uygulaması.exe
+C:\Users\BA\documents\visual studio 2013\Projects\160928_ADONET\Northwind_Sepet_Uygulaması\bin\Debug\Northwind_Sepet_Uygulaması.pdb
+C:\Users\BA\documents\visual studio 2013\Projects\160928_ADONET\Northwind_Sepet_Uygulaması\obj\Debug\Northwind_Sepet_Uygulaması.csprojResolveAssemblyReference.cache
+C:\Users\BA\documents\visual studio 2013\Projects\160928_ADONET\Northwind_Sepet_Uygulaması\obj\Debug\Northwind_Sepet_Uygulaması.Form1.resources
+C:\Users\BA\documents\visual studio 2013\Projects\160928_ADONET\Northwind_Sepet_Uygulaması\obj\Debug\Northwind_Sepet_Uygulaması.Properties.Resources.resources
+C:\Users\BA\documents\visual studio 2013\Projects\160928_ADONET\Northwind_Sepet_Uygulaması\obj\Debug\Northwind_Sepet_Uygulaması.YeniEkle.resources
+C:\Users\BA\documents\visual studio 2013\Projects\160928_ADONET\Northwind_Sepet_Uygulaması\obj\Debug\Northwind_Sepet_Uygulaması.csproj.GenerateResource.Cache
+C:\Users\BA\documents\visual studio 2013\Projects\160928_ADONET\Northwind_Sepet_Uygulaması\obj\Debug\Northwind_Sepet_Uygulaması.exe
+C:\Users\BA\documents\visual studio 2013\Projects\160928_ADONET\Northwind_Sepet_Uygulaması\obj\Debug\Northwind_Sepet_Uygulaması.pdb
+C:\Users\Ayça\Desktop\160928_ADONET_Güncel\160928_ADONET_Güncel\Northwind_Sepet_Uygulaması\bin\Debug\Northwind_Sepet_Uygulaması.exe.config
+C:\Users\Ayça\Desktop\160928_ADONET_Güncel\160928_ADONET_Güncel\Northwind_Sepet_Uygulaması\obj\Debug\Northwind_Sepet_Uygulaması.exe
+C:\Users\Ayça\Desktop\160928_ADONET_Güncel\160928_ADONET_Güncel\Northwind_Sepet_Uygulaması\obj\Debug\Northwind_Sepet_Uygulaması.pdb
+C:\Users\Ayça\Desktop\160928_ADONET_Güncel\160928_ADONET_Güncel\Northwind_Sepet_Uygulaması\bin\Debug\Northwind_Sepet_Uygulaması.exe
+C:\Users\Ayça\Desktop\160928_ADONET_Güncel\160928_ADONET_Güncel\Northwind_Sepet_Uygulaması\bin\Debug\Northwind_Sepet_Uygulaması.pdb
+C:\Users\Ayça\Desktop\160928_ADONET_Güncel\160928_ADONET_Güncel\Northwind_Sepet_Uygulaması\obj\Debug\Northwind_Sepet_Uygulaması.csprojResolveAssemblyReference.cache
+C:\Users\Ayça\Desktop\160928_ADONET_Güncel\160928_ADONET_Güncel\Northwind_Sepet_Uygulaması\obj\Debug\Northwind_Sepet_Uygulaması.Form1.resources
+C:\Users\Ayça\Desktop\160928_ADONET_Güncel\160928_ADONET_Güncel\Northwind_Sepet_Uygulaması\obj\Debug\Northwind_Sepet_Uygulaması.Properties.Resources.resources
+C:\Users\Ayça\Desktop\160928_ADONET_Güncel\160928_ADONET_Güncel\Northwind_Sepet_Uygulaması\obj\Debug\Northwind_Sepet_Uygulaması.YeniEkle.resources
+C:\Users\Ayça\Desktop\160928_ADONET_Güncel\160928_ADONET_Güncel\Northwind_Sepet_Uygulaması\obj\Debug\Northwind_Sepet_Uygulaması.csproj.GenerateResource.Cache
+C:\Users\Ayça\160928_ADONET_Güncel\160928_Sepet\Northwind_Sepet_Uygulaması\bin\Debug\Northwind_Sepet_Uygulaması.exe.config
+C:\Users\Ayça\160928_ADONET_Güncel\160928_Sepet\Northwind_Sepet_Uygulaması\obj\Debug\Northwind_Sepet_Uygulaması.exe
+C:\Users\Ayça\160928_ADONET_Güncel\160928_Sepet\Northwind_Sepet_Uygulaması\obj\Debug\Northwind_Sepet_Uygulaması.pdb
+C:\Users\Ayça\160928_ADONET_Güncel\160928_Sepet\Northwind_Sepet_Uygulaması\bin\Debug\Northwind_Sepet_Uygulaması.exe
+C:\Users\Ayça\160928_ADONET_Güncel\160928_Sepet\Northwind_Sepet_Uygulaması\bin\Debug\Northwind_Sepet_Uygulaması.pdb
+C:\Users\Ayça\160928_ADONET_Güncel\160928_Sepet\Northwind_Sepet_Uygulaması\obj\Debug\Northwind_Sepet_Uygulaması.csprojResolveAssemblyReference.cache
+C:\Users\Ayça\160928_ADONET_Güncel\160928_Sepet\Northwind_Sepet_Uygulaması\obj\Debug\Northwind_Sepet_Uygulaması.Form1.resources
+C:\Users\Ayça\160928_ADONET_Güncel\160928_Sepet\Northwind_Sepet_Uygulaması\obj\Debug\Northwind_Sepet_Uygulaması.Properties.Resources.resources
+C:\Users\Ayça\160928_ADONET_Güncel\160928_Sepet\Northwind_Sepet_Uygulaması\obj\Debug\Northwind_Sepet_Uygulaması.YeniEkle.resources
+C:\Users\Ayça\160928_ADONET_Güncel\160928_Sepet\Northwind_Sepet_Uygulaması\obj\Debug\Northwind_Sepet_Uygulaması.csproj.GenerateResource.Cache

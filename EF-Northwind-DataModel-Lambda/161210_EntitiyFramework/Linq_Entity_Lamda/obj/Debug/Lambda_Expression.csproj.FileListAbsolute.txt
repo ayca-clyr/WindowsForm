@@ -1,0 +1,13 @@
+C:\Users\BA\Documents\Visual Studio 2013\Projects\161210_EntitiyFramework\Linq_Entity_Lamda\bin\Debug\Linq_Entity_Lamda.exe.config
+C:\Users\BA\Documents\Visual Studio 2013\Projects\161210_EntitiyFramework\Linq_Entity_Lamda\bin\Debug\Linq_Entity_Lamda.exe
+C:\Users\BA\Documents\Visual Studio 2013\Projects\161210_EntitiyFramework\Linq_Entity_Lamda\bin\Debug\Linq_Entity_Lamda.pdb
+C:\Users\BA\Documents\Visual Studio 2013\Projects\161210_EntitiyFramework\Linq_Entity_Lamda\bin\Debug\EntityFramework.dll
+C:\Users\BA\Documents\Visual Studio 2013\Projects\161210_EntitiyFramework\Linq_Entity_Lamda\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\BA\Documents\Visual Studio 2013\Projects\161210_EntitiyFramework\Linq_Entity_Lamda\bin\Debug\EntityFramework.xml
+C:\Users\BA\Documents\Visual Studio 2013\Projects\161210_EntitiyFramework\Linq_Entity_Lamda\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\BA\Documents\Visual Studio 2013\Projects\161210_EntitiyFramework\Linq_Entity_Lamda\obj\Debug\Linq_Entity_Lamda.Form1.resources
+C:\Users\BA\Documents\Visual Studio 2013\Projects\161210_EntitiyFramework\Linq_Entity_Lamda\obj\Debug\Linq_Entity_Lamda.Properties.Resources.resources
+C:\Users\BA\Documents\Visual Studio 2013\Projects\161210_EntitiyFramework\Linq_Entity_Lamda\obj\Debug\Lambda_Expression.csproj.GenerateResource.Cache
+C:\Users\BA\Documents\Visual Studio 2013\Projects\161210_EntitiyFramework\Linq_Entity_Lamda\obj\Debug\Linq_Entity_Lamda.exe
+C:\Users\BA\Documents\Visual Studio 2013\Projects\161210_EntitiyFramework\Linq_Entity_Lamda\obj\Debug\Linq_Entity_Lamda.pdb
+C:\Users\BA\Documents\Visual Studio 2013\Projects\161210_EntitiyFramework\Linq_Entity_Lamda\obj\Debug\Lambda_Expression.csprojResolveAssemblyReference.cache

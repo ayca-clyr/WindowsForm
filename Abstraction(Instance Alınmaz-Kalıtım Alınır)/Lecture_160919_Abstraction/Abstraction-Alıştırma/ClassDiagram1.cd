@@ -1,0 +1,116 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Abstraction_Alıştırma.Computer" Collapsed="true">
+    <Position X="12.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACABAAAAACAAAAAAAACAAAAAAAAACAAAABAAAAAA=</HashCode>
+      <FileName>Computer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Abstraction_Alıştırma.DescktopComputer" Collapsed="true">
+    <Position X="11.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAEAAAAAAAAAAACAAAAAAAAAAAAAQBAAAAAA=</HashCode>
+      <FileName>DescktopComputer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Abstraction_Alıştırma.EbookReader" Collapsed="true">
+    <Position X="14" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAAAAAAAAAAAAACAAAAAAAAAAAAQABAAAAAA=</HashCode>
+      <FileName>EbookReader.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Abstraction_Alıştırma.Elektronic" Collapsed="true">
+    <Position X="8.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAAAAAAAAAAAAACAAAAAAAAAABAgAhAIAACA=</HashCode>
+      <FileName>Elektronic.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Abstraction_Alıştırma.Laptop" Collapsed="true">
+    <Position X="9.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAAAAAAAAAAAAACAAAABAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Laptop.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Abstraction_Alıştırma.LCDTelevision" Collapsed="true">
+    <Position X="7.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAAAAAAAAAAAAACAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>LCDTelevision.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Abstraction_Alıştırma.MobilePhone" Collapsed="true">
+    <Position X="0.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAABAAAAAAAAAAAAAACAAAAAAAAAAEAAABAAAAAA=</HashCode>
+      <FileName>MobilePhone.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Abstraction_Alıştırma.Phaplet" Collapsed="true">
+    <Position X="2.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAAAAAAAAAAAAACAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Phaplet.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Abstraction_Alıştırma.Phone" Collapsed="true">
+    <Position X="1.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAAAAAAAAAAAAACACAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Phone.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Abstraction_Alıştırma.PlasmaTelevision" Collapsed="true">
+    <Position X="5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAAAAAAAAAAAAACAACAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>PlasmaTelevision.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Abstraction_Alıştırma.SmartPhone" Collapsed="true">
+    <Position X="2.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAABAAAAAAAAAAAAAACAAAAAAAAAAEAAABAAAAAA=</HashCode>
+      <FileName>SmartPhone.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Abstraction_Alıştırma.Tablet" Collapsed="true">
+    <Position X="16.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIABAAAAAAAAAAAAAACAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Tablet.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Abstraction_Alıştırma.Television" Collapsed="true">
+    <Position X="6" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAAAAAAAAAAAAACAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Television.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="Abstraction_Alıştırma.Color" Collapsed="true">
+    <Position X="0.5" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAGAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAABEAAAA=</HashCode>
+      <FileName>Color.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Abstraction_Alıştırma.Ozellik" Collapsed="true">
+    <Position X="2.5" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEAAQAAAAAAAAAAAAAAAAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>Ozellik.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Abstraction_Alıştırma.Tip" Collapsed="true">
+    <Position X="4.5" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEAAQAAAAAAAAAAAAAAAAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>Tip.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

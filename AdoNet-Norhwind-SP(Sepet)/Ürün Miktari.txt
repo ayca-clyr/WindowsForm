@@ -1,0 +1,10 @@
+
+GO
+ALTER PROC sp_UrunMiktari
+@urunMiktari int,
+@urunAdi varchar(50)
+AS
+BEGIN
+	UPDATE Products SET UnitsInStock=UnitsInStock-@urunMiktari WHERE @urunAdi = ProductName AND UnitsInStock >= @urunMiktari
+	SELECT UnitsInStock FROM Products WHERE @urunAdi = (SELECT ProductName From Products where @urunAdi = ProductName)
+END

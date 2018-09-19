@@ -1,0 +1,18 @@
+C:\Users\Mesut\Documents\Visual Studio 2013\Projects\19-X-A\2-C#-WinForms\01.09.2016\IO_Islemleri\FileExplorer\bin\Debug\FileExplorer.exe.config
+C:\Users\Mesut\Documents\Visual Studio 2013\Projects\19-X-A\2-C#-WinForms\01.09.2016\IO_Islemleri\FileExplorer\bin\Debug\FileExplorer.exe
+C:\Users\Mesut\Documents\Visual Studio 2013\Projects\19-X-A\2-C#-WinForms\01.09.2016\IO_Islemleri\FileExplorer\bin\Debug\FileExplorer.pdb
+C:\Users\Mesut\Documents\Visual Studio 2013\Projects\19-X-A\2-C#-WinForms\01.09.2016\IO_Islemleri\FileExplorer\obj\Debug\FileExplorer.csprojResolveAssemblyReference.cache
+C:\Users\Mesut\Documents\Visual Studio 2013\Projects\19-X-A\2-C#-WinForms\01.09.2016\IO_Islemleri\FileExplorer\obj\Debug\FileExplorer.Form1.resources
+C:\Users\Mesut\Documents\Visual Studio 2013\Projects\19-X-A\2-C#-WinForms\01.09.2016\IO_Islemleri\FileExplorer\obj\Debug\FileExplorer.Properties.Resources.resources
+C:\Users\Mesut\Documents\Visual Studio 2013\Projects\19-X-A\2-C#-WinForms\01.09.2016\IO_Islemleri\FileExplorer\obj\Debug\FileExplorer.csproj.GenerateResource.Cache
+C:\Users\Mesut\Documents\Visual Studio 2013\Projects\19-X-A\2-C#-WinForms\01.09.2016\IO_Islemleri\FileExplorer\obj\Debug\FileExplorer.exe
+C:\Users\Mesut\Documents\Visual Studio 2013\Projects\19-X-A\2-C#-WinForms\01.09.2016\IO_Islemleri\FileExplorer\obj\Debug\FileExplorer.pdb
+E:\Mami\01.09.2016\IO_Islemleri\FileExplorer\bin\Debug\FileExplorer.exe.config
+E:\Mami\01.09.2016\IO_Islemleri\FileExplorer\obj\Debug\FileExplorer.exe
+E:\Mami\01.09.2016\IO_Islemleri\FileExplorer\obj\Debug\FileExplorer.pdb
+C:\Users\Gunaydın\Downloads\IO_Islemleri\FileExplorer\bin\Debug\FileExplorer.exe.config
+C:\Users\Gunaydın\Downloads\IO_Islemleri\FileExplorer\obj\Debug\FileExplorer.exe
+C:\Users\Gunaydın\Downloads\IO_Islemleri\FileExplorer\obj\Debug\FileExplorer.pdb
+C:\Users\Gunaydın\Desktop\Stage Windows Form\Stage Windows Form\Erdi Hoca\MMIO_Islemleri\FileExplorer\bin\Debug\FileExplorer.exe.config
+C:\Users\Gunaydın\Desktop\Stage Windows Form\Stage Windows Form\Erdi Hoca\MMIO_Islemleri\FileExplorer\obj\Debug\FileExplorer.exe
+C:\Users\Gunaydın\Desktop\Stage Windows Form\Stage Windows Form\Erdi Hoca\MMIO_Islemleri\FileExplorer\obj\Debug\FileExplorer.pdb

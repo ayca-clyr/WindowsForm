@@ -1,0 +1,13 @@
+c:\users\ba\documents\visual studio 2013\Projects\161210_EntitiyFramework\01_Entity\bin\Debug\01_Entity.exe.config
+c:\users\ba\documents\visual studio 2013\Projects\161210_EntitiyFramework\01_Entity\bin\Debug\01_Entity.exe
+c:\users\ba\documents\visual studio 2013\Projects\161210_EntitiyFramework\01_Entity\bin\Debug\01_Entity.pdb
+c:\users\ba\documents\visual studio 2013\Projects\161210_EntitiyFramework\01_Entity\bin\Debug\EntityFramework.dll
+c:\users\ba\documents\visual studio 2013\Projects\161210_EntitiyFramework\01_Entity\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\ba\documents\visual studio 2013\Projects\161210_EntitiyFramework\01_Entity\bin\Debug\EntityFramework.xml
+c:\users\ba\documents\visual studio 2013\Projects\161210_EntitiyFramework\01_Entity\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\ba\documents\visual studio 2013\Projects\161210_EntitiyFramework\01_Entity\obj\Debug\01_Entity.csprojResolveAssemblyReference.cache
+c:\users\ba\documents\visual studio 2013\Projects\161210_EntitiyFramework\01_Entity\obj\Debug\_01_Entity.Form1.resources
+c:\users\ba\documents\visual studio 2013\Projects\161210_EntitiyFramework\01_Entity\obj\Debug\_01_Entity.Properties.Resources.resources
+c:\users\ba\documents\visual studio 2013\Projects\161210_EntitiyFramework\01_Entity\obj\Debug\01_Entity.csproj.GenerateResource.Cache
+c:\users\ba\documents\visual studio 2013\Projects\161210_EntitiyFramework\01_Entity\obj\Debug\01_Entity.exe
+c:\users\ba\documents\visual studio 2013\Projects\161210_EntitiyFramework\01_Entity\obj\Debug\01_Entity.pdb

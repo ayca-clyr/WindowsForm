@@ -1,0 +1,9 @@
+C:\Users\BA\Documents\Visual Studio 2013\Projects\Lecture160908 (OOP)\12- Interface\bin\Debug\12- Interface.exe.config
+C:\Users\BA\Documents\Visual Studio 2013\Projects\Lecture160908 (OOP)\12- Interface\bin\Debug\12- Interface.exe
+C:\Users\BA\Documents\Visual Studio 2013\Projects\Lecture160908 (OOP)\12- Interface\bin\Debug\12- Interface.pdb
+C:\Users\BA\Documents\Visual Studio 2013\Projects\Lecture160908 (OOP)\12- Interface\obj\Debug\12- Interface.csprojResolveAssemblyReference.cache
+C:\Users\BA\Documents\Visual Studio 2013\Projects\Lecture160908 (OOP)\12- Interface\obj\Debug\_12__Interface.Form1.resources
+C:\Users\BA\Documents\Visual Studio 2013\Projects\Lecture160908 (OOP)\12- Interface\obj\Debug\_12__Interface.Properties.Resources.resources
+C:\Users\BA\Documents\Visual Studio 2013\Projects\Lecture160908 (OOP)\12- Interface\obj\Debug\12- Interface.csproj.GenerateResource.Cache
+C:\Users\BA\Documents\Visual Studio 2013\Projects\Lecture160908 (OOP)\12- Interface\obj\Debug\12- Interface.exe
+C:\Users\BA\Documents\Visual Studio 2013\Projects\Lecture160908 (OOP)\12- Interface\obj\Debug\12- Interface.pdb

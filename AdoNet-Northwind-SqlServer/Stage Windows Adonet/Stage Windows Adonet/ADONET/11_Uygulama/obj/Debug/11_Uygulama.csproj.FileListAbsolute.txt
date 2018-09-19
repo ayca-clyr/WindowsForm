@@ -1,0 +1,14 @@
+C:\Users\BA\Downloads\Stage Windows Adonet\Stage Windows Adonet\Stage Windows Adonet\ADONET\11_Uygulama\bin\Debug\11_Uygulama.exe.config
+C:\Users\BA\Downloads\Stage Windows Adonet\Stage Windows Adonet\Stage Windows Adonet\ADONET\11_Uygulama\bin\Debug\11_Uygulama.exe
+C:\Users\BA\Downloads\Stage Windows Adonet\Stage Windows Adonet\Stage Windows Adonet\ADONET\11_Uygulama\bin\Debug\11_Uygulama.pdb
+C:\Users\BA\Downloads\Stage Windows Adonet\Stage Windows Adonet\Stage Windows Adonet\ADONET\11_Uygulama\obj\Debug\11_Uygulama.csprojResolveAssemblyReference.cache
+C:\Users\BA\Downloads\Stage Windows Adonet\Stage Windows Adonet\Stage Windows Adonet\ADONET\11_Uygulama\obj\Debug\_11_Uygulama.Form1.resources
+C:\Users\BA\Downloads\Stage Windows Adonet\Stage Windows Adonet\Stage Windows Adonet\ADONET\11_Uygulama\obj\Debug\_11_Uygulama.Properties.Resources.resources
+C:\Users\BA\Downloads\Stage Windows Adonet\Stage Windows Adonet\Stage Windows Adonet\ADONET\11_Uygulama\obj\Debug\11_Uygulama.csproj.GenerateResource.Cache
+C:\Users\BA\Downloads\Stage Windows Adonet\Stage Windows Adonet\Stage Windows Adonet\ADONET\11_Uygulama\obj\Debug\11_Uygulama.exe
+C:\Users\BA\Downloads\Stage Windows Adonet\Stage Windows Adonet\Stage Windows Adonet\ADONET\11_Uygulama\obj\Debug\11_Uygulama.pdb
+C:\Users\BA\Downloads\Stage Windows Adonet\Stage Windows Adonet\Stage Windows Adonet\ADONET\11_Uygulama\obj\Debug\_11_Uygulama.TextBox_Products.resources
+C:\Users\BA\Downloads\Stage Windows Adonet\Stage Windows Adonet\Stage Windows Adonet\ADONET\11_Uygulama\obj\Debug\_11_Uygulama.ProductDML.resources
+C:\Users\Bilal\Downloads\Stage Windows Adonet\Stage Windows Adonet\Stage Windows Adonet\Stage Windows Adonet\ADONET\11_Uygulama\bin\Debug\11_Uygulama.exe.config
+C:\Users\Bilal\Downloads\Stage Windows Adonet\Stage Windows Adonet\Stage Windows Adonet\Stage Windows Adonet\ADONET\11_Uygulama\obj\Debug\11_Uygulama.exe
+C:\Users\Bilal\Downloads\Stage Windows Adonet\Stage Windows Adonet\Stage Windows Adonet\Stage Windows Adonet\ADONET\11_Uygulama\obj\Debug\11_Uygulama.pdb

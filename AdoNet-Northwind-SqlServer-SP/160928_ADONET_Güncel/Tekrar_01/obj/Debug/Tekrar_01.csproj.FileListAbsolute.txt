@@ -1,0 +1,9 @@
+C:\Users\BA\documents\visual studio 2013\Projects\160928_ADONET\Tekrar_01\bin\Debug\Tekrar_01.exe.config
+C:\Users\BA\documents\visual studio 2013\Projects\160928_ADONET\Tekrar_01\bin\Debug\Tekrar_01.exe
+C:\Users\BA\documents\visual studio 2013\Projects\160928_ADONET\Tekrar_01\bin\Debug\Tekrar_01.pdb
+C:\Users\BA\documents\visual studio 2013\Projects\160928_ADONET\Tekrar_01\obj\Debug\Tekrar_01.csprojResolveAssemblyReference.cache
+C:\Users\BA\documents\visual studio 2013\Projects\160928_ADONET\Tekrar_01\obj\Debug\Tekrar_01.Form1.resources
+C:\Users\BA\documents\visual studio 2013\Projects\160928_ADONET\Tekrar_01\obj\Debug\Tekrar_01.Properties.Resources.resources
+C:\Users\BA\documents\visual studio 2013\Projects\160928_ADONET\Tekrar_01\obj\Debug\Tekrar_01.csproj.GenerateResource.Cache
+C:\Users\BA\documents\visual studio 2013\Projects\160928_ADONET\Tekrar_01\obj\Debug\Tekrar_01.exe
+C:\Users\BA\documents\visual studio 2013\Projects\160928_ADONET\Tekrar_01\obj\Debug\Tekrar_01.pdb

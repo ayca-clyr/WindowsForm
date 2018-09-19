@@ -1,0 +1,9 @@
+c:\users\ba\documents\visual studio 2013\Projects\160927_Interface\Kuş\bin\Debug\Kuş.exe.config
+c:\users\ba\documents\visual studio 2013\Projects\160927_Interface\Kuş\bin\Debug\Kuş.exe
+c:\users\ba\documents\visual studio 2013\Projects\160927_Interface\Kuş\bin\Debug\Kuş.pdb
+c:\users\ba\documents\visual studio 2013\Projects\160927_Interface\Kuş\obj\Debug\Uygulama_02.csprojResolveAssemblyReference.cache
+c:\users\ba\documents\visual studio 2013\Projects\160927_Interface\Kuş\obj\Debug\Kuş.Form1.resources
+c:\users\ba\documents\visual studio 2013\Projects\160927_Interface\Kuş\obj\Debug\Kuş.Properties.Resources.resources
+c:\users\ba\documents\visual studio 2013\Projects\160927_Interface\Kuş\obj\Debug\Uygulama_02.csproj.GenerateResource.Cache
+c:\users\ba\documents\visual studio 2013\Projects\160927_Interface\Kuş\obj\Debug\Kuş.exe
+c:\users\ba\documents\visual studio 2013\Projects\160927_Interface\Kuş\obj\Debug\Kuş.pdb

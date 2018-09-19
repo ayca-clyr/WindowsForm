@@ -1,0 +1,13 @@
+C:\Users\BA\Documents\Visual Studio 2013\Projects\Lecture160908 (OOP)\9.2 - Static Continue--StudentManagement\bin\Debug\9.2 - Static Continue--StudentManagement.exe.config
+C:\Users\BA\Documents\Visual Studio 2013\Projects\Lecture160908 (OOP)\9.2 - Static Continue--StudentManagement\bin\Debug\9.2 - Static Continue--StudentManagement.exe
+C:\Users\BA\Documents\Visual Studio 2013\Projects\Lecture160908 (OOP)\9.2 - Static Continue--StudentManagement\bin\Debug\9.2 - Static Continue--StudentManagement.pdb
+C:\Users\BA\Documents\Visual Studio 2013\Projects\Lecture160908 (OOP)\9.2 - Static Continue--StudentManagement\obj\Debug\9.2 - Static Continue--StudentManagement.csprojResolveAssemblyReference.cache
+C:\Users\BA\Documents\Visual Studio 2013\Projects\Lecture160908 (OOP)\9.2 - Static Continue--StudentManagement\obj\Debug\_9._2___Static_Continue__StudentManagement.Form1.resources
+C:\Users\BA\Documents\Visual Studio 2013\Projects\Lecture160908 (OOP)\9.2 - Static Continue--StudentManagement\obj\Debug\_9._2___Static_Continue__StudentManagement.Properties.Resources.resources
+C:\Users\BA\Documents\Visual Studio 2013\Projects\Lecture160908 (OOP)\9.2 - Static Continue--StudentManagement\obj\Debug\_9._2___Static_Continue__StudentManagement.StudentEditForm.resources
+C:\Users\BA\Documents\Visual Studio 2013\Projects\Lecture160908 (OOP)\9.2 - Static Continue--StudentManagement\obj\Debug\_9._2___Static_Continue__StudentManagement.StudentListForm.resources
+C:\Users\BA\Documents\Visual Studio 2013\Projects\Lecture160908 (OOP)\9.2 - Static Continue--StudentManagement\obj\Debug\9.2 - Static Continue--StudentManagement.csproj.GenerateResource.Cache
+C:\Users\BA\Documents\Visual Studio 2013\Projects\Lecture160908 (OOP)\9.2 - Static Continue--StudentManagement\obj\Debug\9.2 - Static Continue--StudentManagement.exe
+C:\Users\BA\Documents\Visual Studio 2013\Projects\Lecture160908 (OOP)\9.2 - Static Continue--StudentManagement\obj\Debug\9.2 - Static Continue--StudentManagement.pdb
+C:\Users\BA\Documents\Visual Studio 2013\Projects\Lecture160908 (OOP)\9.2 - Static Continue--StudentManagement\bin\Debug\VToolkit.dll
+C:\Users\BA\Documents\Visual Studio 2013\Projects\Lecture160908 (OOP)\9.2 - Static Continue--StudentManagement\bin\Debug\VToolkit.pdb

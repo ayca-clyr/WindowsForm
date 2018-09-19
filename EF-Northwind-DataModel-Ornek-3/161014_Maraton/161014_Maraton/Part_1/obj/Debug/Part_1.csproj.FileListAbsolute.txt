@@ -1,0 +1,36 @@
+c:\users\ba\documents\visual studio 2013\Projects\161014_Maraton\Part_1\bin\Debug\Part_1.exe.config
+c:\users\ba\documents\visual studio 2013\Projects\161014_Maraton\Part_1\bin\Debug\Part_1.exe
+c:\users\ba\documents\visual studio 2013\Projects\161014_Maraton\Part_1\bin\Debug\Part_1.pdb
+c:\users\ba\documents\visual studio 2013\Projects\161014_Maraton\Part_1\bin\Debug\EntityFramework.dll
+c:\users\ba\documents\visual studio 2013\Projects\161014_Maraton\Part_1\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\ba\documents\visual studio 2013\Projects\161014_Maraton\Part_1\bin\Debug\EntityFramework.xml
+c:\users\ba\documents\visual studio 2013\Projects\161014_Maraton\Part_1\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\ba\documents\visual studio 2013\Projects\161014_Maraton\Part_1\obj\Debug\Part_1.csprojResolveAssemblyReference.cache
+c:\users\ba\documents\visual studio 2013\Projects\161014_Maraton\Part_1\obj\Debug\Part_1.CategoryListForm.resources
+c:\users\ba\documents\visual studio 2013\Projects\161014_Maraton\Part_1\obj\Debug\Part_1.Form1.resources
+c:\users\ba\documents\visual studio 2013\Projects\161014_Maraton\Part_1\obj\Debug\Part_1.Properties.Resources.resources
+c:\users\ba\documents\visual studio 2013\Projects\161014_Maraton\Part_1\obj\Debug\Part_1.csproj.GenerateResource.Cache
+c:\users\ba\documents\visual studio 2013\Projects\161014_Maraton\Part_1\obj\Debug\Part_1.exe
+c:\users\ba\documents\visual studio 2013\Projects\161014_Maraton\Part_1\obj\Debug\Part_1.pdb
+c:\users\ba\documents\visual studio 2013\Projects\161014_Maraton\Part_1\obj\Debug\Part_1.CategoryEditForm.resources
+c:\users\ba\documents\visual studio 2013\Projects\161014_Maraton\Part_1\obj\Debug\Part_1.ProductEditForm.resources
+c:\users\ba\documents\visual studio 2013\Projects\161014_Maraton\Part_1\obj\Debug\Part_1.ProductListForm.resources
+C:\Users\Ayça\Desktop\161014_Maraton\161014_Maraton\Part_1\bin\Debug\Part_1.exe.config
+C:\Users\Ayça\Desktop\161014_Maraton\161014_Maraton\Part_1\obj\Debug\Part_1.exe
+C:\Users\Ayça\Desktop\161014_Maraton\161014_Maraton\Part_1\obj\Debug\Part_1.pdb
+C:\Users\Ayça\Desktop\161014_Maraton\161014_Maraton\Part_1\bin\Debug\Part_1.exe
+C:\Users\Ayça\Desktop\161014_Maraton\161014_Maraton\Part_1\bin\Debug\Part_1.pdb
+C:\Users\Ayça\Desktop\161014_Maraton\161014_Maraton\Part_1\bin\Debug\EntityFramework.dll
+C:\Users\Ayça\Desktop\161014_Maraton\161014_Maraton\Part_1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ayça\Desktop\161014_Maraton\161014_Maraton\Part_1\bin\Debug\EntityFramework.xml
+C:\Users\Ayça\Desktop\161014_Maraton\161014_Maraton\Part_1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ayça\Desktop\161014_Maraton\161014_Maraton\Part_1\obj\Debug\Part_1.csprojResolveAssemblyReference.cache
+C:\Users\Ayça\Desktop\161014_Maraton\161014_Maraton\Part_1\obj\Debug\Part_1.CategoryEditForm.resources
+C:\Users\Ayça\Desktop\161014_Maraton\161014_Maraton\Part_1\obj\Debug\Part_1.CategoryListForm.resources
+C:\Users\Ayça\Desktop\161014_Maraton\161014_Maraton\Part_1\obj\Debug\Part_1.ProductEditForm.resources
+C:\Users\Ayça\Desktop\161014_Maraton\161014_Maraton\Part_1\obj\Debug\Part_1.ProductListForm.resources
+C:\Users\Ayça\Desktop\161014_Maraton\161014_Maraton\Part_1\obj\Debug\Part_1.Properties.Resources.resources
+C:\Users\Ayça\Desktop\161014_Maraton\161014_Maraton\Part_1\obj\Debug\Part_1.csproj.GenerateResource.Cache
+C:\Users\Ayça\Desktop\161014_Maraton\161014_Maraton\Part_1\obj\Debug\Part_1.NorthwindMainForm.resources
+C:\Users\Ayça\Desktop\161014_Maraton\161014_Maraton\Part_1\obj\Debug\Part_1.OrderEditForm.resources
+C:\Users\Ayça\Desktop\161014_Maraton\161014_Maraton\Part_1\obj\Debug\Part_1.OrderListForm.resources

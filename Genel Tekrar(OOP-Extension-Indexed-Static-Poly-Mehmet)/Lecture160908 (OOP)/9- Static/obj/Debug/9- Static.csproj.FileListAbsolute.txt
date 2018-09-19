@@ -1,0 +1,9 @@
+C:\Users\BA\Documents\Visual Studio 2013\Projects\Lecture160908 (OOP)\9- Static\bin\Debug\9- Static.exe.config
+C:\Users\BA\Documents\Visual Studio 2013\Projects\Lecture160908 (OOP)\9- Static\bin\Debug\9- Static.exe
+C:\Users\BA\Documents\Visual Studio 2013\Projects\Lecture160908 (OOP)\9- Static\bin\Debug\9- Static.pdb
+C:\Users\BA\Documents\Visual Studio 2013\Projects\Lecture160908 (OOP)\9- Static\obj\Debug\_9__Static.Form1.resources
+C:\Users\BA\Documents\Visual Studio 2013\Projects\Lecture160908 (OOP)\9- Static\obj\Debug\_9__Static.Properties.Resources.resources
+C:\Users\BA\Documents\Visual Studio 2013\Projects\Lecture160908 (OOP)\9- Static\obj\Debug\9- Static.csproj.GenerateResource.Cache
+C:\Users\BA\Documents\Visual Studio 2013\Projects\Lecture160908 (OOP)\9- Static\obj\Debug\9- Static.exe
+C:\Users\BA\Documents\Visual Studio 2013\Projects\Lecture160908 (OOP)\9- Static\obj\Debug\9- Static.pdb
+C:\Users\BA\Documents\Visual Studio 2013\Projects\Lecture160908 (OOP)\9- Static\obj\Debug\9- Static.csprojResolveAssemblyReference.cache

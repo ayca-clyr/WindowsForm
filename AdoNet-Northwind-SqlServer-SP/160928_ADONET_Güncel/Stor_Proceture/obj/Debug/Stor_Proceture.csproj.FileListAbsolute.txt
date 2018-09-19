@@ -1,0 +1,9 @@
+C:\Users\BA\documents\visual studio 2013\Projects\160928_ADONET\Stor_Proceture\bin\Debug\Stor_Proceture.exe.config
+C:\Users\BA\documents\visual studio 2013\Projects\160928_ADONET\Stor_Proceture\bin\Debug\Stor_Proceture.exe
+C:\Users\BA\documents\visual studio 2013\Projects\160928_ADONET\Stor_Proceture\bin\Debug\Stor_Proceture.pdb
+C:\Users\BA\documents\visual studio 2013\Projects\160928_ADONET\Stor_Proceture\obj\Debug\Stor_Proceture.csprojResolveAssemblyReference.cache
+C:\Users\BA\documents\visual studio 2013\Projects\160928_ADONET\Stor_Proceture\obj\Debug\Stor_Proceture.Form1.resources
+C:\Users\BA\documents\visual studio 2013\Projects\160928_ADONET\Stor_Proceture\obj\Debug\Stor_Proceture.Properties.Resources.resources
+C:\Users\BA\documents\visual studio 2013\Projects\160928_ADONET\Stor_Proceture\obj\Debug\Stor_Proceture.csproj.GenerateResource.Cache
+C:\Users\BA\documents\visual studio 2013\Projects\160928_ADONET\Stor_Proceture\obj\Debug\Stor_Proceture.exe
+C:\Users\BA\documents\visual studio 2013\Projects\160928_ADONET\Stor_Proceture\obj\Debug\Stor_Proceture.pdb

@@ -1,0 +1,54 @@
+C:\Users\Observer\Documents\Visual Studio 2015\Projects\WindowsForms\20_WF_XML-Serialization\bin\Debug\20_WF_XML-Serialization.exe.config
+C:\Users\Observer\Documents\Visual Studio 2015\Projects\WindowsForms\20_WF_XML-Serialization\bin\Debug\20_WF_XML-Serialization.exe
+C:\Users\Observer\Documents\Visual Studio 2015\Projects\WindowsForms\20_WF_XML-Serialization\bin\Debug\20_WF_XML-Serialization.pdb
+C:\Users\Observer\Documents\Visual Studio 2015\Projects\WindowsForms\20_WF_XML-Serialization\obj\Debug\20_WF_XML-Serialization.csprojResolveAssemblyReference.cache
+C:\Users\Observer\Documents\Visual Studio 2015\Projects\WindowsForms\20_WF_XML-Serialization\obj\Debug\_20_WF_XML_Serialization.Form1.resources
+C:\Users\Observer\Documents\Visual Studio 2015\Projects\WindowsForms\20_WF_XML-Serialization\obj\Debug\_20_WF_XML_Serialization.Properties.Resources.resources
+C:\Users\Observer\Documents\Visual Studio 2015\Projects\WindowsForms\20_WF_XML-Serialization\obj\Debug\20_WF_XML-Serialization.csproj.GenerateResource.Cache
+C:\Users\Observer\Documents\Visual Studio 2015\Projects\WindowsForms\20_WF_XML-Serialization\obj\Debug\20_WF_XML-Serialization.exe
+C:\Users\Observer\Documents\Visual Studio 2015\Projects\WindowsForms\20_WF_XML-Serialization\obj\Debug\20_WF_XML-Serialization.pdb
+C:\Users\Observer\Documents\Visual Studio 2015\Projects\WindowsForms\20_WF_XML-Serialization\obj\Debug\_20_WF_XML_Serialization.Form2.resources
+C:\Users\Erdi Akyüz\Desktop\WindowsForms\20_WF_XML-Serialization\bin\Debug\20_WF_XML-Serialization.exe.config
+C:\Users\Erdi Akyüz\Desktop\WindowsForms\20_WF_XML-Serialization\obj\Debug\20_WF_XML-Serialization.exe
+C:\Users\Erdi Akyüz\Desktop\WindowsForms\20_WF_XML-Serialization\obj\Debug\20_WF_XML-Serialization.pdb
+C:\Users\Erdi Akyüz\Desktop\WindowsForms\20_WF_XML-Serialization\bin\Debug\20_WF_XML-Serialization.exe
+C:\Users\Erdi Akyüz\Desktop\WindowsForms\20_WF_XML-Serialization\bin\Debug\20_WF_XML-Serialization.pdb
+C:\Users\Erdi Akyüz\Desktop\WindowsForms\20_WF_XML-Serialization\obj\Debug\20_WF_XML-Serialization.csprojResolveAssemblyReference.cache
+C:\Users\Erdi Akyüz\Desktop\WindowsForms\20_WF_XML-Serialization\obj\Debug\_20_WF_XML_Serialization.Form1.resources
+C:\Users\Erdi Akyüz\Desktop\WindowsForms\20_WF_XML-Serialization\obj\Debug\_20_WF_XML_Serialization.Form2.resources
+C:\Users\Erdi Akyüz\Desktop\WindowsForms\20_WF_XML-Serialization\obj\Debug\_20_WF_XML_Serialization.Properties.Resources.resources
+C:\Users\Erdi Akyüz\Desktop\WindowsForms\20_WF_XML-Serialization\obj\Debug\20_WF_XML-Serialization.csproj.GenerateResource.Cache
+C:\Users\Ferhat\Music\Desktop\20_WF_XML-Serialization\bin\Debug\20_WF_XML-Serialization.exe.config
+C:\Users\Ferhat\Music\Desktop\20_WF_XML-Serialization\obj\Debug\20_WF_XML-Serialization.exe
+C:\Users\Ferhat\Music\Desktop\20_WF_XML-Serialization\obj\Debug\20_WF_XML-Serialization.pdb
+C:\Users\Ferhat\Documents\Visual Studio 2015\Projects\WF_XML-Serialization\20_WF_XML-Serialization\bin\Debug\20_WF_XML-Serialization.exe.config
+C:\Users\Ferhat\Documents\Visual Studio 2015\Projects\WF_XML-Serialization\20_WF_XML-Serialization\obj\Debug\20_WF_XML-Serialization.exe
+C:\Users\Ferhat\Documents\Visual Studio 2015\Projects\WF_XML-Serialization\20_WF_XML-Serialization\obj\Debug\20_WF_XML-Serialization.pdb
+C:\Users\Gunaydın\Desktop\Stage Windows Form\Stage Windows Form\190905_Lecture\WF_XML-Serialization\WF_XML-Serialization\20_WF_XML-Serialization\bin\Debug\20_WF_XML-Serialization.exe.config
+C:\Users\Gunaydın\Desktop\Stage Windows Form\Stage Windows Form\190905_Lecture\WF_XML-Serialization\WF_XML-Serialization\20_WF_XML-Serialization\obj\Debug\20_WF_XML-Serialization.exe
+C:\Users\Gunaydın\Desktop\Stage Windows Form\Stage Windows Form\190905_Lecture\WF_XML-Serialization\WF_XML-Serialization\20_WF_XML-Serialization\obj\Debug\20_WF_XML-Serialization.pdb
+C:\Users\Gunaydın\Desktop\Stage Windows Form\Stage Windows Form\190905_Lecture\WF_XML-Serialization\WF_XML-Serialization\20_WF_XML-Serialization\bin\Debug\20_WF_XML-Serialization.exe
+C:\Users\Gunaydın\Desktop\Stage Windows Form\Stage Windows Form\190905_Lecture\WF_XML-Serialization\WF_XML-Serialization\20_WF_XML-Serialization\bin\Debug\20_WF_XML-Serialization.pdb
+C:\Users\Gunaydın\Desktop\Stage Windows Form\Stage Windows Form\190905_Lecture\WF_XML-Serialization\WF_XML-Serialization\20_WF_XML-Serialization\obj\Debug\20_WF_XML-Serialization.csprojResolveAssemblyReference.cache
+C:\Users\Gunaydın\Desktop\Stage Windows Form\Stage Windows Form\190905_Lecture\WF_XML-Serialization\WF_XML-Serialization\20_WF_XML-Serialization\obj\Debug\_20_WF_XML_Serialization.Form1.resources
+C:\Users\Gunaydın\Desktop\Stage Windows Form\Stage Windows Form\190905_Lecture\WF_XML-Serialization\WF_XML-Serialization\20_WF_XML-Serialization\obj\Debug\_20_WF_XML_Serialization.Form2.resources
+C:\Users\Gunaydın\Desktop\Stage Windows Form\Stage Windows Form\190905_Lecture\WF_XML-Serialization\WF_XML-Serialization\20_WF_XML-Serialization\obj\Debug\_20_WF_XML_Serialization.Properties.Resources.resources
+C:\Users\Gunaydın\Desktop\Stage Windows Form\Stage Windows Form\190905_Lecture\WF_XML-Serialization\WF_XML-Serialization\20_WF_XML-Serialization\obj\Debug\20_WF_XML-Serialization.csproj.GenerateResource.Cache
+C:\Users\Gunaydın\Desktop\Stage Windows Form\Stage Windows Form\190905_Lecture_XML\WF_XML-Serialization\WF_XML-Serialization\20_WF_XML-Serialization\bin\Debug\20_WF_XML-Serialization.exe.config
+C:\Users\Gunaydın\Desktop\Stage Windows Form\Stage Windows Form\190905_Lecture_XML\WF_XML-Serialization\WF_XML-Serialization\20_WF_XML-Serialization\obj\Debug\20_WF_XML-Serialization.exe
+C:\Users\Gunaydın\Desktop\Stage Windows Form\Stage Windows Form\190905_Lecture_XML\WF_XML-Serialization\WF_XML-Serialization\20_WF_XML-Serialization\obj\Debug\20_WF_XML-Serialization.pdb
+C:\Users\BA\Desktop\Stage Windows Form\190905_Lecture_XML\WF_XML-Serialization\WF_XML-Serialization\20_WF_XML-Serialization\bin\Debug\20_WF_XML-Serialization.exe.config
+C:\Users\BA\Desktop\Stage Windows Form\190905_Lecture_XML\WF_XML-Serialization\WF_XML-Serialization\20_WF_XML-Serialization\obj\Debug\20_WF_XML-Serialization.exe
+C:\Users\BA\Desktop\Stage Windows Form\190905_Lecture_XML\WF_XML-Serialization\WF_XML-Serialization\20_WF_XML-Serialization\obj\Debug\20_WF_XML-Serialization.pdb
+C:\Users\Gunaydın\Desktop\Stage Windows Form\Stage Windows Form\Erdi Hoca\190905_Lecture_XML\WF_XML-Serialization\WF_XML-Serialization\20_WF_XML-Serialization\bin\Debug\20_WF_XML-Serialization.exe.config
+C:\Users\Gunaydın\Desktop\Stage Windows Form\Stage Windows Form\Erdi Hoca\190905_Lecture_XML\WF_XML-Serialization\WF_XML-Serialization\20_WF_XML-Serialization\obj\Debug\20_WF_XML-Serialization.exe
+C:\Users\Gunaydın\Desktop\Stage Windows Form\Stage Windows Form\Erdi Hoca\190905_Lecture_XML\WF_XML-Serialization\WF_XML-Serialization\20_WF_XML-Serialization\obj\Debug\20_WF_XML-Serialization.pdb
+C:\Users\Bilall\Downloads\Stage Windows Form\Stage Windows Form\Erdi Hoca\190905_Lecture_XML\WF_XML-Serialization\WF_XML-Serialization\20_WF_XML-Serialization\bin\Debug\20_WF_XML-Serialization.exe.config
+C:\Users\Bilall\Downloads\Stage Windows Form\Stage Windows Form\Erdi Hoca\190905_Lecture_XML\WF_XML-Serialization\WF_XML-Serialization\20_WF_XML-Serialization\obj\Debug\20_WF_XML-Serialization.exe
+C:\Users\Bilall\Downloads\Stage Windows Form\Stage Windows Form\Erdi Hoca\190905_Lecture_XML\WF_XML-Serialization\WF_XML-Serialization\20_WF_XML-Serialization\obj\Debug\20_WF_XML-Serialization.pdb
+C:\Users\BA\Downloads\Stage Windows Form\Stage Windows Form\Stage Windows Form\Erdi Hoca\190905_Lecture_XML\WF_XML-Serialization\WF_XML-Serialization\20_WF_XML-Serialization\bin\Debug\20_WF_XML-Serialization.exe.config
+C:\Users\BA\Downloads\Stage Windows Form\Stage Windows Form\Stage Windows Form\Erdi Hoca\190905_Lecture_XML\WF_XML-Serialization\WF_XML-Serialization\20_WF_XML-Serialization\obj\Debug\20_WF_XML-Serialization.exe
+C:\Users\BA\Downloads\Stage Windows Form\Stage Windows Form\Stage Windows Form\Erdi Hoca\190905_Lecture_XML\WF_XML-Serialization\WF_XML-Serialization\20_WF_XML-Serialization\obj\Debug\20_WF_XML-Serialization.pdb
+C:\Users\Bilall\Downloads\Stage Windows Form\Stage Windows Form\Stage Windows Form\Stage Windows Form\Erdi Hoca\190905_Lecture_XML\WF_XML-Serialization\WF_XML-Serialization\20_WF_XML-Serialization\bin\Debug\20_WF_XML-Serialization.exe.config
+C:\Users\Bilall\Downloads\Stage Windows Form\Stage Windows Form\Stage Windows Form\Stage Windows Form\Erdi Hoca\190905_Lecture_XML\WF_XML-Serialization\WF_XML-Serialization\20_WF_XML-Serialization\obj\Debug\20_WF_XML-Serialization.exe
+C:\Users\Bilall\Downloads\Stage Windows Form\Stage Windows Form\Stage Windows Form\Stage Windows Form\Erdi Hoca\190905_Lecture_XML\WF_XML-Serialization\WF_XML-Serialization\20_WF_XML-Serialization\obj\Debug\20_WF_XML-Serialization.pdb

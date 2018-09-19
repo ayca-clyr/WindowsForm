@@ -1,0 +1,11 @@
+c:\users\ba\documents\visual studio 2013\Projects\CokluFormlar_160829\MDI_Forms\bin\Debug\MDI_Forms.exe.config
+c:\users\ba\documents\visual studio 2013\Projects\CokluFormlar_160829\MDI_Forms\bin\Debug\MDI_Forms.exe
+c:\users\ba\documents\visual studio 2013\Projects\CokluFormlar_160829\MDI_Forms\bin\Debug\MDI_Forms.pdb
+c:\users\ba\documents\visual studio 2013\Projects\CokluFormlar_160829\MDI_Forms\obj\Debug\MDI_Forms.csprojResolveAssemblyReference.cache
+c:\users\ba\documents\visual studio 2013\Projects\CokluFormlar_160829\MDI_Forms\obj\Debug\MDI_Forms.EmployeeAddForm.resources
+c:\users\ba\documents\visual studio 2013\Projects\CokluFormlar_160829\MDI_Forms\obj\Debug\MDI_Forms.EmployeeListForm.resources
+c:\users\ba\documents\visual studio 2013\Projects\CokluFormlar_160829\MDI_Forms\obj\Debug\MDI_Forms.Form1.resources
+c:\users\ba\documents\visual studio 2013\Projects\CokluFormlar_160829\MDI_Forms\obj\Debug\MDI_Forms.Properties.Resources.resources
+c:\users\ba\documents\visual studio 2013\Projects\CokluFormlar_160829\MDI_Forms\obj\Debug\MDI_Forms.csproj.GenerateResource.Cache
+c:\users\ba\documents\visual studio 2013\Projects\CokluFormlar_160829\MDI_Forms\obj\Debug\MDI_Forms.exe
+c:\users\ba\documents\visual studio 2013\Projects\CokluFormlar_160829\MDI_Forms\obj\Debug\MDI_Forms.pdb

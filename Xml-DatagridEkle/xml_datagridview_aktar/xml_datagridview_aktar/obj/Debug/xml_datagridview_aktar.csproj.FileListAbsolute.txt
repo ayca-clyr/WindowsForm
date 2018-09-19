@@ -1,0 +1,20 @@
+D:\ornekler\C#_net\xml_datagridview_aktar\xml_datagridview_aktar\obj\Debug\ResolveAssemblyReference.cache
+D:\ornekler\C#_net\xml_datagridview_aktar\xml_datagridview_aktar\obj\Debug\xml_datagridview_aktar.Form1.resources
+D:\ornekler\C#_net\xml_datagridview_aktar\xml_datagridview_aktar\obj\Debug\xml_datagridview_aktar.Properties.Resources.resources
+D:\ornekler\C#_net\xml_datagridview_aktar\xml_datagridview_aktar\obj\Debug\xml_datagridview_aktar.csproj.GenerateResource.Cache
+D:\ornekler\C#_net\xml_datagridview_aktar\xml_datagridview_aktar\bin\Debug\xml_datagridview_aktar.exe
+D:\ornekler\C#_net\xml_datagridview_aktar\xml_datagridview_aktar\bin\Debug\xml_datagridview_aktar.pdb
+D:\ornekler\C#_net\xml_datagridview_aktar\xml_datagridview_aktar\obj\Debug\xml_datagridview_aktar.exe
+D:\ornekler\C#_net\xml_datagridview_aktar\xml_datagridview_aktar\obj\Debug\xml_datagridview_aktar.pdb
+C:\Users\Ahmet\Desktop\xml_datagridview_aktar\xml_datagridview_aktar\obj\Debug\xml_datagridview_aktar.exe
+C:\Users\Ahmet\Desktop\xml_datagridview_aktar\xml_datagridview_aktar\obj\Debug\xml_datagridview_aktar.pdb
+C:\Users\Ahmet\Desktop\xml_datagridview_aktar\xml_datagridview_aktar\obj\Debug\xml_datagridview_aktar.csprojResolveAssemblyReference.cache
+C:\Users\Ahmet\Desktop\xml_datagridview_aktar\xml_datagridview_aktar\obj\Debug\xml_datagridview_aktar.Form1.resources
+C:\Users\Ahmet\Desktop\xml_datagridview_aktar\xml_datagridview_aktar\obj\Debug\xml_datagridview_aktar.Properties.Resources.resources
+C:\Users\Ahmet\Desktop\xml_datagridview_aktar\xml_datagridview_aktar\obj\Debug\xml_datagridview_aktar.csproj.GenerateResource.Cache
+C:\Users\Ahmet\Desktop\xml_datagridview_aktar\xml_datagridview_aktar\bin\Debug\xml_datagridview_aktar.exe
+C:\Users\Ahmet\Desktop\xml_datagridview_aktar\xml_datagridview_aktar\bin\Debug\xml_datagridview_aktar.pdb
+C:\Users\BA\Desktop\Stage Windows Form\190905_Lecture_XML\xml_datagrid\xml_datagridview_aktar\xml_datagridview_aktar\obj\Debug\xml_datagridview_aktar.exe
+C:\Users\BA\Desktop\Stage Windows Form\190905_Lecture_XML\xml_datagrid\xml_datagridview_aktar\xml_datagridview_aktar\obj\Debug\xml_datagridview_aktar.pdb
+C:\Users\Gunaydın\Desktop\Stage Windows Form\Stage Windows Form\Erdi Hoca\190905_Lecture_XML\xml_datagrid\xml_datagridview_aktar\xml_datagridview_aktar\obj\Debug\xml_datagridview_aktar.exe
+C:\Users\Gunaydın\Desktop\Stage Windows Form\Stage Windows Form\Erdi Hoca\190905_Lecture_XML\xml_datagrid\xml_datagridview_aktar\xml_datagridview_aktar\obj\Debug\xml_datagridview_aktar.pdb

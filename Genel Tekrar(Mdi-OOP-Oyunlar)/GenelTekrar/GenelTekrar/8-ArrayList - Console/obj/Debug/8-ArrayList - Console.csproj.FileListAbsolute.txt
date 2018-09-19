@@ -1,0 +1,6 @@
+C:\Users\Gunaydın\Documents\Visual Studio 2013\Projects\GenelTekrar\8-ArrayList - Console\bin\Debug\8-ArrayList - Console.exe.config
+C:\Users\Gunaydın\Documents\Visual Studio 2013\Projects\GenelTekrar\8-ArrayList - Console\bin\Debug\8-ArrayList - Console.exe
+C:\Users\Gunaydın\Documents\Visual Studio 2013\Projects\GenelTekrar\8-ArrayList - Console\bin\Debug\8-ArrayList - Console.pdb
+C:\Users\Gunaydın\Documents\Visual Studio 2013\Projects\GenelTekrar\8-ArrayList - Console\obj\Debug\8-ArrayList - Console.csprojResolveAssemblyReference.cache
+C:\Users\Gunaydın\Documents\Visual Studio 2013\Projects\GenelTekrar\8-ArrayList - Console\obj\Debug\8-ArrayList - Console.exe
+C:\Users\Gunaydın\Documents\Visual Studio 2013\Projects\GenelTekrar\8-ArrayList - Console\obj\Debug\8-ArrayList - Console.pdb

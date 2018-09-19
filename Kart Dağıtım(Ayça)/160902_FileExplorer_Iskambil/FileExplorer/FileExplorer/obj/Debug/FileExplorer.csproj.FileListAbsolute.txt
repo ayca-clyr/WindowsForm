@@ -1,0 +1,34 @@
+C:\Users\BA\Downloads\(Kalınlık)CokluFormlar_Paint160829\31-08CokluFormlar_Paint160829\CokluFormlar_Paint160829\FileExplorer\bin\Debug\FileExplorer.exe.config
+C:\Users\BA\Downloads\(Kalınlık)CokluFormlar_Paint160829\31-08CokluFormlar_Paint160829\CokluFormlar_Paint160829\FileExplorer\bin\Debug\FileExplorer.exe
+C:\Users\BA\Downloads\(Kalınlık)CokluFormlar_Paint160829\31-08CokluFormlar_Paint160829\CokluFormlar_Paint160829\FileExplorer\bin\Debug\FileExplorer.pdb
+C:\Users\BA\Downloads\(Kalınlık)CokluFormlar_Paint160829\31-08CokluFormlar_Paint160829\CokluFormlar_Paint160829\FileExplorer\obj\Debug\FileExplorer.csprojResolveAssemblyReference.cache
+C:\Users\BA\Downloads\(Kalınlık)CokluFormlar_Paint160829\31-08CokluFormlar_Paint160829\CokluFormlar_Paint160829\FileExplorer\obj\Debug\FileExplorer.Form1.resources
+C:\Users\BA\Downloads\(Kalınlık)CokluFormlar_Paint160829\31-08CokluFormlar_Paint160829\CokluFormlar_Paint160829\FileExplorer\obj\Debug\FileExplorer.Properties.Resources.resources
+C:\Users\BA\Downloads\(Kalınlık)CokluFormlar_Paint160829\31-08CokluFormlar_Paint160829\CokluFormlar_Paint160829\FileExplorer\obj\Debug\FileExplorer.csproj.GenerateResource.Cache
+C:\Users\BA\Downloads\(Kalınlık)CokluFormlar_Paint160829\31-08CokluFormlar_Paint160829\CokluFormlar_Paint160829\FileExplorer\obj\Debug\FileExplorer.exe
+C:\Users\BA\Downloads\(Kalınlık)CokluFormlar_Paint160829\31-08CokluFormlar_Paint160829\CokluFormlar_Paint160829\FileExplorer\obj\Debug\FileExplorer.pdb
+C:\Users\BA\Desktop\CokluFormlar_Paint160829\FileExplorer\bin\Debug\FileExplorer.exe.config
+C:\Users\BA\Desktop\CokluFormlar_Paint160829\FileExplorer\obj\Debug\FileExplorer.exe
+C:\Users\BA\Desktop\CokluFormlar_Paint160829\FileExplorer\obj\Debug\FileExplorer.pdb
+C:\Users\BA\Desktop\CokluFormlar_Paint160829\FileExplorer\bin\Debug\FileExplorer.exe
+C:\Users\BA\Desktop\CokluFormlar_Paint160829\FileExplorer\bin\Debug\FileExplorer.pdb
+C:\Users\BA\Desktop\CokluFormlar_Paint160829\FileExplorer\obj\Debug\FileExplorer.csprojResolveAssemblyReference.cache
+C:\Users\BA\Desktop\CokluFormlar_Paint160829\FileExplorer\obj\Debug\FileExplorer.Form1.resources
+C:\Users\BA\Desktop\CokluFormlar_Paint160829\FileExplorer\obj\Debug\FileExplorer.Properties.Resources.resources
+C:\Users\BA\Desktop\CokluFormlar_Paint160829\FileExplorer\obj\Debug\FileExplorer.csproj.GenerateResource.Cache
+C:\Users\Ayça\Downloads\160902_FileExplorer\FileExplorer\FileExplorer\bin\Debug\FileExplorer.exe.config
+C:\Users\Ayça\Downloads\160902_FileExplorer\FileExplorer\FileExplorer\obj\Debug\FileExplorer.exe
+C:\Users\Ayça\Downloads\160902_FileExplorer\FileExplorer\FileExplorer\obj\Debug\FileExplorer.pdb
+C:\Users\Ayça\Desktop\160902_FileExplorer_Iskambil\FileExplorer\FileExplorer\bin\Debug\FileExplorer.exe.config
+C:\Users\Ayça\Desktop\160902_FileExplorer_Iskambil\FileExplorer\FileExplorer\obj\Debug\FileExplorer.exe
+C:\Users\Ayça\Desktop\160902_FileExplorer_Iskambil\FileExplorer\FileExplorer\obj\Debug\FileExplorer.pdb
+C:\Users\Ayça\Desktop\Bilge Adam\drive-download-20161214T130250Z\160902_FileExplorer_Iskambil\160902_FileExplorer_Iskambil\FileExplorer\FileExplorer\bin\Debug\FileExplorer.exe.config
+C:\Users\Ayça\Desktop\Bilge Adam\drive-download-20161214T130250Z\160902_FileExplorer_Iskambil\160902_FileExplorer_Iskambil\FileExplorer\FileExplorer\bin\Debug\FileExplorer.exe
+C:\Users\Ayça\Desktop\Bilge Adam\drive-download-20161214T130250Z\160902_FileExplorer_Iskambil\160902_FileExplorer_Iskambil\FileExplorer\FileExplorer\bin\Debug\FileExplorer.pdb
+C:\Users\Ayça\Desktop\Bilge Adam\drive-download-20161214T130250Z\160902_FileExplorer_Iskambil\160902_FileExplorer_Iskambil\FileExplorer\FileExplorer\obj\Debug\FileExplorer.csprojResolveAssemblyReference.cache
+C:\Users\Ayça\Desktop\Bilge Adam\drive-download-20161214T130250Z\160902_FileExplorer_Iskambil\160902_FileExplorer_Iskambil\FileExplorer\FileExplorer\obj\Debug\FileExplorer.Form1.resources
+C:\Users\Ayça\Desktop\Bilge Adam\drive-download-20161214T130250Z\160902_FileExplorer_Iskambil\160902_FileExplorer_Iskambil\FileExplorer\FileExplorer\obj\Debug\FileExplorer.Properties.Resources.resources
+C:\Users\Ayça\Desktop\Bilge Adam\drive-download-20161214T130250Z\160902_FileExplorer_Iskambil\160902_FileExplorer_Iskambil\FileExplorer\FileExplorer\obj\Debug\FileExplorer.csproj.GenerateResource.Cache
+C:\Users\Ayça\Desktop\Bilge Adam\drive-download-20161214T130250Z\160902_FileExplorer_Iskambil\160902_FileExplorer_Iskambil\FileExplorer\FileExplorer\obj\Debug\FileExplorer.csproj.CoreCompileInputs.cache
+C:\Users\Ayça\Desktop\Bilge Adam\drive-download-20161214T130250Z\160902_FileExplorer_Iskambil\160902_FileExplorer_Iskambil\FileExplorer\FileExplorer\obj\Debug\FileExplorer.exe
+C:\Users\Ayça\Desktop\Bilge Adam\drive-download-20161214T130250Z\160902_FileExplorer_Iskambil\160902_FileExplorer_Iskambil\FileExplorer\FileExplorer\obj\Debug\FileExplorer.pdb

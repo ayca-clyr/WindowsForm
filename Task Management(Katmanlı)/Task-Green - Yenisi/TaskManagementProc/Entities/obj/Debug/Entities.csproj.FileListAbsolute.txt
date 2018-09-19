@@ -1,0 +1,6 @@
+C:\Users\Ayça\Desktop\Task-Green - Yenisi\TaskManagementProc\Entities\bin\Debug\Entities.dll.config
+C:\Users\Ayça\Desktop\Task-Green - Yenisi\TaskManagementProc\Entities\bin\Debug\Entities.dll
+C:\Users\Ayça\Desktop\Task-Green - Yenisi\TaskManagementProc\Entities\bin\Debug\Entities.pdb
+C:\Users\Ayça\Desktop\Task-Green - Yenisi\TaskManagementProc\Entities\obj\Debug\Entities.dll
+C:\Users\Ayça\Desktop\Task-Green - Yenisi\TaskManagementProc\Entities\obj\Debug\Entities.pdb
+C:\Users\Ayça\Desktop\Task-Green - Yenisi\TaskManagementProc\Entities\obj\Debug\Entities.csprojResolveAssemblyReference.cache

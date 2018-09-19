@@ -1,0 +1,9 @@
+C:\Users\BA\Documents\Visual Studio 2013\Projects\Object_Oriented_Programming\ValueType_Vs_Reference\bin\Debug\ValueType_Vs_Reference.exe.config
+C:\Users\BA\Documents\Visual Studio 2013\Projects\Object_Oriented_Programming\ValueType_Vs_Reference\bin\Debug\ValueType_Vs_Reference.exe
+C:\Users\BA\Documents\Visual Studio 2013\Projects\Object_Oriented_Programming\ValueType_Vs_Reference\bin\Debug\ValueType_Vs_Reference.pdb
+C:\Users\BA\Documents\Visual Studio 2013\Projects\Object_Oriented_Programming\ValueType_Vs_Reference\obj\Debug\ValueType_Vs_Reference.csprojResolveAssemblyReference.cache
+C:\Users\BA\Documents\Visual Studio 2013\Projects\Object_Oriented_Programming\ValueType_Vs_Reference\obj\Debug\ValueType_Vs_Reference.Form1.resources
+C:\Users\BA\Documents\Visual Studio 2013\Projects\Object_Oriented_Programming\ValueType_Vs_Reference\obj\Debug\ValueType_Vs_Reference.Properties.Resources.resources
+C:\Users\BA\Documents\Visual Studio 2013\Projects\Object_Oriented_Programming\ValueType_Vs_Reference\obj\Debug\ValueType_Vs_Reference.csproj.GenerateResource.Cache
+C:\Users\BA\Documents\Visual Studio 2013\Projects\Object_Oriented_Programming\ValueType_Vs_Reference\obj\Debug\ValueType_Vs_Reference.exe
+C:\Users\BA\Documents\Visual Studio 2013\Projects\Object_Oriented_Programming\ValueType_Vs_Reference\obj\Debug\ValueType_Vs_Reference.pdb

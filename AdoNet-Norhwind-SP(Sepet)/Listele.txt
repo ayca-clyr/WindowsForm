@@ -1,0 +1,17 @@
+
+GO
+ALTER PROC sp_Listele
+@urunAdi varchar(50),
+@musteriAdi varchar(50),
+@kargoAdi varchar(50),
+@calisanAdi varchar(50),
+@miktar int
+AS
+BEGIN
+	select o.OrderID,p.ProductID, od.Discount,od.Quantity,od.UnitPrice from  [Order Details] od 
+	JOIN Products p ON od.ProductID = p.ProductID
+	JOIN Orders o ON o.OrderID = od.OrderID
+	JOIN Customers cu ON cu.CustomerID = o.CustomerID
+	JOIN Employees e ON e.EmployeeID = o.EmployeeID WHERE p.ProductName = @urunAdi and cu.CompanyName = @musteriAdi and o.ShipName = @kargoAdi and e.FirstName =@calisanAdi and @miktar = od.Quantity
+END
+

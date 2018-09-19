@@ -1,0 +1,24 @@
+c:\users\ba\documents\visual studio 2013\Projects\160920_Maraton\Part_1\bin\Debug\Part_1.exe.config
+c:\users\ba\documents\visual studio 2013\Projects\160920_Maraton\Part_1\bin\Debug\Part_1.exe
+c:\users\ba\documents\visual studio 2013\Projects\160920_Maraton\Part_1\bin\Debug\Part_1.pdb
+c:\users\ba\documents\visual studio 2013\Projects\160920_Maraton\Part_1\obj\Debug\Part_1.csprojResolveAssemblyReference.cache
+c:\users\ba\documents\visual studio 2013\Projects\160920_Maraton\Part_1\obj\Debug\Part_1.Form1.resources
+c:\users\ba\documents\visual studio 2013\Projects\160920_Maraton\Part_1\obj\Debug\Part_1.Properties.Resources.resources
+c:\users\ba\documents\visual studio 2013\Projects\160920_Maraton\Part_1\obj\Debug\Part_1.csproj.GenerateResource.Cache
+c:\users\ba\documents\visual studio 2013\Projects\160920_Maraton\Part_1\obj\Debug\Part_1.exe
+c:\users\ba\documents\visual studio 2013\Projects\160920_Maraton\Part_1\obj\Debug\Part_1.pdb
+C:\Users\Ayça\Downloads\160920_Maraton_Part1\160920_Maraton\Part_1\bin\Debug\Part_1.exe.config
+C:\Users\Ayça\Downloads\160920_Maraton_Part1\160920_Maraton\Part_1\obj\Debug\Part_1.exe
+C:\Users\Ayça\Downloads\160920_Maraton_Part1\160920_Maraton\Part_1\obj\Debug\Part_1.pdb
+C:\Users\Ayça\Downloads\160920_Maraton_Part1\160920_Maraton\Part_1\bin\Debug\Part_1.exe
+C:\Users\Ayça\Downloads\160920_Maraton_Part1\160920_Maraton\Part_1\bin\Debug\Part_1.pdb
+C:\Users\Ayça\Downloads\160920_Maraton_Part1\160920_Maraton\Part_1\obj\Debug\Part_1.csprojResolveAssemblyReference.cache
+C:\Users\Ayça\Downloads\160920_Maraton_Part1\160920_Maraton\Part_1\obj\Debug\Part_1.Form1.resources
+C:\Users\Ayça\Downloads\160920_Maraton_Part1\160920_Maraton\Part_1\obj\Debug\Part_1.Properties.Resources.resources
+C:\Users\Ayça\Downloads\160920_Maraton_Part1\160920_Maraton\Part_1\obj\Debug\Part_1.csproj.GenerateResource.Cache
+C:\Users\BA\Downloads\160920_Maraton_Part1\160920_Maraton\Part_1\bin\Debug\Part_1.exe.config
+C:\Users\BA\Downloads\160920_Maraton_Part1\160920_Maraton\Part_1\obj\Debug\Part_1.exe
+C:\Users\BA\Downloads\160920_Maraton_Part1\160920_Maraton\Part_1\obj\Debug\Part_1.pdb
+C:\Users\BA\Desktop\160920_Maraton_Part1\160920_Maraton\Part_1\bin\Debug\Part_1.exe.config
+C:\Users\BA\Desktop\160920_Maraton_Part1\160920_Maraton\Part_1\obj\Debug\Part_1.exe
+C:\Users\BA\Desktop\160920_Maraton_Part1\160920_Maraton\Part_1\obj\Debug\Part_1.pdb

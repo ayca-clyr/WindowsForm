@@ -1,0 +1,21 @@
+c:\users\ba\documents\visual studio 2013\Projects\Maraton_160923\Part_1\bin\Debug\Part_1.exe.config
+c:\users\ba\documents\visual studio 2013\Projects\Maraton_160923\Part_1\bin\Debug\Part_1.exe
+c:\users\ba\documents\visual studio 2013\Projects\Maraton_160923\Part_1\bin\Debug\Part_1.pdb
+c:\users\ba\documents\visual studio 2013\Projects\Maraton_160923\Part_1\obj\Debug\Part_1.csprojResolveAssemblyReference.cache
+c:\users\ba\documents\visual studio 2013\Projects\Maraton_160923\Part_1\obj\Debug\Part_1.Properties.Resources.resources
+c:\users\ba\documents\visual studio 2013\Projects\Maraton_160923\Part_1\obj\Debug\Part_1.csproj.GenerateResource.Cache
+c:\users\ba\documents\visual studio 2013\Projects\Maraton_160923\Part_1\obj\Debug\Part_1.exe
+c:\users\ba\documents\visual studio 2013\Projects\Maraton_160923\Part_1\obj\Debug\Part_1.pdb
+C:\Users\BA\Documents\Visual Studio 2013\Projects\Maraton_160923\Part_1\obj\Debug\Part_1.Form1.resources
+C:\Users\Ayça\Desktop\Maraton_160923\Maraton_160923\Part_1\bin\Debug\Part_1.exe.config
+C:\Users\Ayça\Desktop\Maraton_160923\Maraton_160923\Part_1\obj\Debug\Part_1.exe
+C:\Users\Ayça\Desktop\Maraton_160923\Maraton_160923\Part_1\obj\Debug\Part_1.pdb
+C:\Users\BA\Desktop\Maraton_160926\Maraton_160923\Maraton_160923\Part_1\bin\Debug\Part_1.exe.config
+C:\Users\BA\Desktop\Maraton_160926\Maraton_160923\Maraton_160923\Part_1\obj\Debug\Part_1.exe
+C:\Users\BA\Desktop\Maraton_160926\Maraton_160923\Maraton_160923\Part_1\obj\Debug\Part_1.pdb
+C:\Users\BA\Desktop\Maraton_160926\Maraton_160923\Maraton_160923\Part_1\bin\Debug\Part_1.exe
+C:\Users\BA\Desktop\Maraton_160926\Maraton_160923\Maraton_160923\Part_1\bin\Debug\Part_1.pdb
+C:\Users\BA\Desktop\Maraton_160926\Maraton_160923\Maraton_160923\Part_1\obj\Debug\Part_1.csprojResolveAssemblyReference.cache
+C:\Users\BA\Desktop\Maraton_160926\Maraton_160923\Maraton_160923\Part_1\obj\Debug\Part_1.Form1.resources
+C:\Users\BA\Desktop\Maraton_160926\Maraton_160923\Maraton_160923\Part_1\obj\Debug\Part_1.Properties.Resources.resources
+C:\Users\BA\Desktop\Maraton_160926\Maraton_160923\Maraton_160923\Part_1\obj\Debug\Part_1.csproj.GenerateResource.Cache

@@ -1,0 +1,56 @@
+USE [Northwnd]
+GO
+CREATE PROC [dbo].[sp_OrderAdd]
+(
+@CustomerID nchar(5),
+@EmployeeID int,
+@ShipperID int
+)
+AS
+BEGIN
+	INSERT INTO Orders (CustomerID,EmployeeID,ShipVia) VALUES (@CustomerID,@EmployeeID,@ShipperID)
+	SELECT OrderID FROM Orders WHERE OrderID =(SELECT SCOPE_IDENTITY())
+END
+
+GO
+
+CREATE PROC [dbo].[sp_OrderDetailsSave]
+(
+@ProductID int,
+@OrderID int,
+@UnitPrice money,
+@Quantity smallint
+)
+AS
+BEGIN
+INSERT INTO [Order Details] (ProductID,OrderID,UnitPrice,Quantity) VALUES (@ProductID,@OrderID,@UnitPrice,@Quantity)
+
+Update Products set UnitsInStock=UnitsInStock-@Quantity where ProductID=@ProductID
+END
+
+GO
+
+CREATE PROC [dbo].[sp_ProductList] 
+AS
+BEGIN
+SELECT ProductID,ProductName,CategoryName,QuantityPerUnit,UnitPrice,UnitsInStock FROM Products INNER JOIN Categories ON Products.CategoryID=Categories.CategoryID  WHERE UnitsInStock>0
+END
+
+GO
+
+CREATE PROC [dbo].[sp_UnitsInStockControl] 
+(
+@ProductID int,
+@Piece int
+)
+AS
+BEGIN
+	if ((SELECT UnitsInStock FROM Products WHERE ProductID=@ProductID)>=@Piece)
+	BEGIN
+		SELECT '1'
+	END
+	ELSE
+	BEGIN
+		SELECT '0'
+	END
+END

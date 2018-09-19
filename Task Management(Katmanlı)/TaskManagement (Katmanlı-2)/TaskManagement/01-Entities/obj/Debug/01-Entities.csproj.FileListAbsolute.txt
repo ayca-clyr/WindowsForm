@@ -1,0 +1,5 @@
+C:\Users\Bilal\Desktop\Task Management\TaskManagement\01-Entities\bin\Debug\01-Entities.dll
+C:\Users\Bilal\Desktop\Task Management\TaskManagement\01-Entities\bin\Debug\01-Entities.pdb
+C:\Users\Bilal\Desktop\Task Management\TaskManagement\01-Entities\obj\Debug\01-Entities.csprojResolveAssemblyReference.cache
+C:\Users\Bilal\Desktop\Task Management\TaskManagement\01-Entities\obj\Debug\01-Entities.dll
+C:\Users\Bilal\Desktop\Task Management\TaskManagement\01-Entities\obj\Debug\01-Entities.pdb

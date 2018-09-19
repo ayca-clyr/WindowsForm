@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Kullanicilar>
+  <Kullanıcı ID="1">
+    <KullaniciAdi>Gökhan</KullaniciAdi>
+    <Puan>1000</Puan>
+  </Kullanıcı>
+  <Kullanici ID="2">
+    <KullaniciAdi>Muhittin</KullaniciAdi>
+    <Puan>0</Puan>
+  </Kullanici>
+  <Kullanici ID="3">
+    <KullaniciAdi>Ahmet</KullaniciAdi>
+    <Puan>100</Puan>
+  </Kullanici>
+  <Kullanici ID="4">
+    <KullaniciAdi>Tsubasa</KullaniciAdi>
+    <Puan>-100</Puan>
+  </Kullanici>
+</Kullanicilar>

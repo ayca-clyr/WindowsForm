@@ -1,0 +1,9 @@
+C:\Users\Gunaydın\Documents\Visual Studio 2013\Projects\GenelTekrar\9-Marathon160826 Winform\bin\Debug\9-Marathon160826 Winform.exe.config
+C:\Users\Gunaydın\Documents\Visual Studio 2013\Projects\GenelTekrar\9-Marathon160826 Winform\bin\Debug\9-Marathon160826 Winform.exe
+C:\Users\Gunaydın\Documents\Visual Studio 2013\Projects\GenelTekrar\9-Marathon160826 Winform\bin\Debug\9-Marathon160826 Winform.pdb
+C:\Users\Gunaydın\Documents\Visual Studio 2013\Projects\GenelTekrar\9-Marathon160826 Winform\obj\Debug\9-Marathon160826 Winform.csprojResolveAssemblyReference.cache
+C:\Users\Gunaydın\Documents\Visual Studio 2013\Projects\GenelTekrar\9-Marathon160826 Winform\obj\Debug\_9_Marathon160826_Winform.Form1.resources
+C:\Users\Gunaydın\Documents\Visual Studio 2013\Projects\GenelTekrar\9-Marathon160826 Winform\obj\Debug\_9_Marathon160826_Winform.Properties.Resources.resources
+C:\Users\Gunaydın\Documents\Visual Studio 2013\Projects\GenelTekrar\9-Marathon160826 Winform\obj\Debug\9-Marathon160826 Winform.csproj.GenerateResource.Cache
+C:\Users\Gunaydın\Documents\Visual Studio 2013\Projects\GenelTekrar\9-Marathon160826 Winform\obj\Debug\9-Marathon160826 Winform.exe
+C:\Users\Gunaydın\Documents\Visual Studio 2013\Projects\GenelTekrar\9-Marathon160826 Winform\obj\Debug\9-Marathon160826 Winform.pdb

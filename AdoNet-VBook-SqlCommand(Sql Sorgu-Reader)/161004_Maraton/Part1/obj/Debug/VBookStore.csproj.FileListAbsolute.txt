@@ -1,0 +1,14 @@
+c:\users\ba\documents\visual studio 2013\Projects\161004_Maraton\Part1\obj\Debug\VBookStore.csprojResolveAssemblyReference.cache
+c:\users\ba\documents\visual studio 2013\Projects\161004_Maraton\Part1\obj\Debug\Part1.SqlConnectionTestForm.resources
+c:\users\ba\documents\visual studio 2013\Projects\161004_Maraton\Part1\obj\Debug\Part1.Properties.Resources.resources
+c:\users\ba\documents\visual studio 2013\Projects\161004_Maraton\Part1\obj\Debug\VBookStore.csproj.GenerateResource.Cache
+c:\users\ba\documents\visual studio 2013\Projects\161004_Maraton\Part1\bin\Debug\Part1.exe.config
+c:\users\ba\documents\visual studio 2013\Projects\161004_Maraton\Part1\bin\Debug\Part1.exe
+c:\users\ba\documents\visual studio 2013\Projects\161004_Maraton\Part1\bin\Debug\Part1.pdb
+c:\users\ba\documents\visual studio 2013\Projects\161004_Maraton\Part1\obj\Debug\Part1.exe
+c:\users\ba\documents\visual studio 2013\Projects\161004_Maraton\Part1\obj\Debug\Part1.pdb
+c:\users\ba\documents\visual studio 2013\Projects\161004_Maraton\Part1\obj\Debug\Part1.CategoryEditForm.resources
+c:\users\ba\documents\visual studio 2013\Projects\161004_Maraton\Part1\obj\Debug\Part1.Conneciton.resources
+c:\users\ba\documents\visual studio 2013\Projects\161004_Maraton\Part1\obj\Debug\Part1.CategoryListForm.resources
+c:\users\ba\documents\visual studio 2013\Projects\161004_Maraton\Part1\obj\Debug\Part1.AuthorAddForm.resources
+c:\users\ba\documents\visual studio 2013\Projects\161004_Maraton\Part1\obj\Debug\Part1.AuthorListForm.resources

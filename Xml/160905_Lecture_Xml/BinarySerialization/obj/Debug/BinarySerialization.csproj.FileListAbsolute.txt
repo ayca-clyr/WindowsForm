@@ -1,0 +1,1 @@
+C:\Users\BA\Documents\Visual Studio 2013\Projects\160905_Lecture_Xml\BinarySerialization\bin\Debug\BinarySerialization.exe.config

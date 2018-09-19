@@ -1,0 +1,268 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{6B9475E3-832A-46A6-8B3B-20266993B22B}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Login</RootNamespace>
+    <AssemblyName>Login</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <SccProjectName>SAK</SccProjectName>
+    <SccLocalPath>SAK</SccLocalPath>
+    <SccAuxPath>SAK</SccAuxPath>
+    <SccProvider>SAK</SccProvider>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="EntityFramework">
+      <HintPath>..\packages\EntityFramework.6.1.3\lib\net45\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer">
+      <HintPath>..\packages\EntityFramework.6.1.3\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Business Alanyst\ProjectList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Business Alanyst\ProjectList.Designer.cs">
+      <DependentUpon>ProjectList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Business Alanyst\BusinessAnalystLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Business Alanyst\BusinessAnalystLogin.Designer.cs">
+      <DependentUpon>BusinessAnalystLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Project Management\CustomerAdd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Project Management\CustomerAdd.Designer.cs">
+      <DependentUpon>CustomerAdd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Project Management\EmployeeAdd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Project Management\EmployeeAdd.Designer.cs">
+      <DependentUpon>EmployeeAdd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ForgetPassword.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ForgetPassword.Designer.cs">
+      <DependentUpon>ForgetPassword.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Project Management\NewProjectAdd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Project Management\NewProjectAdd.Designer.cs">
+      <DependentUpon>NewProjectAdd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Project Management\ProjectManagementLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Project Management\ProjectManagementLogin.Designer.cs">
+      <DependentUpon>ProjectManagementLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Project Management\ProjectList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Project Management\ProjectList.Designer.cs">
+      <DependentUpon>ProjectList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Software Developer\SoftwareDeveloper.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Software Developer\SoftwareDeveloper.Designer.cs">
+      <DependentUpon>SoftwareDeveloper.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Business Alanyst\BusinessAddTask.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Business Alanyst\BusinessAddTask.Designer.cs">
+      <DependentUpon>BusinessAddTask.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Team Leader\TeamAddTask.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Team Leader\TeamAddTask.Designer.cs">
+      <DependentUpon>TeamAddTask.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Team Leader\ProjectList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Team Leader\ProjectList.Designer.cs">
+      <DependentUpon>ProjectList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Team Leader\TeamUpdateSitauition.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Team Leader\TeamUpdateSitauition.Designer.cs">
+      <DependentUpon>TeamUpdateSitauition.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Team Leader\TeamLeaderLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Team Leader\TeamLeaderLogin.Designer.cs">
+      <DependentUpon>TeamLeaderLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Testing Specialist\TestingSpecialist.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Testing Specialist\TestingSpecialist.Designer.cs">
+      <DependentUpon>TestingSpecialist.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Business Alanyst\BusinessUpdateRequestType.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Business Alanyst\BusinessUpdateRequestType.Designer.cs">
+      <DependentUpon>BusinessUpdateRequestType.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Team Leader\TeamUpdateRequestType.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Team Leader\TeamUpdateRequestType.Designer.cs">
+      <DependentUpon>TeamUpdateRequestType.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Business Alanyst\ProjectList.resx">
+      <DependentUpon>ProjectList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Business Alanyst\BusinessAnalystLogin.resx">
+      <DependentUpon>BusinessAnalystLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Project Management\CustomerAdd.resx">
+      <DependentUpon>CustomerAdd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Project Management\EmployeeAdd.resx">
+      <DependentUpon>EmployeeAdd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ForgetPassword.resx">
+      <DependentUpon>ForgetPassword.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Project Management\NewProjectAdd.resx">
+      <DependentUpon>NewProjectAdd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Project Management\ProjectManagementLogin.resx">
+      <DependentUpon>ProjectManagementLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Project Management\ProjectList.resx">
+      <DependentUpon>ProjectList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Software Developer\SoftwareDeveloper.resx">
+      <DependentUpon>SoftwareDeveloper.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Business Alanyst\BusinessAddTask.resx">
+      <DependentUpon>BusinessAddTask.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Team Leader\TeamAddTask.resx">
+      <DependentUpon>TeamAddTask.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Team Leader\ProjectList.resx">
+      <DependentUpon>ProjectList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Team Leader\TeamUpdateSitauition.resx">
+      <DependentUpon>TeamUpdateSitauition.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Team Leader\TeamLeaderLogin.resx">
+      <DependentUpon>TeamLeaderLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Testing Specialist\TestingSpecialist.resx">
+      <DependentUpon>TestingSpecialist.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Business Alanyst\BusinessUpdateRequestType.resx">
+      <DependentUpon>BusinessUpdateRequestType.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Team Leader\TeamUpdateRequestType.resx">
+      <DependentUpon>TeamUpdateRequestType.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\BussinessLayer\BussinessLayer.csproj">
+      <Project>{e4c0ef7e-f8d3-41ab-8a3a-b8adeec40c89}</Project>
+      <Name>BussinessLayer</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Entities\Entities.csproj">
+      <Project>{2fbc479b-4bdd-4c2c-b790-ca827b53140a}</Project>
+      <Name>Entities</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="image\1477762223_Manager.ico" />
+    <Content Include="image\1477763063_user_accounts.png" />
+    <Content Include="image\maxresdefault.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

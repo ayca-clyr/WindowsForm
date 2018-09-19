@@ -1,0 +1,9 @@
+C:\Users\Gunaydın\Desktop\GenelTekrar\20-OOP-Encapsulation\bin\Debug\20-OOP-Encapsulation.exe.config
+C:\Users\Gunaydın\Desktop\GenelTekrar\20-OOP-Encapsulation\obj\Debug\20-OOP-Encapsulation.exe
+C:\Users\Gunaydın\Desktop\GenelTekrar\20-OOP-Encapsulation\obj\Debug\20-OOP-Encapsulation.pdb
+C:\Users\Ayça\Desktop\Bilge Adam\drive-download-20161214T123646Z\GenelTekrar\GenelTekrar\GenelTekrar\20-OOP-Encapsulation\obj\Debug\_20_OOP_Encapsulation.Form1.resources
+C:\Users\Ayça\Desktop\Bilge Adam\drive-download-20161214T123646Z\GenelTekrar\GenelTekrar\GenelTekrar\20-OOP-Encapsulation\obj\Debug\_20_OOP_Encapsulation.Properties.Resources.resources
+C:\Users\Ayça\Desktop\Bilge Adam\drive-download-20161214T123646Z\GenelTekrar\GenelTekrar\GenelTekrar\20-OOP-Encapsulation\obj\Debug\20-OOP_Encapsulation (Kapsülleme).csproj.GenerateResource.Cache
+C:\Users\Ayça\Desktop\Bilge Adam\drive-download-20161214T123646Z\GenelTekrar\GenelTekrar\GenelTekrar\20-OOP-Encapsulation\obj\Debug\20-OOP_Encapsulation (Kapsülleme).csproj.CoreCompileInputs.cache
+C:\Users\Ayça\Desktop\Bilge Adam\drive-download-20161214T123646Z\GenelTekrar\GenelTekrar\GenelTekrar\20-OOP-Encapsulation\obj\Debug\20-OOP-Encapsulation.exe
+C:\Users\Ayça\Desktop\Bilge Adam\drive-download-20161214T123646Z\GenelTekrar\GenelTekrar\GenelTekrar\20-OOP-Encapsulation\obj\Debug\20-OOP-Encapsulation.pdb

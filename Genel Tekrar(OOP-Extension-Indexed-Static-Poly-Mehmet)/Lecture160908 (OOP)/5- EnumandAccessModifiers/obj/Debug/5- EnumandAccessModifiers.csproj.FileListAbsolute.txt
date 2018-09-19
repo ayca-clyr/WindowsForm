@@ -1,0 +1,12 @@
+C:\Users\BA\Documents\Visual Studio 2013\Projects\160908\Lecture160908 (OOP)\5- EnumandAccessModifiers\bin\Debug\5- EnumandAccessModifiers.exe.config
+C:\Users\BA\Documents\Visual Studio 2013\Projects\160908\Lecture160908 (OOP)\5- EnumandAccessModifiers\obj\Debug\_5__EnumandAccessModifiers.Form1.resources
+C:\Users\BA\Documents\Visual Studio 2013\Projects\160908\Lecture160908 (OOP)\5- EnumandAccessModifiers\obj\Debug\_5__EnumandAccessModifiers.Properties.Resources.resources
+C:\Users\BA\Documents\Visual Studio 2013\Projects\160908\Lecture160908 (OOP)\5- EnumandAccessModifiers\obj\Debug\5- EnumandAccessModifiers.csproj.GenerateResource.Cache
+C:\Users\BA\Documents\Visual Studio 2013\Projects\160908\Lecture160908 (OOP)\5- EnumandAccessModifiers\bin\Debug\5- EnumandAccessModifiers.exe
+C:\Users\BA\Documents\Visual Studio 2013\Projects\160908\Lecture160908 (OOP)\5- EnumandAccessModifiers\bin\Debug\5- EnumandAccessModifiers.pdb
+C:\Users\BA\Documents\Visual Studio 2013\Projects\160908\Lecture160908 (OOP)\5- EnumandAccessModifiers\obj\Debug\5- EnumandAccessModifiers.exe
+C:\Users\BA\Documents\Visual Studio 2013\Projects\160908\Lecture160908 (OOP)\5- EnumandAccessModifiers\obj\Debug\5- EnumandAccessModifiers.pdb
+C:\Users\BA\Documents\Visual Studio 2013\Projects\160908\Lecture160908 (OOP)\5- EnumandAccessModifiers\obj\Debug\5- EnumandAccessModifiers.csprojResolveAssemblyReference.cache
+C:\Users\BA\Documents\Visual Studio 2013\Projects\160908\160909\Lecture160908 (OOP)\5- EnumandAccessModifiers\bin\Debug\5- EnumandAccessModifiers.exe.config
+C:\Users\BA\Documents\Visual Studio 2013\Projects\160908\160909\Lecture160908 (OOP)\5- EnumandAccessModifiers\obj\Debug\5- EnumandAccessModifiers.exe
+C:\Users\BA\Documents\Visual Studio 2013\Projects\160908\160909\Lecture160908 (OOP)\5- EnumandAccessModifiers\obj\Debug\5- EnumandAccessModifiers.pdb

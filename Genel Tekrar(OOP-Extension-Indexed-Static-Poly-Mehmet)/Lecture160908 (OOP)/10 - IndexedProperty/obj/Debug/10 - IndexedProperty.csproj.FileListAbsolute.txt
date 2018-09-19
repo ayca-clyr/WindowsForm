@@ -1,0 +1,9 @@
+C:\Users\BA\Documents\Visual Studio 2013\Projects\Lecture160908 (OOP)\10 - IndexedProperty\bin\Debug\10 - IndexedProperty.exe.config
+C:\Users\BA\Documents\Visual Studio 2013\Projects\Lecture160908 (OOP)\10 - IndexedProperty\bin\Debug\10 - IndexedProperty.exe
+C:\Users\BA\Documents\Visual Studio 2013\Projects\Lecture160908 (OOP)\10 - IndexedProperty\bin\Debug\10 - IndexedProperty.pdb
+C:\Users\BA\Documents\Visual Studio 2013\Projects\Lecture160908 (OOP)\10 - IndexedProperty\obj\Debug\_10___IndexedProperty.Form1.resources
+C:\Users\BA\Documents\Visual Studio 2013\Projects\Lecture160908 (OOP)\10 - IndexedProperty\obj\Debug\_10___IndexedProperty.Properties.Resources.resources
+C:\Users\BA\Documents\Visual Studio 2013\Projects\Lecture160908 (OOP)\10 - IndexedProperty\obj\Debug\10 - IndexedProperty.csproj.GenerateResource.Cache
+C:\Users\BA\Documents\Visual Studio 2013\Projects\Lecture160908 (OOP)\10 - IndexedProperty\obj\Debug\10 - IndexedProperty.exe
+C:\Users\BA\Documents\Visual Studio 2013\Projects\Lecture160908 (OOP)\10 - IndexedProperty\obj\Debug\10 - IndexedProperty.pdb
+C:\Users\BA\Documents\Visual Studio 2013\Projects\Lecture160908 (OOP)\10 - IndexedProperty\obj\Debug\10 - IndexedProperty.csprojResolveAssemblyReference.cache

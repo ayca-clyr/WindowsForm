@@ -1,0 +1,3 @@
+C:\Users\Bilal\Desktop\GenelTekrar\20-OOP-Encapsulation\bin\Debug\20-OOP-Encapsulation.exe.config
+C:\Users\Bilal\Desktop\GenelTekrar\20-OOP-Encapsulation\obj\Debug\20-OOP-Encapsulation.exe
+C:\Users\Bilal\Desktop\GenelTekrar\20-OOP-Encapsulation\obj\Debug\20-OOP-Encapsulation.pdb

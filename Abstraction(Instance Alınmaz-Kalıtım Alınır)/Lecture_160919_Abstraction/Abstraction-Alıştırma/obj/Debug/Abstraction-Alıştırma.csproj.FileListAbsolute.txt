@@ -1,0 +1,8 @@
+c:\users\ba\documents\visual studio 2013\Projects\Lecture_160919_Abstraction\Abstraction-Alıştırma\bin\Debug\Abstraction-Alıştırma.exe.config
+c:\users\ba\documents\visual studio 2013\Projects\Lecture_160919_Abstraction\Abstraction-Alıştırma\bin\Debug\Abstraction-Alıştırma.exe
+c:\users\ba\documents\visual studio 2013\Projects\Lecture_160919_Abstraction\Abstraction-Alıştırma\bin\Debug\Abstraction-Alıştırma.pdb
+c:\users\ba\documents\visual studio 2013\Projects\Lecture_160919_Abstraction\Abstraction-Alıştırma\obj\Debug\Abstraction-Alıştırma.csprojResolveAssemblyReference.cache
+c:\users\ba\documents\visual studio 2013\Projects\Lecture_160919_Abstraction\Abstraction-Alıştırma\obj\Debug\Abstraction_Alıştırma.Properties.Resources.resources
+c:\users\ba\documents\visual studio 2013\Projects\Lecture_160919_Abstraction\Abstraction-Alıştırma\obj\Debug\Abstraction-Alıştırma.csproj.GenerateResource.Cache
+c:\users\ba\documents\visual studio 2013\Projects\Lecture_160919_Abstraction\Abstraction-Alıştırma\obj\Debug\Abstraction-Alıştırma.exe
+c:\users\ba\documents\visual studio 2013\Projects\Lecture_160919_Abstraction\Abstraction-Alıştırma\obj\Debug\Abstraction-Alıştırma.pdb

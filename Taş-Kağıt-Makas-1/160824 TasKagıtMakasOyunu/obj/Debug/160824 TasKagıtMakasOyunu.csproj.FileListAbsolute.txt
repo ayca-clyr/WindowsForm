@@ -1,0 +1,48 @@
+c:\users\gunaydın\documents\visual studio 2013\Projects\160824 TasKagıtMakasOyunu\160824 TasKagıtMakasOyunu\bin\Debug\160824 TasKagıtMakasOyunu.exe.config
+c:\users\gunaydın\documents\visual studio 2013\Projects\160824 TasKagıtMakasOyunu\160824 TasKagıtMakasOyunu\bin\Debug\160824 TasKagıtMakasOyunu.exe
+c:\users\gunaydın\documents\visual studio 2013\Projects\160824 TasKagıtMakasOyunu\160824 TasKagıtMakasOyunu\bin\Debug\160824 TasKagıtMakasOyunu.pdb
+c:\users\gunaydın\documents\visual studio 2013\Projects\160824 TasKagıtMakasOyunu\160824 TasKagıtMakasOyunu\obj\Debug\160824 TasKagıtMakasOyunu.csprojResolveAssemblyReference.cache
+c:\users\gunaydın\documents\visual studio 2013\Projects\160824 TasKagıtMakasOyunu\160824 TasKagıtMakasOyunu\obj\Debug\_160824_TasKagıtMakasOyunu.Form1.resources
+c:\users\gunaydın\documents\visual studio 2013\Projects\160824 TasKagıtMakasOyunu\160824 TasKagıtMakasOyunu\obj\Debug\_160824_TasKagıtMakasOyunu.Properties.Resources.resources
+c:\users\gunaydın\documents\visual studio 2013\Projects\160824 TasKagıtMakasOyunu\160824 TasKagıtMakasOyunu\obj\Debug\160824 TasKagıtMakasOyunu.csproj.GenerateResource.Cache
+c:\users\gunaydın\documents\visual studio 2013\Projects\160824 TasKagıtMakasOyunu\160824 TasKagıtMakasOyunu\obj\Debug\160824 TasKagıtMakasOyunu.exe
+c:\users\gunaydın\documents\visual studio 2013\Projects\160824 TasKagıtMakasOyunu\160824 TasKagıtMakasOyunu\obj\Debug\160824 TasKagıtMakasOyunu.pdb
+C:\Users\Bilall\Downloads\Projects\160824 TasKagıtMakasOyunu\160824 TasKagıtMakasOyunu\bin\Debug\160824 TasKagıtMakasOyunu.exe.config
+C:\Users\Bilall\Downloads\Projects\160824 TasKagıtMakasOyunu\160824 TasKagıtMakasOyunu\obj\Debug\160824 TasKagıtMakasOyunu.exe
+C:\Users\Bilall\Downloads\Projects\160824 TasKagıtMakasOyunu\160824 TasKagıtMakasOyunu\obj\Debug\160824 TasKagıtMakasOyunu.pdb
+C:\Users\Bilall\Downloads\Projects\160824 TasKagıtMakasOyunu\160824 TasKagıtMakasOyunu\bin\Debug\160824 TasKagıtMakasOyunu.exe
+C:\Users\Bilall\Downloads\Projects\160824 TasKagıtMakasOyunu\160824 TasKagıtMakasOyunu\bin\Debug\160824 TasKagıtMakasOyunu.pdb
+C:\Users\Bilall\Downloads\Projects\160824 TasKagıtMakasOyunu\160824 TasKagıtMakasOyunu\obj\Debug\160824 TasKagıtMakasOyunu.csprojResolveAssemblyReference.cache
+C:\Users\Bilall\Downloads\Projects\160824 TasKagıtMakasOyunu\160824 TasKagıtMakasOyunu\obj\Debug\_160824_TasKagıtMakasOyunu.Form1.resources
+C:\Users\Bilall\Downloads\Projects\160824 TasKagıtMakasOyunu\160824 TasKagıtMakasOyunu\obj\Debug\_160824_TasKagıtMakasOyunu.Properties.Resources.resources
+C:\Users\Bilall\Downloads\Projects\160824 TasKagıtMakasOyunu\160824 TasKagıtMakasOyunu\obj\Debug\160824 TasKagıtMakasOyunu.csproj.GenerateResource.Cache
+C:\Users\Bilall\Documents\Visual Studio 2013\Projects\160824 TasKagıtMakasOyunu\160824 TasKagıtMakasOyunu\bin\Debug\160824 TasKagıtMakasOyunu.exe.config
+C:\Users\Bilall\Documents\Visual Studio 2013\Projects\160824 TasKagıtMakasOyunu\160824 TasKagıtMakasOyunu\obj\Debug\160824 TasKagıtMakasOyunu.exe
+C:\Users\Bilall\Documents\Visual Studio 2013\Projects\160824 TasKagıtMakasOyunu\160824 TasKagıtMakasOyunu\obj\Debug\160824 TasKagıtMakasOyunu.pdb
+C:\Users\Bilall\Documents\Visual Studio 2013\Projects\160824 TasKagıtMakasOyunu\160824 TasKagıtMakasOyunu\bin\Debug\160824 TasKagıtMakasOyunu.exe
+C:\Users\Bilall\Documents\Visual Studio 2013\Projects\160824 TasKagıtMakasOyunu\160824 TasKagıtMakasOyunu\bin\Debug\160824 TasKagıtMakasOyunu.pdb
+C:\Users\Bilall\Documents\Visual Studio 2013\Projects\160824 TasKagıtMakasOyunu\160824 TasKagıtMakasOyunu\obj\Debug\160824 TasKagıtMakasOyunu.csprojResolveAssemblyReference.cache
+C:\Users\Bilall\Documents\Visual Studio 2013\Projects\160824 TasKagıtMakasOyunu\160824 TasKagıtMakasOyunu\obj\Debug\_160824_TasKagıtMakasOyunu.Form1.resources
+C:\Users\Bilall\Documents\Visual Studio 2013\Projects\160824 TasKagıtMakasOyunu\160824 TasKagıtMakasOyunu\obj\Debug\_160824_TasKagıtMakasOyunu.Oyun.resources
+C:\Users\Bilall\Documents\Visual Studio 2013\Projects\160824 TasKagıtMakasOyunu\160824 TasKagıtMakasOyunu\obj\Debug\_160824_TasKagıtMakasOyunu.Properties.Resources.resources
+C:\Users\Bilall\Documents\Visual Studio 2013\Projects\160824 TasKagıtMakasOyunu\160824 TasKagıtMakasOyunu\obj\Debug\160824 TasKagıtMakasOyunu.csproj.GenerateResource.Cache
+C:\Users\Bilall\Downloads\Stage Windows Form\Erdi Hoca\160824 TasKagıtMakasOyunu\160824 TasKagıtMakasOyunu\bin\Debug\160824 TasKagıtMakasOyunu.exe.config
+C:\Users\Bilall\Downloads\Stage Windows Form\Erdi Hoca\160824 TasKagıtMakasOyunu\160824 TasKagıtMakasOyunu\obj\Debug\160824 TasKagıtMakasOyunu.exe
+C:\Users\Bilall\Downloads\Stage Windows Form\Erdi Hoca\160824 TasKagıtMakasOyunu\160824 TasKagıtMakasOyunu\obj\Debug\160824 TasKagıtMakasOyunu.pdb
+C:\Users\Bilall\Downloads\Stage Windows Form\Erdi Hoca\160824 TasKagıtMakasOyunu\160824 TasKagıtMakasOyunu\bin\Debug\160824 TasKagıtMakasOyunu.exe
+C:\Users\Bilall\Downloads\Stage Windows Form\Erdi Hoca\160824 TasKagıtMakasOyunu\160824 TasKagıtMakasOyunu\bin\Debug\160824 TasKagıtMakasOyunu.pdb
+C:\Users\Bilall\Downloads\Stage Windows Form\Erdi Hoca\160824 TasKagıtMakasOyunu\160824 TasKagıtMakasOyunu\obj\Debug\160824 TasKagıtMakasOyunu.csprojResolveAssemblyReference.cache
+C:\Users\Bilall\Downloads\Stage Windows Form\Erdi Hoca\160824 TasKagıtMakasOyunu\160824 TasKagıtMakasOyunu\obj\Debug\_160824_TasKagıtMakasOyunu.Form1.resources
+C:\Users\Bilall\Downloads\Stage Windows Form\Erdi Hoca\160824 TasKagıtMakasOyunu\160824 TasKagıtMakasOyunu\obj\Debug\_160824_TasKagıtMakasOyunu.Oyun.resources
+C:\Users\Bilall\Downloads\Stage Windows Form\Erdi Hoca\160824 TasKagıtMakasOyunu\160824 TasKagıtMakasOyunu\obj\Debug\_160824_TasKagıtMakasOyunu.Properties.Resources.resources
+C:\Users\Bilall\Downloads\Stage Windows Form\Erdi Hoca\160824 TasKagıtMakasOyunu\160824 TasKagıtMakasOyunu\obj\Debug\160824 TasKagıtMakasOyunu.csproj.GenerateResource.Cache
+C:\Users\Bilall\Downloads\Stage Windows Form\Stage Windows Form\Erdi Hoca\160824 TasKagıtMakasOyunu\160824 TasKagıtMakasOyunu\bin\Debug\160824 TasKagıtMakasOyunu.exe.config
+C:\Users\Bilall\Downloads\Stage Windows Form\Stage Windows Form\Erdi Hoca\160824 TasKagıtMakasOyunu\160824 TasKagıtMakasOyunu\obj\Debug\160824 TasKagıtMakasOyunu.exe
+C:\Users\Bilall\Downloads\Stage Windows Form\Stage Windows Form\Erdi Hoca\160824 TasKagıtMakasOyunu\160824 TasKagıtMakasOyunu\obj\Debug\160824 TasKagıtMakasOyunu.pdb
+C:\Users\Bilall\Downloads\Stage Windows Form\Stage Windows Form\Erdi Hoca\160824 TasKagıtMakasOyunu\160824 TasKagıtMakasOyunu\bin\Debug\160824 TasKagıtMakasOyunu.exe
+C:\Users\Bilall\Downloads\Stage Windows Form\Stage Windows Form\Erdi Hoca\160824 TasKagıtMakasOyunu\160824 TasKagıtMakasOyunu\bin\Debug\160824 TasKagıtMakasOyunu.pdb
+C:\Users\Bilall\Downloads\Stage Windows Form\Stage Windows Form\Erdi Hoca\160824 TasKagıtMakasOyunu\160824 TasKagıtMakasOyunu\obj\Debug\160824 TasKagıtMakasOyunu.csprojResolveAssemblyReference.cache
+C:\Users\Bilall\Downloads\Stage Windows Form\Stage Windows Form\Erdi Hoca\160824 TasKagıtMakasOyunu\160824 TasKagıtMakasOyunu\obj\Debug\_160824_TasKagıtMakasOyunu.Form1.resources
+C:\Users\Bilall\Downloads\Stage Windows Form\Stage Windows Form\Erdi Hoca\160824 TasKagıtMakasOyunu\160824 TasKagıtMakasOyunu\obj\Debug\_160824_TasKagıtMakasOyunu.Oyun.resources
+C:\Users\Bilall\Downloads\Stage Windows Form\Stage Windows Form\Erdi Hoca\160824 TasKagıtMakasOyunu\160824 TasKagıtMakasOyunu\obj\Debug\_160824_TasKagıtMakasOyunu.Properties.Resources.resources
+C:\Users\Bilall\Downloads\Stage Windows Form\Stage Windows Form\Erdi Hoca\160824 TasKagıtMakasOyunu\160824 TasKagıtMakasOyunu\obj\Debug\160824 TasKagıtMakasOyunu.csproj.GenerateResource.Cache

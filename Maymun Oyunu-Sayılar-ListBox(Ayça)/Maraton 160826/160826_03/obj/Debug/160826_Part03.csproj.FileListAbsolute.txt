@@ -1,0 +1,6 @@
+C:\Users\Ayça\Downloads\160826_Maraton\Maraton 160826\160826_03\bin\Debug\160826_03.exe.config
+C:\Users\Ayça\Downloads\160826_Maraton\Maraton 160826\160826_03\obj\Debug\160826_03.exe
+C:\Users\Ayça\Downloads\160826_Maraton\Maraton 160826\160826_03\obj\Debug\160826_03.pdb
+C:\Users\Ayça\Desktop\Bilge Adam\160826_Maraton\Maraton 160826\160826_03\bin\Debug\160826_03.exe.config
+C:\Users\Ayça\Desktop\Bilge Adam\160826_Maraton\Maraton 160826\160826_03\obj\Debug\160826_03.exe
+C:\Users\Ayça\Desktop\Bilge Adam\160826_Maraton\Maraton 160826\160826_03\obj\Debug\160826_03.pdb

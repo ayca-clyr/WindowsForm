@@ -1,0 +1,11 @@
+C:\Users\Bilal\Desktop\Task Management\TaskManagement\03BusinessLayer\bin\Debug\03BusinessLayer.dll
+C:\Users\Bilal\Desktop\Task Management\TaskManagement\03BusinessLayer\bin\Debug\03BusinessLayer.pdb
+C:\Users\Bilal\Desktop\Task Management\TaskManagement\03BusinessLayer\bin\Debug\01-Entities.dll
+C:\Users\Bilal\Desktop\Task Management\TaskManagement\03BusinessLayer\bin\Debug\02-DataAccessLayer.dll
+C:\Users\Bilal\Desktop\Task Management\TaskManagement\03BusinessLayer\bin\Debug\EntityFramework.dll
+C:\Users\Bilal\Desktop\Task Management\TaskManagement\03BusinessLayer\bin\Debug\01-Entities.pdb
+C:\Users\Bilal\Desktop\Task Management\TaskManagement\03BusinessLayer\bin\Debug\02-DataAccessLayer.pdb
+C:\Users\Bilal\Desktop\Task Management\TaskManagement\03BusinessLayer\bin\Debug\EntityFramework.xml
+C:\Users\Bilal\Desktop\Task Management\TaskManagement\03BusinessLayer\obj\Debug\03BusinessLayer.csprojResolveAssemblyReference.cache
+C:\Users\Bilal\Desktop\Task Management\TaskManagement\03BusinessLayer\obj\Debug\03BusinessLayer.dll
+C:\Users\Bilal\Desktop\Task Management\TaskManagement\03BusinessLayer\obj\Debug\03BusinessLayer.pdb

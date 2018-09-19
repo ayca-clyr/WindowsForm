@@ -1,0 +1,8 @@
+C:\Users\BA\documents\visual studio 2013\Projects\160928_ADONET\View\bin\Debug\View.exe.config
+C:\Users\BA\documents\visual studio 2013\Projects\160928_ADONET\View\bin\Debug\View.exe
+C:\Users\BA\documents\visual studio 2013\Projects\160928_ADONET\View\bin\Debug\View.pdb
+C:\Users\BA\documents\visual studio 2013\Projects\160928_ADONET\View\obj\Debug\View.Form1.resources
+C:\Users\BA\documents\visual studio 2013\Projects\160928_ADONET\View\obj\Debug\View.Properties.Resources.resources
+C:\Users\BA\documents\visual studio 2013\Projects\160928_ADONET\View\obj\Debug\View.csproj.GenerateResource.Cache
+C:\Users\BA\documents\visual studio 2013\Projects\160928_ADONET\View\obj\Debug\View.exe
+C:\Users\BA\documents\visual studio 2013\Projects\160928_ADONET\View\obj\Debug\View.pdb

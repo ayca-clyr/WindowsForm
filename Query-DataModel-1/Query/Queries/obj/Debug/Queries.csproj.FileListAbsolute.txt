@@ -1,0 +1,27 @@
+c:\users\ba\documents\visual studio 2013\Projects\Query\Queries\bin\Debug\Queries.exe.config
+c:\users\ba\documents\visual studio 2013\Projects\Query\Queries\bin\Debug\Queries.exe
+c:\users\ba\documents\visual studio 2013\Projects\Query\Queries\bin\Debug\Queries.pdb
+c:\users\ba\documents\visual studio 2013\Projects\Query\Queries\bin\Debug\EntityFramework.dll
+c:\users\ba\documents\visual studio 2013\Projects\Query\Queries\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\ba\documents\visual studio 2013\Projects\Query\Queries\bin\Debug\EntityFramework.xml
+c:\users\ba\documents\visual studio 2013\Projects\Query\Queries\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\ba\documents\visual studio 2013\Projects\Query\Queries\obj\Debug\Queries.csprojResolveAssemblyReference.cache
+c:\users\ba\documents\visual studio 2013\Projects\Query\Queries\obj\Debug\Queries.Form1.resources
+c:\users\ba\documents\visual studio 2013\Projects\Query\Queries\obj\Debug\Queries.Properties.Resources.resources
+c:\users\ba\documents\visual studio 2013\Projects\Query\Queries\obj\Debug\Queries.csproj.GenerateResource.Cache
+c:\users\ba\documents\visual studio 2013\Projects\Query\Queries\obj\Debug\Queries.exe
+c:\users\ba\documents\visual studio 2013\Projects\Query\Queries\obj\Debug\Queries.pdb
+C:\Users\Ayça\Desktop\Bilge Adam\drive-download-20161214T124635Z\Query\Query\Queries\bin\Debug\Queries.exe.config
+C:\Users\Ayça\Desktop\Bilge Adam\drive-download-20161214T124635Z\Query\Query\Queries\bin\Debug\Queries.exe
+C:\Users\Ayça\Desktop\Bilge Adam\drive-download-20161214T124635Z\Query\Query\Queries\bin\Debug\Queries.pdb
+C:\Users\Ayça\Desktop\Bilge Adam\drive-download-20161214T124635Z\Query\Query\Queries\bin\Debug\EntityFramework.dll
+C:\Users\Ayça\Desktop\Bilge Adam\drive-download-20161214T124635Z\Query\Query\Queries\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ayça\Desktop\Bilge Adam\drive-download-20161214T124635Z\Query\Query\Queries\bin\Debug\EntityFramework.xml
+C:\Users\Ayça\Desktop\Bilge Adam\drive-download-20161214T124635Z\Query\Query\Queries\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ayça\Desktop\Bilge Adam\drive-download-20161214T124635Z\Query\Query\Queries\obj\Debug\Queries.csprojResolveAssemblyReference.cache
+C:\Users\Ayça\Desktop\Bilge Adam\drive-download-20161214T124635Z\Query\Query\Queries\obj\Debug\Queries.Form1.resources
+C:\Users\Ayça\Desktop\Bilge Adam\drive-download-20161214T124635Z\Query\Query\Queries\obj\Debug\Queries.Properties.Resources.resources
+C:\Users\Ayça\Desktop\Bilge Adam\drive-download-20161214T124635Z\Query\Query\Queries\obj\Debug\Queries.csproj.GenerateResource.Cache
+C:\Users\Ayça\Desktop\Bilge Adam\drive-download-20161214T124635Z\Query\Query\Queries\obj\Debug\Queries.csproj.CoreCompileInputs.cache
+C:\Users\Ayça\Desktop\Bilge Adam\drive-download-20161214T124635Z\Query\Query\Queries\obj\Debug\Queries.exe
+C:\Users\Ayça\Desktop\Bilge Adam\drive-download-20161214T124635Z\Query\Query\Queries\obj\Debug\Queries.pdb

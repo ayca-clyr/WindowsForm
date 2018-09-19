@@ -1,0 +1,12 @@
+C:\Users\BA\Downloads\Stage Windows Adonet\Stage Windows Adonet\ADONET\03_Uygulama\bin\Debug\03_Uygulama.exe.config
+C:\Users\BA\Downloads\Stage Windows Adonet\Stage Windows Adonet\ADONET\03_Uygulama\obj\Debug\03_Uygulama.csprojResolveAssemblyReference.cache
+C:\Users\BA\Downloads\Stage Windows Adonet\Stage Windows Adonet\ADONET\03_Uygulama\obj\Debug\_03_Uygulama.Form1.resources
+C:\Users\BA\Downloads\Stage Windows Adonet\Stage Windows Adonet\ADONET\03_Uygulama\obj\Debug\_03_Uygulama.Properties.Resources.resources
+C:\Users\BA\Downloads\Stage Windows Adonet\Stage Windows Adonet\ADONET\03_Uygulama\obj\Debug\03_Uygulama.csproj.GenerateResource.Cache
+C:\Users\BA\Downloads\Stage Windows Adonet\Stage Windows Adonet\ADONET\03_Uygulama\bin\Debug\03_Uygulama.exe
+C:\Users\BA\Downloads\Stage Windows Adonet\Stage Windows Adonet\ADONET\03_Uygulama\bin\Debug\03_Uygulama.pdb
+C:\Users\BA\Downloads\Stage Windows Adonet\Stage Windows Adonet\ADONET\03_Uygulama\obj\Debug\03_Uygulama.exe
+C:\Users\BA\Downloads\Stage Windows Adonet\Stage Windows Adonet\ADONET\03_Uygulama\obj\Debug\03_Uygulama.pdb
+C:\Users\Bilall\Downloads\Stage Windows Adonet\Stage Windows Adonet\ADONET\03_Uygulama\bin\Debug\03_Uygulama.exe.config
+C:\Users\Bilall\Downloads\Stage Windows Adonet\Stage Windows Adonet\ADONET\03_Uygulama\obj\Debug\03_Uygulama.exe
+C:\Users\Bilall\Downloads\Stage Windows Adonet\Stage Windows Adonet\ADONET\03_Uygulama\obj\Debug\03_Uygulama.pdb

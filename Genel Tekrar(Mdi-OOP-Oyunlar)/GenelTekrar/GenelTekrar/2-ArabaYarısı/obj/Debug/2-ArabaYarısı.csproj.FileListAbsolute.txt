@@ -1,0 +1,22 @@
+c:\users\gunaydın\documents\visual studio 2013\Projects\GenelTekrar\2-ArabaYarısı\bin\Debug\2-ArabaYarısı.exe.config
+c:\users\gunaydın\documents\visual studio 2013\Projects\GenelTekrar\2-ArabaYarısı\bin\Debug\2-ArabaYarısı.exe
+c:\users\gunaydın\documents\visual studio 2013\Projects\GenelTekrar\2-ArabaYarısı\bin\Debug\2-ArabaYarısı.pdb
+c:\users\gunaydın\documents\visual studio 2013\Projects\GenelTekrar\2-ArabaYarısı\obj\Debug\2-ArabaYarısı.csprojResolveAssemblyReference.cache
+c:\users\gunaydın\documents\visual studio 2013\Projects\GenelTekrar\2-ArabaYarısı\obj\Debug\_2_ArabaYarısı.Form1.resources
+c:\users\gunaydın\documents\visual studio 2013\Projects\GenelTekrar\2-ArabaYarısı\obj\Debug\_2_ArabaYarısı.Properties.Resources.resources
+c:\users\gunaydın\documents\visual studio 2013\Projects\GenelTekrar\2-ArabaYarısı\obj\Debug\2-ArabaYarısı.csproj.GenerateResource.Cache
+c:\users\gunaydın\documents\visual studio 2013\Projects\GenelTekrar\2-ArabaYarısı\obj\Debug\2-ArabaYarısı.exe
+c:\users\gunaydın\documents\visual studio 2013\Projects\GenelTekrar\2-ArabaYarısı\obj\Debug\2-ArabaYarısı.pdb
+C:\Users\Gunaydın\Desktop\GenelTekrar\2-ArabaYarısı\bin\Debug\2-ArabaYarısı.exe.config
+C:\Users\Gunaydın\Desktop\GenelTekrar\2-ArabaYarısı\obj\Debug\2-ArabaYarısı.exe
+C:\Users\Gunaydın\Desktop\GenelTekrar\2-ArabaYarısı\obj\Debug\2-ArabaYarısı.pdb
+C:\Users\Ayça\Desktop\Bilge Adam\drive-download-20161214T123646Z\GenelTekrar\GenelTekrar\GenelTekrar\2-ArabaYarısı\bin\Debug\2-ArabaYarısı.exe.config
+C:\Users\Ayça\Desktop\Bilge Adam\drive-download-20161214T123646Z\GenelTekrar\GenelTekrar\GenelTekrar\2-ArabaYarısı\bin\Debug\2-ArabaYarısı.exe
+C:\Users\Ayça\Desktop\Bilge Adam\drive-download-20161214T123646Z\GenelTekrar\GenelTekrar\GenelTekrar\2-ArabaYarısı\bin\Debug\2-ArabaYarısı.pdb
+C:\Users\Ayça\Desktop\Bilge Adam\drive-download-20161214T123646Z\GenelTekrar\GenelTekrar\GenelTekrar\2-ArabaYarısı\obj\Debug\2-ArabaYarısı.csprojResolveAssemblyReference.cache
+C:\Users\Ayça\Desktop\Bilge Adam\drive-download-20161214T123646Z\GenelTekrar\GenelTekrar\GenelTekrar\2-ArabaYarısı\obj\Debug\_2_ArabaYarısı.Form1.resources
+C:\Users\Ayça\Desktop\Bilge Adam\drive-download-20161214T123646Z\GenelTekrar\GenelTekrar\GenelTekrar\2-ArabaYarısı\obj\Debug\_2_ArabaYarısı.Properties.Resources.resources
+C:\Users\Ayça\Desktop\Bilge Adam\drive-download-20161214T123646Z\GenelTekrar\GenelTekrar\GenelTekrar\2-ArabaYarısı\obj\Debug\2-ArabaYarısı.csproj.GenerateResource.Cache
+C:\Users\Ayça\Desktop\Bilge Adam\drive-download-20161214T123646Z\GenelTekrar\GenelTekrar\GenelTekrar\2-ArabaYarısı\obj\Debug\2-ArabaYarısı.csproj.CoreCompileInputs.cache
+C:\Users\Ayça\Desktop\Bilge Adam\drive-download-20161214T123646Z\GenelTekrar\GenelTekrar\GenelTekrar\2-ArabaYarısı\obj\Debug\2-ArabaYarısı.exe
+C:\Users\Ayça\Desktop\Bilge Adam\drive-download-20161214T123646Z\GenelTekrar\GenelTekrar\GenelTekrar\2-ArabaYarısı\obj\Debug\2-ArabaYarısı.pdb

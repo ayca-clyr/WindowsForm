@@ -1,0 +1,11 @@
+c:\users\ba\documents\visual studio 2013\Projects\CodeFirst_KatmanlıMimari\01-BusinessLayer\bin\Debug\01-BusinessLayer.dll
+c:\users\ba\documents\visual studio 2013\Projects\CodeFirst_KatmanlıMimari\01-BusinessLayer\bin\Debug\01-BusinessLayer.pdb
+c:\users\ba\documents\visual studio 2013\Projects\CodeFirst_KatmanlıMimari\01-BusinessLayer\bin\Debug\01-DataAccessLayer.dll
+c:\users\ba\documents\visual studio 2013\Projects\CodeFirst_KatmanlıMimari\01-BusinessLayer\bin\Debug\01-Entities.dll
+c:\users\ba\documents\visual studio 2013\Projects\CodeFirst_KatmanlıMimari\01-BusinessLayer\bin\Debug\EntityFramework.dll
+c:\users\ba\documents\visual studio 2013\Projects\CodeFirst_KatmanlıMimari\01-BusinessLayer\bin\Debug\01-DataAccessLayer.pdb
+c:\users\ba\documents\visual studio 2013\Projects\CodeFirst_KatmanlıMimari\01-BusinessLayer\bin\Debug\01-Entities.pdb
+c:\users\ba\documents\visual studio 2013\Projects\CodeFirst_KatmanlıMimari\01-BusinessLayer\bin\Debug\EntityFramework.xml
+c:\users\ba\documents\visual studio 2013\Projects\CodeFirst_KatmanlıMimari\01-BusinessLayer\obj\Debug\01-BusinessLayer.csprojResolveAssemblyReference.cache
+c:\users\ba\documents\visual studio 2013\Projects\CodeFirst_KatmanlıMimari\01-BusinessLayer\obj\Debug\01-BusinessLayer.dll
+c:\users\ba\documents\visual studio 2013\Projects\CodeFirst_KatmanlıMimari\01-BusinessLayer\obj\Debug\01-BusinessLayer.pdb

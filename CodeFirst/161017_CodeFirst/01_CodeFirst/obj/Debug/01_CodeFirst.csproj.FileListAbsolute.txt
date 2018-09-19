@@ -1,0 +1,15 @@
+c:\users\ba\documents\visual studio 2013\Projects\161017_CodeFirst\01_CodeFirst\bin\Debug\01_CodeFirst.exe.config
+c:\users\ba\documents\visual studio 2013\Projects\161017_CodeFirst\01_CodeFirst\bin\Debug\01_CodeFirst.exe
+c:\users\ba\documents\visual studio 2013\Projects\161017_CodeFirst\01_CodeFirst\bin\Debug\01_CodeFirst.pdb
+c:\users\ba\documents\visual studio 2013\Projects\161017_CodeFirst\01_CodeFirst\bin\Debug\EntityFramework.dll
+c:\users\ba\documents\visual studio 2013\Projects\161017_CodeFirst\01_CodeFirst\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\ba\documents\visual studio 2013\Projects\161017_CodeFirst\01_CodeFirst\bin\Debug\EntityFramework.xml
+c:\users\ba\documents\visual studio 2013\Projects\161017_CodeFirst\01_CodeFirst\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\ba\documents\visual studio 2013\Projects\161017_CodeFirst\01_CodeFirst\obj\Debug\01_CodeFirst.csprojResolveAssemblyReference.cache
+c:\users\ba\documents\visual studio 2013\Projects\161017_CodeFirst\01_CodeFirst\obj\Debug\_01_CodeFirst.Form1.resources
+c:\users\ba\documents\visual studio 2013\Projects\161017_CodeFirst\01_CodeFirst\obj\Debug\_01_CodeFirst.Properties.Resources.resources
+c:\users\ba\documents\visual studio 2013\Projects\161017_CodeFirst\01_CodeFirst\obj\Debug\01_CodeFirst.csproj.GenerateResource.Cache
+c:\users\ba\documents\visual studio 2013\Projects\161017_CodeFirst\01_CodeFirst\obj\Debug\01_CodeFirst.exe
+c:\users\ba\documents\visual studio 2013\Projects\161017_CodeFirst\01_CodeFirst\obj\Debug\01_CodeFirst.pdb
+c:\users\ba\documents\visual studio 2013\Projects\161017_CodeFirst\01_CodeFirst\obj\Debug\_01_CodeFirst.Migrations.Firstmigration.resources
+c:\users\ba\documents\visual studio 2013\Projects\161017_CodeFirst\01_CodeFirst\obj\Debug\_01_CodeFirst.Migrations.AddProduct.resources

@@ -1,0 +1,4 @@
+6. Part'ta Product Update iþleminde CategoryID ve SupplierID'den text'e geçerken hep 1.indisleri alýyor.
+7.Partýn kurgusunu yapamadým.
+
+NOT : Rahatsýzlýðýmdan ötürü çok fazla vaktimi veremedim. En kýsa zamanda versiyon2 olarak tamamlayýp atmayý planlýyorum.Saygýlarýmla..

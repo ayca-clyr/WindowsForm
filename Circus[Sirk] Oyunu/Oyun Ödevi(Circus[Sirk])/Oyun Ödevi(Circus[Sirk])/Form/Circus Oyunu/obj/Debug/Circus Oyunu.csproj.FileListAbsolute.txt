@@ -1,0 +1,33 @@
+C:\Users\Ayça\Desktop\FormYönlere kadar\Form\Circus Oyunu\bin\Debug\Circus Oyunu.exe.config
+C:\Users\Ayça\Desktop\FormYönlere kadar\Form\Circus Oyunu\bin\Debug\Circus Oyunu.exe
+C:\Users\Ayça\Desktop\FormYönlere kadar\Form\Circus Oyunu\bin\Debug\Circus Oyunu.pdb
+C:\Users\Ayça\Desktop\FormYönlere kadar\Form\Circus Oyunu\obj\Debug\Circus Oyunu.csprojResolveAssemblyReference.cache
+C:\Users\Ayça\Desktop\FormYönlere kadar\Form\Circus Oyunu\obj\Debug\Circus_Oyunu.CircusStart.resources
+C:\Users\Ayça\Desktop\FormYönlere kadar\Form\Circus Oyunu\obj\Debug\Circus_Oyunu.Properties.Resources.resources
+C:\Users\Ayça\Desktop\FormYönlere kadar\Form\Circus Oyunu\obj\Debug\Circus Oyunu.csproj.GenerateResource.Cache
+C:\Users\Ayça\Desktop\FormYönlere kadar\Form\Circus Oyunu\obj\Debug\Circus Oyunu.exe
+C:\Users\Ayça\Desktop\FormYönlere kadar\Form\Circus Oyunu\obj\Debug\Circus Oyunu.pdb
+C:\Users\Ayça\Desktop\FormYönlere kadar(Oyun Ödevim)\FormYönlere kadar(Oyun Ödevim)\Form\Circus Oyunu\bin\Debug\Circus Oyunu.exe.config
+C:\Users\Ayça\Desktop\FormYönlere kadar(Oyun Ödevim)\FormYönlere kadar(Oyun Ödevim)\Form\Circus Oyunu\obj\Debug\Circus Oyunu.exe
+C:\Users\Ayça\Desktop\FormYönlere kadar(Oyun Ödevim)\FormYönlere kadar(Oyun Ödevim)\Form\Circus Oyunu\obj\Debug\Circus Oyunu.pdb
+C:\Users\Ayça\Desktop\FormYönlere kadar(Oyun Ödevim)\FormYönlere kadar(Oyun Ödevim)\Form\Circus Oyunu\bin\Debug\Circus Oyunu.exe
+C:\Users\Ayça\Desktop\FormYönlere kadar(Oyun Ödevim)\FormYönlere kadar(Oyun Ödevim)\Form\Circus Oyunu\bin\Debug\Circus Oyunu.pdb
+C:\Users\Ayça\Desktop\FormYönlere kadar(Oyun Ödevim)\FormYönlere kadar(Oyun Ödevim)\Form\Circus Oyunu\obj\Debug\Circus Oyunu.csprojResolveAssemblyReference.cache
+C:\Users\Ayça\Desktop\FormYönlere kadar(Oyun Ödevim)\FormYönlere kadar(Oyun Ödevim)\Form\Circus Oyunu\obj\Debug\Circus_Oyunu.CircusStart.resources
+C:\Users\Ayça\Desktop\FormYönlere kadar(Oyun Ödevim)\FormYönlere kadar(Oyun Ödevim)\Form\Circus Oyunu\obj\Debug\Circus_Oyunu.Properties.Resources.resources
+C:\Users\Ayça\Desktop\FormYönlere kadar(Oyun Ödevim)\FormYönlere kadar(Oyun Ödevim)\Form\Circus Oyunu\obj\Debug\Circus Oyunu.csproj.GenerateResource.Cache
+C:\Users\Ayça\Desktop\FormYönlere kadar(Oyun Ödevim)\FormYönlere kadar(Oyun Ödevim)\Form\Circus Oyunu\obj\Debug\Circus_Oyunu.Circus.resources
+C:\Users\Ayça\Desktop\Kartlar\FormYönlere kadar(Oyun Ödevim)\FormYönlere kadar(Oyun Ödevim)\Form\Circus Oyunu\bin\Debug\Circus Oyunu.exe.config
+C:\Users\Ayça\Desktop\Kartlar\FormYönlere kadar(Oyun Ödevim)\FormYönlere kadar(Oyun Ödevim)\Form\Circus Oyunu\obj\Debug\Circus Oyunu.exe
+C:\Users\Ayça\Desktop\Kartlar\FormYönlere kadar(Oyun Ödevim)\FormYönlere kadar(Oyun Ödevim)\Form\Circus Oyunu\obj\Debug\Circus Oyunu.pdb
+C:\Users\Ayça\Desktop\Bilge Adam\drive-download-20161214T130250Z\160904_Oyun Ödevi(Circus[Sirk])\Oyun Ödevi(Circus[Sirk])\Oyun Ödevi(Circus[Sirk])\Form\Circus Oyunu\bin\Debug\Circus Oyunu.exe.config
+C:\Users\Ayça\Desktop\Bilge Adam\drive-download-20161214T130250Z\160904_Oyun Ödevi(Circus[Sirk])\Oyun Ödevi(Circus[Sirk])\Oyun Ödevi(Circus[Sirk])\Form\Circus Oyunu\bin\Debug\Circus Oyunu.exe
+C:\Users\Ayça\Desktop\Bilge Adam\drive-download-20161214T130250Z\160904_Oyun Ödevi(Circus[Sirk])\Oyun Ödevi(Circus[Sirk])\Oyun Ödevi(Circus[Sirk])\Form\Circus Oyunu\bin\Debug\Circus Oyunu.pdb
+C:\Users\Ayça\Desktop\Bilge Adam\drive-download-20161214T130250Z\160904_Oyun Ödevi(Circus[Sirk])\Oyun Ödevi(Circus[Sirk])\Oyun Ödevi(Circus[Sirk])\Form\Circus Oyunu\obj\Debug\Circus Oyunu.csprojResolveAssemblyReference.cache
+C:\Users\Ayça\Desktop\Bilge Adam\drive-download-20161214T130250Z\160904_Oyun Ödevi(Circus[Sirk])\Oyun Ödevi(Circus[Sirk])\Oyun Ödevi(Circus[Sirk])\Form\Circus Oyunu\obj\Debug\Circus_Oyunu.Circus.resources
+C:\Users\Ayça\Desktop\Bilge Adam\drive-download-20161214T130250Z\160904_Oyun Ödevi(Circus[Sirk])\Oyun Ödevi(Circus[Sirk])\Oyun Ödevi(Circus[Sirk])\Form\Circus Oyunu\obj\Debug\Circus_Oyunu.CircusStart.resources
+C:\Users\Ayça\Desktop\Bilge Adam\drive-download-20161214T130250Z\160904_Oyun Ödevi(Circus[Sirk])\Oyun Ödevi(Circus[Sirk])\Oyun Ödevi(Circus[Sirk])\Form\Circus Oyunu\obj\Debug\Circus_Oyunu.Properties.Resources.resources
+C:\Users\Ayça\Desktop\Bilge Adam\drive-download-20161214T130250Z\160904_Oyun Ödevi(Circus[Sirk])\Oyun Ödevi(Circus[Sirk])\Oyun Ödevi(Circus[Sirk])\Form\Circus Oyunu\obj\Debug\Circus Oyunu.csproj.GenerateResource.Cache
+C:\Users\Ayça\Desktop\Bilge Adam\drive-download-20161214T130250Z\160904_Oyun Ödevi(Circus[Sirk])\Oyun Ödevi(Circus[Sirk])\Oyun Ödevi(Circus[Sirk])\Form\Circus Oyunu\obj\Debug\Circus Oyunu.csproj.CoreCompileInputs.cache
+C:\Users\Ayça\Desktop\Bilge Adam\drive-download-20161214T130250Z\160904_Oyun Ödevi(Circus[Sirk])\Oyun Ödevi(Circus[Sirk])\Oyun Ödevi(Circus[Sirk])\Form\Circus Oyunu\obj\Debug\Circus Oyunu.exe
+C:\Users\Ayça\Desktop\Bilge Adam\drive-download-20161214T130250Z\160904_Oyun Ödevi(Circus[Sirk])\Oyun Ödevi(Circus[Sirk])\Oyun Ödevi(Circus[Sirk])\Form\Circus Oyunu\obj\Debug\Circus Oyunu.pdb

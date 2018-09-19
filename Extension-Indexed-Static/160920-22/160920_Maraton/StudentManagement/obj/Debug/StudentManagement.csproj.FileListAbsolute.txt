@@ -1,0 +1,13 @@
+C:\Users\BA\Desktop\160920_Maraton_Part1\160920_Maraton\StudentManagement\bin\Debug\StudentManagement.exe.config
+C:\Users\BA\Desktop\160920_Maraton_Part1\160920_Maraton\StudentManagement\bin\Debug\StudentManagement.exe
+C:\Users\BA\Desktop\160920_Maraton_Part1\160920_Maraton\StudentManagement\bin\Debug\StudentManagement.pdb
+C:\Users\BA\Desktop\160920_Maraton_Part1\160920_Maraton\StudentManagement\obj\Debug\StudentManagement.csprojResolveAssemblyReference.cache
+C:\Users\BA\Desktop\160920_Maraton_Part1\160920_Maraton\StudentManagement\obj\Debug\StudentManagement.Form1.resources
+C:\Users\BA\Desktop\160920_Maraton_Part1\160920_Maraton\StudentManagement\obj\Debug\StudentManagement.Properties.Resources.resources
+C:\Users\BA\Desktop\160920_Maraton_Part1\160920_Maraton\StudentManagement\obj\Debug\StudentManagement.StudentEditForm.resources
+C:\Users\BA\Desktop\160920_Maraton_Part1\160920_Maraton\StudentManagement\obj\Debug\StudentManagement.StudentListForm.resources
+C:\Users\BA\Desktop\160920_Maraton_Part1\160920_Maraton\StudentManagement\obj\Debug\StudentManagement.csproj.GenerateResource.Cache
+C:\Users\BA\Desktop\160920_Maraton_Part1\160920_Maraton\StudentManagement\obj\Debug\StudentManagement.exe
+C:\Users\BA\Desktop\160920_Maraton_Part1\160920_Maraton\StudentManagement\obj\Debug\StudentManagement.pdb
+C:\Users\BA\Desktop\160920_Maraton_Part1\160920_Maraton\StudentManagement\bin\Debug\VToolkit.dll
+C:\Users\BA\Desktop\160920_Maraton_Part1\160920_Maraton\StudentManagement\bin\Debug\VToolkit.pdb

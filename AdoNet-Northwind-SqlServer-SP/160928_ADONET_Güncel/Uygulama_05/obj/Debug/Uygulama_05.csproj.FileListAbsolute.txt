@@ -1,0 +1,9 @@
+C:\Users\BA\Documents\Visual Studio 2013\Projects\160928_ADONET\Uygulama_05\bin\Debug\Uygulama_05.exe.config
+C:\Users\BA\Documents\Visual Studio 2013\Projects\160928_ADONET\Uygulama_05\obj\Debug\Uygulama_05.csprojResolveAssemblyReference.cache
+C:\Users\BA\Documents\Visual Studio 2013\Projects\160928_ADONET\Uygulama_05\obj\Debug\Uygulama_05.Form1.resources
+C:\Users\BA\Documents\Visual Studio 2013\Projects\160928_ADONET\Uygulama_05\obj\Debug\Uygulama_05.Properties.Resources.resources
+C:\Users\BA\Documents\Visual Studio 2013\Projects\160928_ADONET\Uygulama_05\obj\Debug\Uygulama_05.csproj.GenerateResource.Cache
+C:\Users\BA\Documents\Visual Studio 2013\Projects\160928_ADONET\Uygulama_05\bin\Debug\Uygulama_05.exe
+C:\Users\BA\Documents\Visual Studio 2013\Projects\160928_ADONET\Uygulama_05\bin\Debug\Uygulama_05.pdb
+C:\Users\BA\Documents\Visual Studio 2013\Projects\160928_ADONET\Uygulama_05\obj\Debug\Uygulama_05.exe
+C:\Users\BA\Documents\Visual Studio 2013\Projects\160928_ADONET\Uygulama_05\obj\Debug\Uygulama_05.pdb

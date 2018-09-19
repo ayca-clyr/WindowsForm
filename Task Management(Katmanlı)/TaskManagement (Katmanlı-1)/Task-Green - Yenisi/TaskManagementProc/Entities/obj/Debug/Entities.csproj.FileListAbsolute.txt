@@ -1,0 +1,13 @@
+C:\Users\Ayça\Desktop\Task-Green - Yenisi\TaskManagementProc\Entities\bin\Debug\Entities.dll.config
+C:\Users\Ayça\Desktop\Task-Green - Yenisi\TaskManagementProc\Entities\bin\Debug\Entities.dll
+C:\Users\Ayça\Desktop\Task-Green - Yenisi\TaskManagementProc\Entities\bin\Debug\Entities.pdb
+C:\Users\Ayça\Desktop\Task-Green - Yenisi\TaskManagementProc\Entities\obj\Debug\Entities.dll
+C:\Users\Ayça\Desktop\Task-Green - Yenisi\TaskManagementProc\Entities\obj\Debug\Entities.pdb
+C:\Users\Ayça\Desktop\Task-Green - Yenisi\TaskManagementProc\Entities\obj\Debug\Entities.csprojResolveAssemblyReference.cache
+C:\Users\Ayça\Desktop\Bilge Adam\161030_GreenTeam_EntityFrameWork\Task-Green - Yenisi\TaskManagementProc\Entities\bin\Debug\Entities.dll.config
+C:\Users\Ayça\Desktop\Bilge Adam\161030_GreenTeam_EntityFrameWork\Task-Green - Yenisi\TaskManagementProc\Entities\bin\Debug\Entities.dll
+C:\Users\Ayça\Desktop\Bilge Adam\161030_GreenTeam_EntityFrameWork\Task-Green - Yenisi\TaskManagementProc\Entities\bin\Debug\Entities.pdb
+C:\Users\Ayça\Desktop\Bilge Adam\161030_GreenTeam_EntityFrameWork\Task-Green - Yenisi\TaskManagementProc\Entities\obj\Debug\Entities.csprojResolveAssemblyReference.cache
+C:\Users\Ayça\Desktop\Bilge Adam\161030_GreenTeam_EntityFrameWork\Task-Green - Yenisi\TaskManagementProc\Entities\obj\Debug\Entities.csproj.CoreCompileInputs.cache
+C:\Users\Ayça\Desktop\Bilge Adam\161030_GreenTeam_EntityFrameWork\Task-Green - Yenisi\TaskManagementProc\Entities\obj\Debug\Entities.dll
+C:\Users\Ayça\Desktop\Bilge Adam\161030_GreenTeam_EntityFrameWork\Task-Green - Yenisi\TaskManagementProc\Entities\obj\Debug\Entities.pdb

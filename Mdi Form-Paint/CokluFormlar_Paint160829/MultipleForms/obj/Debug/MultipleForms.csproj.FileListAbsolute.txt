@@ -1,0 +1,17 @@
+c:\users\ba\documents\visual studio 2013\Projects\CokluFormlar_160829\MultipleForms\bin\Debug\MultipleForms.exe.config
+c:\users\ba\documents\visual studio 2013\Projects\CokluFormlar_160829\MultipleForms\bin\Debug\MultipleForms.exe
+c:\users\ba\documents\visual studio 2013\Projects\CokluFormlar_160829\MultipleForms\bin\Debug\MultipleForms.pdb
+c:\users\ba\documents\visual studio 2013\Projects\CokluFormlar_160829\MultipleForms\obj\Debug\MultipleForms.csprojResolveAssemblyReference.cache
+c:\users\ba\documents\visual studio 2013\Projects\CokluFormlar_160829\MultipleForms\obj\Debug\MultipleForms.Form1.resources
+c:\users\ba\documents\visual studio 2013\Projects\CokluFormlar_160829\MultipleForms\obj\Debug\MultipleForms.Properties.Resources.resources
+c:\users\ba\documents\visual studio 2013\Projects\CokluFormlar_160829\MultipleForms\obj\Debug\MultipleForms.StudentAddForm.resources
+c:\users\ba\documents\visual studio 2013\Projects\CokluFormlar_160829\MultipleForms\obj\Debug\MultipleForms.csproj.GenerateResource.Cache
+c:\users\ba\documents\visual studio 2013\Projects\CokluFormlar_160829\MultipleForms\obj\Debug\MultipleForms.exe
+c:\users\ba\documents\visual studio 2013\Projects\CokluFormlar_160829\MultipleForms\obj\Debug\MultipleForms.pdb
+c:\users\ba\documents\visual studio 2013\Projects\CokluFormlar_160829\MultipleForms\obj\Debug\MultipleForms.StudentDeleteForm.resources
+C:\Users\Ayça\Downloads\31-08CokluFormlar_Paint160829\CokluFormlar_Paint160829\MultipleForms\bin\Debug\MultipleForms.exe.config
+C:\Users\Ayça\Downloads\31-08CokluFormlar_Paint160829\CokluFormlar_Paint160829\MultipleForms\obj\Debug\MultipleForms.exe
+C:\Users\Ayça\Downloads\31-08CokluFormlar_Paint160829\CokluFormlar_Paint160829\MultipleForms\obj\Debug\MultipleForms.pdb
+C:\Users\BA\Downloads\(Kalınlık)CokluFormlar_Paint160829\31-08CokluFormlar_Paint160829\CokluFormlar_Paint160829\MultipleForms\bin\Debug\MultipleForms.exe.config
+C:\Users\BA\Downloads\(Kalınlık)CokluFormlar_Paint160829\31-08CokluFormlar_Paint160829\CokluFormlar_Paint160829\MultipleForms\obj\Debug\MultipleForms.exe
+C:\Users\BA\Downloads\(Kalınlık)CokluFormlar_Paint160829\31-08CokluFormlar_Paint160829\CokluFormlar_Paint160829\MultipleForms\obj\Debug\MultipleForms.pdb

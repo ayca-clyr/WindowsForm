@@ -1,0 +1,10 @@
+c:\users\ba\documents\visual studio 2013\Projects\161005_N_TierAdonet\Entities\bin\Debug\Entities.dll
+c:\users\ba\documents\visual studio 2013\Projects\161005_N_TierAdonet\Entities\bin\Debug\Entities.pdb
+c:\users\ba\documents\visual studio 2013\Projects\161005_N_TierAdonet\Entities\obj\Debug\Entities.csprojResolveAssemblyReference.cache
+c:\users\ba\documents\visual studio 2013\Projects\161005_N_TierAdonet\Entities\obj\Debug\Entities.dll
+c:\users\ba\documents\visual studio 2013\Projects\161005_N_TierAdonet\Entities\obj\Debug\Entities.pdb
+C:\Users\Ayça\Desktop\161005_N_TierAdonet\161005_N_TierAdonet\Entities\bin\Debug\Entities.dll
+C:\Users\Ayça\Desktop\161005_N_TierAdonet\161005_N_TierAdonet\Entities\bin\Debug\Entities.pdb
+C:\Users\Ayça\Desktop\161005_N_TierAdonet\161005_N_TierAdonet\Entities\obj\Debug\Entities.csprojResolveAssemblyReference.cache
+C:\Users\Ayça\Desktop\161005_N_TierAdonet\161005_N_TierAdonet\Entities\obj\Debug\Entities.dll
+C:\Users\Ayça\Desktop\161005_N_TierAdonet\161005_N_TierAdonet\Entities\obj\Debug\Entities.pdb

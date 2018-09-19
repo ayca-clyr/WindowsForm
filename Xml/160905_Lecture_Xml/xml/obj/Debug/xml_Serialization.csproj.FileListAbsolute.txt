@@ -1,0 +1,9 @@
+c:\users\ba\documents\visual studio 2013\Projects\160905_Lecture_Xml\xml\bin\Debug\xml.exe.config
+c:\users\ba\documents\visual studio 2013\Projects\160905_Lecture_Xml\xml\bin\Debug\xml.exe
+c:\users\ba\documents\visual studio 2013\Projects\160905_Lecture_Xml\xml\bin\Debug\xml.pdb
+c:\users\ba\documents\visual studio 2013\Projects\160905_Lecture_Xml\xml\obj\Debug\xml_Serialization.csprojResolveAssemblyReference.cache
+c:\users\ba\documents\visual studio 2013\Projects\160905_Lecture_Xml\xml\obj\Debug\xml.Form1.resources
+c:\users\ba\documents\visual studio 2013\Projects\160905_Lecture_Xml\xml\obj\Debug\xml.Properties.Resources.resources
+c:\users\ba\documents\visual studio 2013\Projects\160905_Lecture_Xml\xml\obj\Debug\xml_Serialization.csproj.GenerateResource.Cache
+c:\users\ba\documents\visual studio 2013\Projects\160905_Lecture_Xml\xml\obj\Debug\xml.exe
+c:\users\ba\documents\visual studio 2013\Projects\160905_Lecture_Xml\xml\obj\Debug\xml.pdb

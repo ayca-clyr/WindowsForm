@@ -1,0 +1,9 @@
+CREATE PROC sp_EmployeeSave
+(
+@FirstName nvarchar(20),
+@LastName nvarchar(20)
+)
+AS
+BEGIN
+	INSERT INTO Employees (FirstName,LastName) VALUES (@FirstName, @LastName)
+END

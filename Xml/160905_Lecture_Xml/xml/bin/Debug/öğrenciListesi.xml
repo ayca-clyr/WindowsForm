@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<Student xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <firstName>wer</firstName>
+  <lastName>dfghtr</lastName>
+  <schoolNo>3</schoolNo>
+  <dateOfBirth>1992-09-05T19:39:16</dateOfBirth>
+</Student>

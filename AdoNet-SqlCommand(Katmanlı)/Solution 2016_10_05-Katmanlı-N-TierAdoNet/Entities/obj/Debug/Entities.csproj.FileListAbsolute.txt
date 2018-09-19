@@ -1,0 +1,5 @@
+c:\users\bilal\documents\visual studio 2013\Projects\Solution 2016_10_05-Katmanlı-N-TierAdoNet\Entities\bin\Debug\Entities.dll
+c:\users\bilal\documents\visual studio 2013\Projects\Solution 2016_10_05-Katmanlı-N-TierAdoNet\Entities\bin\Debug\Entities.pdb
+c:\users\bilal\documents\visual studio 2013\Projects\Solution 2016_10_05-Katmanlı-N-TierAdoNet\Entities\obj\Debug\Entities.csprojResolveAssemblyReference.cache
+c:\users\bilal\documents\visual studio 2013\Projects\Solution 2016_10_05-Katmanlı-N-TierAdoNet\Entities\obj\Debug\Entities.dll
+c:\users\bilal\documents\visual studio 2013\Projects\Solution 2016_10_05-Katmanlı-N-TierAdoNet\Entities\obj\Debug\Entities.pdb

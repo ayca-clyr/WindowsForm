@@ -1,0 +1,20 @@
+C:\Users\Bilall\Downloads\Stage Windows Adonet\Stage Windows Adonet\ADONET\SqlHelper\bin\Debug\SqlHelper.exe.config
+C:\Users\Bilall\Downloads\Stage Windows Adonet\Stage Windows Adonet\ADONET\SqlHelper\bin\Debug\SqlHelper.exe
+C:\Users\Bilall\Downloads\Stage Windows Adonet\Stage Windows Adonet\ADONET\SqlHelper\bin\Debug\SqlHelper.pdb
+C:\Users\Bilall\Downloads\Stage Windows Adonet\Stage Windows Adonet\ADONET\SqlHelper\obj\Debug\SqlHelper.Form1.resources
+C:\Users\Bilall\Downloads\Stage Windows Adonet\Stage Windows Adonet\ADONET\SqlHelper\obj\Debug\SqlHelper.Properties.Resources.resources
+C:\Users\Bilall\Downloads\Stage Windows Adonet\Stage Windows Adonet\ADONET\SqlHelper\obj\Debug\07_Uygulama.csproj.GenerateResource.Cache
+C:\Users\Bilall\Downloads\Stage Windows Adonet\Stage Windows Adonet\ADONET\SqlHelper\obj\Debug\SqlHelper.exe
+C:\Users\Bilall\Downloads\Stage Windows Adonet\Stage Windows Adonet\ADONET\SqlHelper\obj\Debug\SqlHelper.pdb
+C:\Users\BA\Downloads\Stage Windows Adonet\Stage Windows Adonet\Stage Windows Adonet\ADONET\SqlHelper\bin\Debug\SqlHelper.exe.config
+C:\Users\BA\Downloads\Stage Windows Adonet\Stage Windows Adonet\Stage Windows Adonet\ADONET\SqlHelper\bin\Debug\SqlHelper.exe
+C:\Users\BA\Downloads\Stage Windows Adonet\Stage Windows Adonet\Stage Windows Adonet\ADONET\SqlHelper\bin\Debug\SqlHelper.pdb
+C:\Users\BA\Downloads\Stage Windows Adonet\Stage Windows Adonet\Stage Windows Adonet\ADONET\SqlHelper\obj\Debug\07_Uygulama.csprojResolveAssemblyReference.cache
+C:\Users\BA\Downloads\Stage Windows Adonet\Stage Windows Adonet\Stage Windows Adonet\ADONET\SqlHelper\obj\Debug\SqlHelper.Form1.resources
+C:\Users\BA\Downloads\Stage Windows Adonet\Stage Windows Adonet\Stage Windows Adonet\ADONET\SqlHelper\obj\Debug\SqlHelper.Properties.Resources.resources
+C:\Users\BA\Downloads\Stage Windows Adonet\Stage Windows Adonet\Stage Windows Adonet\ADONET\SqlHelper\obj\Debug\07_Uygulama.csproj.GenerateResource.Cache
+C:\Users\BA\Downloads\Stage Windows Adonet\Stage Windows Adonet\Stage Windows Adonet\ADONET\SqlHelper\obj\Debug\SqlHelper.exe
+C:\Users\BA\Downloads\Stage Windows Adonet\Stage Windows Adonet\Stage Windows Adonet\ADONET\SqlHelper\obj\Debug\SqlHelper.pdb
+C:\Users\Bilal\Downloads\Stage Windows Adonet\Stage Windows Adonet\Stage Windows Adonet\Stage Windows Adonet\ADONET\SqlHelper\bin\Debug\SqlHelper.exe.config
+C:\Users\Bilal\Downloads\Stage Windows Adonet\Stage Windows Adonet\Stage Windows Adonet\Stage Windows Adonet\ADONET\SqlHelper\obj\Debug\SqlHelper.exe
+C:\Users\Bilal\Downloads\Stage Windows Adonet\Stage Windows Adonet\Stage Windows Adonet\Stage Windows Adonet\ADONET\SqlHelper\obj\Debug\SqlHelper.pdb

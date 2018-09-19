@@ -1,0 +1,12 @@
+C:\Users\BA\Downloads\Stage Windows Adonet\Stage Windows Adonet\Stage Windows Adonet\ADONET\09_Uygulama_Disconnected_Baglanti\bin\Debug\09_Uygulama_Disconnected_Baglanti.exe.config
+C:\Users\BA\Downloads\Stage Windows Adonet\Stage Windows Adonet\Stage Windows Adonet\ADONET\09_Uygulama_Disconnected_Baglanti\bin\Debug\09_Uygulama_Disconnected_Baglanti.exe
+C:\Users\BA\Downloads\Stage Windows Adonet\Stage Windows Adonet\Stage Windows Adonet\ADONET\09_Uygulama_Disconnected_Baglanti\bin\Debug\09_Uygulama_Disconnected_Baglanti.pdb
+C:\Users\BA\Downloads\Stage Windows Adonet\Stage Windows Adonet\Stage Windows Adonet\ADONET\09_Uygulama_Disconnected_Baglanti\obj\Debug\09_Uygulama_Disconnected_Baglanti.csprojResolveAssemblyReference.cache
+C:\Users\BA\Downloads\Stage Windows Adonet\Stage Windows Adonet\Stage Windows Adonet\ADONET\09_Uygulama_Disconnected_Baglanti\obj\Debug\_09_Uygulama_Disconnected_Baglanti.Form1.resources
+C:\Users\BA\Downloads\Stage Windows Adonet\Stage Windows Adonet\Stage Windows Adonet\ADONET\09_Uygulama_Disconnected_Baglanti\obj\Debug\_09_Uygulama_Disconnected_Baglanti.Properties.Resources.resources
+C:\Users\BA\Downloads\Stage Windows Adonet\Stage Windows Adonet\Stage Windows Adonet\ADONET\09_Uygulama_Disconnected_Baglanti\obj\Debug\09_Uygulama_Disconnected_Baglanti.csproj.GenerateResource.Cache
+C:\Users\BA\Downloads\Stage Windows Adonet\Stage Windows Adonet\Stage Windows Adonet\ADONET\09_Uygulama_Disconnected_Baglanti\obj\Debug\09_Uygulama_Disconnected_Baglanti.exe
+C:\Users\BA\Downloads\Stage Windows Adonet\Stage Windows Adonet\Stage Windows Adonet\ADONET\09_Uygulama_Disconnected_Baglanti\obj\Debug\09_Uygulama_Disconnected_Baglanti.pdb
+C:\Users\Bilal\Downloads\Stage Windows Adonet\Stage Windows Adonet\Stage Windows Adonet\Stage Windows Adonet\ADONET\09_Uygulama_Disconnected_Baglanti\bin\Debug\09_Uygulama_Disconnected_Baglanti.exe.config
+C:\Users\Bilal\Downloads\Stage Windows Adonet\Stage Windows Adonet\Stage Windows Adonet\Stage Windows Adonet\ADONET\09_Uygulama_Disconnected_Baglanti\obj\Debug\09_Uygulama_Disconnected_Baglanti.exe
+C:\Users\Bilal\Downloads\Stage Windows Adonet\Stage Windows Adonet\Stage Windows Adonet\Stage Windows Adonet\ADONET\09_Uygulama_Disconnected_Baglanti\obj\Debug\09_Uygulama_Disconnected_Baglanti.pdb

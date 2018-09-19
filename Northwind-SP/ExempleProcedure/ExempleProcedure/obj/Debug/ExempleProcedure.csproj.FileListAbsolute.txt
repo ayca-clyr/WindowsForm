@@ -1,0 +1,9 @@
+c:\users\ferhat\documents\visual studio 2015\Projects\ExempleProcedure\ExempleProcedure\bin\Debug\ExempleProcedure.exe.config
+c:\users\ferhat\documents\visual studio 2015\Projects\ExempleProcedure\ExempleProcedure\bin\Debug\ExempleProcedure.exe
+c:\users\ferhat\documents\visual studio 2015\Projects\ExempleProcedure\ExempleProcedure\bin\Debug\ExempleProcedure.pdb
+c:\users\ferhat\documents\visual studio 2015\Projects\ExempleProcedure\ExempleProcedure\obj\Debug\ExempleProcedure.csprojResolveAssemblyReference.cache
+c:\users\ferhat\documents\visual studio 2015\Projects\ExempleProcedure\ExempleProcedure\obj\Debug\ExempleProcedure.Form1.resources
+c:\users\ferhat\documents\visual studio 2015\Projects\ExempleProcedure\ExempleProcedure\obj\Debug\ExempleProcedure.Properties.Resources.resources
+c:\users\ferhat\documents\visual studio 2015\Projects\ExempleProcedure\ExempleProcedure\obj\Debug\ExempleProcedure.csproj.GenerateResource.Cache
+c:\users\ferhat\documents\visual studio 2015\Projects\ExempleProcedure\ExempleProcedure\obj\Debug\ExempleProcedure.exe
+c:\users\ferhat\documents\visual studio 2015\Projects\ExempleProcedure\ExempleProcedure\obj\Debug\ExempleProcedure.pdb

@@ -1,0 +1,15 @@
+C:\Users\Bilal\Desktop\GenelTekrar\22-OOP_Polymorhism(Çok Biçimlilik)\bin\Debug\22-OOP_Polymorhism(Çok Biçimlilik).exe.config
+C:\Users\Bilal\Desktop\GenelTekrar\22-OOP_Polymorhism(Çok Biçimlilik)\bin\Debug\22-OOP_Polymorhism(Çok Biçimlilik).exe
+C:\Users\Bilal\Desktop\GenelTekrar\22-OOP_Polymorhism(Çok Biçimlilik)\bin\Debug\22-OOP_Polymorhism(Çok Biçimlilik).pdb
+C:\Users\Bilal\Desktop\GenelTekrar\22-OOP_Polymorhism(Çok Biçimlilik)\obj\Debug\22-OOP_Polymorhism(Çok Biçimlilik).csprojResolveAssemblyReference.cache
+C:\Users\Bilal\Desktop\GenelTekrar\22-OOP_Polymorhism(Çok Biçimlilik)\obj\Debug\_22_OOP_Polymorhism_Çok_Biçimlilik_.Form1.resources
+C:\Users\Bilal\Desktop\GenelTekrar\22-OOP_Polymorhism(Çok Biçimlilik)\obj\Debug\_22_OOP_Polymorhism_Çok_Biçimlilik_.Properties.Resources.resources
+C:\Users\Bilal\Desktop\GenelTekrar\22-OOP_Polymorhism(Çok Biçimlilik)\obj\Debug\22-OOP_Polymorhism(Çok Biçimlilik).csproj.GenerateResource.Cache
+C:\Users\Bilal\Desktop\GenelTekrar\22-OOP_Polymorhism(Çok Biçimlilik)\obj\Debug\22-OOP_Polymorhism(Çok Biçimlilik).exe
+C:\Users\Bilal\Desktop\GenelTekrar\22-OOP_Polymorhism(Çok Biçimlilik)\obj\Debug\22-OOP_Polymorhism(Çok Biçimlilik).pdb
+C:\Users\Gunaydın\Desktop\GenelTekrar\22-OOP_Polymorhism(Çok Biçimlilik)\bin\Debug\22-OOP_Polymorhism(Çok Biçimlilik).exe.config
+C:\Users\Gunaydın\Desktop\GenelTekrar\22-OOP_Polymorhism(Çok Biçimlilik)\obj\Debug\22-OOP_Polymorhism(Çok Biçimlilik).exe
+C:\Users\Gunaydın\Desktop\GenelTekrar\22-OOP_Polymorhism(Çok Biçimlilik)\obj\Debug\22-OOP_Polymorhism(Çok Biçimlilik).pdb
+C:\Users\Bilall\Downloads\GenelTekrar\GenelTekrar\22-OOP_Polymorhism(Çok Biçimlilik)\bin\Debug\22-OOP_Polymorhism(Çok Biçimlilik).exe.config
+C:\Users\Bilall\Downloads\GenelTekrar\GenelTekrar\22-OOP_Polymorhism(Çok Biçimlilik)\obj\Debug\22-OOP_Polymorhism(Çok Biçimlilik).exe
+C:\Users\Bilall\Downloads\GenelTekrar\GenelTekrar\22-OOP_Polymorhism(Çok Biçimlilik)\obj\Debug\22-OOP_Polymorhism(Çok Biçimlilik).pdb

@@ -1,0 +1,9 @@
+c:\users\gunaydın\documents\visual studio 2013\Projects\GenelTekrar\5-RunTimeButonKontrol\bin\Debug\5-RunTimeButonKontrol.exe.config
+c:\users\gunaydın\documents\visual studio 2013\Projects\GenelTekrar\5-RunTimeButonKontrol\bin\Debug\5-RunTimeButonKontrol.exe
+c:\users\gunaydın\documents\visual studio 2013\Projects\GenelTekrar\5-RunTimeButonKontrol\bin\Debug\5-RunTimeButonKontrol.pdb
+c:\users\gunaydın\documents\visual studio 2013\Projects\GenelTekrar\5-RunTimeButonKontrol\obj\Debug\5-RunTimeButonKontrol.csprojResolveAssemblyReference.cache
+c:\users\gunaydın\documents\visual studio 2013\Projects\GenelTekrar\5-RunTimeButonKontrol\obj\Debug\_5_RunTimeButonKontrol.Form1.resources
+c:\users\gunaydın\documents\visual studio 2013\Projects\GenelTekrar\5-RunTimeButonKontrol\obj\Debug\_5_RunTimeButonKontrol.Properties.Resources.resources
+c:\users\gunaydın\documents\visual studio 2013\Projects\GenelTekrar\5-RunTimeButonKontrol\obj\Debug\5-RunTimeButonKontrol.csproj.GenerateResource.Cache
+c:\users\gunaydın\documents\visual studio 2013\Projects\GenelTekrar\5-RunTimeButonKontrol\obj\Debug\5-RunTimeButonKontrol.exe
+c:\users\gunaydın\documents\visual studio 2013\Projects\GenelTekrar\5-RunTimeButonKontrol\obj\Debug\5-RunTimeButonKontrol.pdb

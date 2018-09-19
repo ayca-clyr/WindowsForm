@@ -1,0 +1,14 @@
+c:\users\ba\documents\visual studio 2013\Projects\161005_N_TierAdonet\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+c:\users\ba\documents\visual studio 2013\Projects\161005_N_TierAdonet\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+c:\users\ba\documents\visual studio 2013\Projects\161005_N_TierAdonet\DataAccessLayer\bin\Debug\Entities.dll
+c:\users\ba\documents\visual studio 2013\Projects\161005_N_TierAdonet\DataAccessLayer\bin\Debug\Entities.pdb
+c:\users\ba\documents\visual studio 2013\Projects\161005_N_TierAdonet\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+c:\users\ba\documents\visual studio 2013\Projects\161005_N_TierAdonet\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+c:\users\ba\documents\visual studio 2013\Projects\161005_N_TierAdonet\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\Ayça\Desktop\161005_N_TierAdonet\161005_N_TierAdonet\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Ayça\Desktop\161005_N_TierAdonet\161005_N_TierAdonet\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Ayça\Desktop\161005_N_TierAdonet\161005_N_TierAdonet\DataAccessLayer\bin\Debug\Entities.dll
+C:\Users\Ayça\Desktop\161005_N_TierAdonet\161005_N_TierAdonet\DataAccessLayer\bin\Debug\Entities.pdb
+C:\Users\Ayça\Desktop\161005_N_TierAdonet\161005_N_TierAdonet\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+C:\Users\Ayça\Desktop\161005_N_TierAdonet\161005_N_TierAdonet\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\Ayça\Desktop\161005_N_TierAdonet\161005_N_TierAdonet\DataAccessLayer\obj\Debug\DataAccessLayer.pdb

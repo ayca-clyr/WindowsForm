@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<Öğrenci xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Adı>Lan</Adı>
+  <Soyadı>amk</Soyadı>
+  <OkulNo>3</OkulNo>
+  <DogumTarihi>2016-09-14T14:15:16.9379974+03:00</DogumTarihi>
+</Öğrenci>

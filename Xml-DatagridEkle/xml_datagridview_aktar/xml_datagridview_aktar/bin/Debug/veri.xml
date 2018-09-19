@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Ogrenciler>
+  <ogrenci>
+    <id>42</id>
+    <adi>Ayşe</adi>
+    <soyadi>Can</soyadi>
+    <telefonu>222222</telefonu>
+  </ogrenci>
+  <ogrenci>
+    <id>66</id>
+    <adi>salih</adi>
+    <soyadi>Akın</soyadi>
+    <telefonu>82545</telefonu>
+  </ogrenci>
+</Ogrenciler>

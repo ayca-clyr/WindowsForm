@@ -1,0 +1,12 @@
+c:\users\ba\documents\visual studio 2013\Projects\Lecture160908 (OOP)\1- OOP INTRO\bin\Debug\1- OOP INTRO.exe.config
+c:\users\ba\documents\visual studio 2013\Projects\Lecture160908 (OOP)\1- OOP INTRO\obj\Debug\1- OOP INTRO.csprojResolveAssemblyReference.cache
+c:\users\ba\documents\visual studio 2013\Projects\Lecture160908 (OOP)\1- OOP INTRO\obj\Debug\_1__OOP_INTRO.Form1.resources
+c:\users\ba\documents\visual studio 2013\Projects\Lecture160908 (OOP)\1- OOP INTRO\obj\Debug\_1__OOP_INTRO.Properties.Resources.resources
+c:\users\ba\documents\visual studio 2013\Projects\Lecture160908 (OOP)\1- OOP INTRO\obj\Debug\1- OOP INTRO.csproj.GenerateResource.Cache
+c:\users\ba\documents\visual studio 2013\Projects\Lecture160908 (OOP)\1- OOP INTRO\bin\Debug\1- OOP INTRO.exe
+c:\users\ba\documents\visual studio 2013\Projects\Lecture160908 (OOP)\1- OOP INTRO\bin\Debug\1- OOP INTRO.pdb
+c:\users\ba\documents\visual studio 2013\Projects\Lecture160908 (OOP)\1- OOP INTRO\obj\Debug\1- OOP INTRO.exe
+c:\users\ba\documents\visual studio 2013\Projects\Lecture160908 (OOP)\1- OOP INTRO\obj\Debug\1- OOP INTRO.pdb
+C:\Users\BA\Downloads\Lecture160908 InterFace\Lecture160908 (OOP)\1- OOP INTRO\bin\Debug\1- OOP INTRO.exe.config
+C:\Users\BA\Downloads\Lecture160908 InterFace\Lecture160908 (OOP)\1- OOP INTRO\obj\Debug\1- OOP INTRO.exe
+C:\Users\BA\Downloads\Lecture160908 InterFace\Lecture160908 (OOP)\1- OOP INTRO\obj\Debug\1- OOP INTRO.pdb

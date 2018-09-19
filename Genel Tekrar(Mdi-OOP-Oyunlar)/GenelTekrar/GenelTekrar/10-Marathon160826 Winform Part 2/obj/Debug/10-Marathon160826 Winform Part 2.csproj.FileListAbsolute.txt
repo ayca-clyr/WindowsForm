@@ -1,0 +1,22 @@
+C:\Users\Gunaydın\Documents\Visual Studio 2013\Projects\GenelTekrar\10-Marathon160826 Winform Part 2\bin\Debug\10-Marathon160826 Winform Part 2.exe.config
+C:\Users\Gunaydın\Documents\Visual Studio 2013\Projects\GenelTekrar\10-Marathon160826 Winform Part 2\bin\Debug\10-Marathon160826 Winform Part 2.exe
+C:\Users\Gunaydın\Documents\Visual Studio 2013\Projects\GenelTekrar\10-Marathon160826 Winform Part 2\bin\Debug\10-Marathon160826 Winform Part 2.pdb
+C:\Users\Gunaydın\Documents\Visual Studio 2013\Projects\GenelTekrar\10-Marathon160826 Winform Part 2\obj\Debug\10-Marathon160826 Winform Part 2.csprojResolveAssemblyReference.cache
+C:\Users\Gunaydın\Documents\Visual Studio 2013\Projects\GenelTekrar\10-Marathon160826 Winform Part 2\obj\Debug\_10_Marathon160826_Winform_Part_2.Form1.resources
+C:\Users\Gunaydın\Documents\Visual Studio 2013\Projects\GenelTekrar\10-Marathon160826 Winform Part 2\obj\Debug\_10_Marathon160826_Winform_Part_2.Properties.Resources.resources
+C:\Users\Gunaydın\Documents\Visual Studio 2013\Projects\GenelTekrar\10-Marathon160826 Winform Part 2\obj\Debug\10-Marathon160826 Winform Part 2.csproj.GenerateResource.Cache
+C:\Users\Gunaydın\Documents\Visual Studio 2013\Projects\GenelTekrar\10-Marathon160826 Winform Part 2\obj\Debug\10-Marathon160826 Winform Part 2.exe
+C:\Users\Gunaydın\Documents\Visual Studio 2013\Projects\GenelTekrar\10-Marathon160826 Winform Part 2\obj\Debug\10-Marathon160826 Winform Part 2.pdb
+C:\Users\Bilal\Desktop\GenelTekrar\10-Marathon160826 Winform Part 2\bin\Debug\10-Marathon160826 Winform Part 2.exe.config
+C:\Users\Bilal\Desktop\GenelTekrar\10-Marathon160826 Winform Part 2\obj\Debug\10-Marathon160826 Winform Part 2.exe
+C:\Users\Bilal\Desktop\GenelTekrar\10-Marathon160826 Winform Part 2\obj\Debug\10-Marathon160826 Winform Part 2.pdb
+C:\Users\Ayça\Desktop\Bilge Adam\drive-download-20161214T123646Z\GenelTekrar\GenelTekrar\GenelTekrar\10-Marathon160826 Winform Part 2\bin\Debug\10-Marathon160826 Winform Part 2.exe.config
+C:\Users\Ayça\Desktop\Bilge Adam\drive-download-20161214T123646Z\GenelTekrar\GenelTekrar\GenelTekrar\10-Marathon160826 Winform Part 2\bin\Debug\10-Marathon160826 Winform Part 2.exe
+C:\Users\Ayça\Desktop\Bilge Adam\drive-download-20161214T123646Z\GenelTekrar\GenelTekrar\GenelTekrar\10-Marathon160826 Winform Part 2\bin\Debug\10-Marathon160826 Winform Part 2.pdb
+C:\Users\Ayça\Desktop\Bilge Adam\drive-download-20161214T123646Z\GenelTekrar\GenelTekrar\GenelTekrar\10-Marathon160826 Winform Part 2\obj\Debug\10-Marathon160826 Winform Part 2.csprojResolveAssemblyReference.cache
+C:\Users\Ayça\Desktop\Bilge Adam\drive-download-20161214T123646Z\GenelTekrar\GenelTekrar\GenelTekrar\10-Marathon160826 Winform Part 2\obj\Debug\_10_Marathon160826_Winform_Part_2.Form1.resources
+C:\Users\Ayça\Desktop\Bilge Adam\drive-download-20161214T123646Z\GenelTekrar\GenelTekrar\GenelTekrar\10-Marathon160826 Winform Part 2\obj\Debug\_10_Marathon160826_Winform_Part_2.Properties.Resources.resources
+C:\Users\Ayça\Desktop\Bilge Adam\drive-download-20161214T123646Z\GenelTekrar\GenelTekrar\GenelTekrar\10-Marathon160826 Winform Part 2\obj\Debug\10-Marathon160826 Winform Part 2.csproj.GenerateResource.Cache
+C:\Users\Ayça\Desktop\Bilge Adam\drive-download-20161214T123646Z\GenelTekrar\GenelTekrar\GenelTekrar\10-Marathon160826 Winform Part 2\obj\Debug\10-Marathon160826 Winform Part 2.csproj.CoreCompileInputs.cache
+C:\Users\Ayça\Desktop\Bilge Adam\drive-download-20161214T123646Z\GenelTekrar\GenelTekrar\GenelTekrar\10-Marathon160826 Winform Part 2\obj\Debug\10-Marathon160826 Winform Part 2.exe
+C:\Users\Ayça\Desktop\Bilge Adam\drive-download-20161214T123646Z\GenelTekrar\GenelTekrar\GenelTekrar\10-Marathon160826 Winform Part 2\obj\Debug\10-Marathon160826 Winform Part 2.pdb

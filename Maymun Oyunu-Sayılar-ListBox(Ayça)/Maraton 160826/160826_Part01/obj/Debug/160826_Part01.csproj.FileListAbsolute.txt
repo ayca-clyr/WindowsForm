@@ -1,0 +1,15 @@
+C:\Users\BA\Documents\Visual Studio 2013\Projects\Maraton 160826\160826_Part01\bin\Debug\160826_Part01.exe.config
+C:\Users\BA\Documents\Visual Studio 2013\Projects\Maraton 160826\160826_Part01\bin\Debug\160826_Part01.exe
+C:\Users\BA\Documents\Visual Studio 2013\Projects\Maraton 160826\160826_Part01\bin\Debug\160826_Part01.pdb
+C:\Users\BA\Documents\Visual Studio 2013\Projects\Maraton 160826\160826_Part01\obj\Debug\160826_Part01.csprojResolveAssemblyReference.cache
+C:\Users\BA\Documents\Visual Studio 2013\Projects\Maraton 160826\160826_Part01\obj\Debug\_160826_Part01.Form1.resources
+C:\Users\BA\Documents\Visual Studio 2013\Projects\Maraton 160826\160826_Part01\obj\Debug\_160826_Part01.Properties.Resources.resources
+C:\Users\BA\Documents\Visual Studio 2013\Projects\Maraton 160826\160826_Part01\obj\Debug\160826_Part01.csproj.GenerateResource.Cache
+C:\Users\BA\Documents\Visual Studio 2013\Projects\Maraton 160826\160826_Part01\obj\Debug\160826_Part01.exe
+C:\Users\BA\Documents\Visual Studio 2013\Projects\Maraton 160826\160826_Part01\obj\Debug\160826_Part01.pdb
+C:\Users\Ayça\Downloads\160826_Maraton\Maraton 160826\160826_Part01\bin\Debug\160826_Part01.exe.config
+C:\Users\Ayça\Downloads\160826_Maraton\Maraton 160826\160826_Part01\obj\Debug\160826_Part01.exe
+C:\Users\Ayça\Downloads\160826_Maraton\Maraton 160826\160826_Part01\obj\Debug\160826_Part01.pdb
+C:\Users\Ayça\Desktop\Bilge Adam\160826_Maraton\Maraton 160826\160826_Part01\bin\Debug\160826_Part01.exe.config
+C:\Users\Ayça\Desktop\Bilge Adam\160826_Maraton\Maraton 160826\160826_Part01\obj\Debug\160826_Part01.exe
+C:\Users\Ayça\Desktop\Bilge Adam\160826_Maraton\Maraton 160826\160826_Part01\obj\Debug\160826_Part01.pdb

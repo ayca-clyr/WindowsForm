@@ -1,0 +1,19 @@
+C:\Users\Ferhat\Music\Desktop\Marathon160826\Part4\bin\Debug\Part4.exe.config
+C:\Users\Ferhat\Music\Desktop\Marathon160826\Part4\bin\Debug\Part4.exe
+C:\Users\Ferhat\Music\Desktop\Marathon160826\Part4\bin\Debug\Part4.pdb
+C:\Users\Ferhat\Music\Desktop\Marathon160826\Part4\obj\Debug\Part4.csprojResolveAssemblyReference.cache
+C:\Users\Ferhat\Music\Desktop\Marathon160826\Part4\obj\Debug\Part4.Form1.resources
+C:\Users\Ferhat\Music\Desktop\Marathon160826\Part4\obj\Debug\Part4.Properties.Resources.resources
+C:\Users\Ferhat\Music\Desktop\Marathon160826\Part4\obj\Debug\Part4.csproj.GenerateResource.Cache
+C:\Users\Ferhat\Music\Desktop\Marathon160826\Part4\obj\Debug\Part4.exe
+C:\Users\Ferhat\Music\Desktop\Marathon160826\Part4\obj\Debug\Part4.pdb
+C:\Users\Ayça\Desktop\Bilge Adam\C#\160826 MarathonWinFormPart4 (1)\Marathon160826\Part4\bin\Debug\Part4.exe.config
+C:\Users\Ayça\Desktop\Bilge Adam\C#\160826 MarathonWinFormPart4 (1)\Marathon160826\Part4\bin\Debug\Part4.exe
+C:\Users\Ayça\Desktop\Bilge Adam\C#\160826 MarathonWinFormPart4 (1)\Marathon160826\Part4\bin\Debug\Part4.pdb
+C:\Users\Ayça\Desktop\Bilge Adam\C#\160826 MarathonWinFormPart4 (1)\Marathon160826\Part4\obj\Debug\Part4.csprojResolveAssemblyReference.cache
+C:\Users\Ayça\Desktop\Bilge Adam\C#\160826 MarathonWinFormPart4 (1)\Marathon160826\Part4\obj\Debug\Part4.Form1.resources
+C:\Users\Ayça\Desktop\Bilge Adam\C#\160826 MarathonWinFormPart4 (1)\Marathon160826\Part4\obj\Debug\Part4.Properties.Resources.resources
+C:\Users\Ayça\Desktop\Bilge Adam\C#\160826 MarathonWinFormPart4 (1)\Marathon160826\Part4\obj\Debug\Part4.csproj.GenerateResource.Cache
+C:\Users\Ayça\Desktop\Bilge Adam\C#\160826 MarathonWinFormPart4 (1)\Marathon160826\Part4\obj\Debug\Part4.csproj.CoreCompileInputs.cache
+C:\Users\Ayça\Desktop\Bilge Adam\C#\160826 MarathonWinFormPart4 (1)\Marathon160826\Part4\obj\Debug\Part4.exe
+C:\Users\Ayça\Desktop\Bilge Adam\C#\160826 MarathonWinFormPart4 (1)\Marathon160826\Part4\obj\Debug\Part4.pdb

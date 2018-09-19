@@ -1,0 +1,9 @@
+c:\users\gunaydın\documents\visual studio 2013\Projects\GenelTekrar\4-YönTusları\bin\Debug\4-YönTusları.exe.config
+c:\users\gunaydın\documents\visual studio 2013\Projects\GenelTekrar\4-YönTusları\bin\Debug\4-YönTusları.exe
+c:\users\gunaydın\documents\visual studio 2013\Projects\GenelTekrar\4-YönTusları\bin\Debug\4-YönTusları.pdb
+c:\users\gunaydın\documents\visual studio 2013\Projects\GenelTekrar\4-YönTusları\obj\Debug\4-YönTusları.csprojResolveAssemblyReference.cache
+c:\users\gunaydın\documents\visual studio 2013\Projects\GenelTekrar\4-YönTusları\obj\Debug\_4_YönTusları.Form1.resources
+c:\users\gunaydın\documents\visual studio 2013\Projects\GenelTekrar\4-YönTusları\obj\Debug\_4_YönTusları.Properties.Resources.resources
+c:\users\gunaydın\documents\visual studio 2013\Projects\GenelTekrar\4-YönTusları\obj\Debug\4-YönTusları.csproj.GenerateResource.Cache
+c:\users\gunaydın\documents\visual studio 2013\Projects\GenelTekrar\4-YönTusları\obj\Debug\4-YönTusları.exe
+c:\users\gunaydın\documents\visual studio 2013\Projects\GenelTekrar\4-YönTusları\obj\Debug\4-YönTusları.pdb

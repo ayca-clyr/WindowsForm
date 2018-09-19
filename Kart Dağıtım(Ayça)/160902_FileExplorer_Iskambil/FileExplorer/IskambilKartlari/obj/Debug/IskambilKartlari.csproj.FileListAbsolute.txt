@@ -1,0 +1,31 @@
+C:\Users\Ayça\Downloads\160902_FileExplorer\FileExplorer\IskambilKartlari\bin\Debug\IskambilKartlari.exe.config
+C:\Users\Ayça\Downloads\160902_FileExplorer\FileExplorer\IskambilKartlari\obj\Debug\IskambilKartlari.csprojResolveAssemblyReference.cache
+C:\Users\Ayça\Downloads\160902_FileExplorer\FileExplorer\IskambilKartlari\obj\Debug\IskambilKartlari.Form1.resources
+C:\Users\Ayça\Downloads\160902_FileExplorer\FileExplorer\IskambilKartlari\obj\Debug\IskambilKartlari.KartGoster.resources
+C:\Users\Ayça\Downloads\160902_FileExplorer\FileExplorer\IskambilKartlari\obj\Debug\IskambilKartlari.Properties.Resources.resources
+C:\Users\Ayça\Downloads\160902_FileExplorer\FileExplorer\IskambilKartlari\obj\Debug\IskambilKartlari.csproj.GenerateResource.Cache
+C:\Users\Ayça\Downloads\160902_FileExplorer\FileExplorer\IskambilKartlari\bin\Debug\IskambilKartlari.exe
+C:\Users\Ayça\Downloads\160902_FileExplorer\FileExplorer\IskambilKartlari\bin\Debug\IskambilKartlari.pdb
+C:\Users\Ayça\Downloads\160902_FileExplorer\FileExplorer\IskambilKartlari\obj\Debug\IskambilKartlari.exe
+C:\Users\Ayça\Downloads\160902_FileExplorer\FileExplorer\IskambilKartlari\obj\Debug\IskambilKartlari.pdb
+C:\Users\Ayça\Desktop\160902_FileExplorer_Iskambil\FileExplorer\IskambilKartlari\bin\Debug\IskambilKartlari.exe.config
+C:\Users\Ayça\Desktop\160902_FileExplorer_Iskambil\FileExplorer\IskambilKartlari\obj\Debug\IskambilKartlari.exe
+C:\Users\Ayça\Desktop\160902_FileExplorer_Iskambil\FileExplorer\IskambilKartlari\obj\Debug\IskambilKartlari.pdb
+C:\Users\Ayça\Desktop\160902_FileExplorer_Iskambil\FileExplorer\IskambilKartlari\bin\Debug\IskambilKartlari.exe
+C:\Users\Ayça\Desktop\160902_FileExplorer_Iskambil\FileExplorer\IskambilKartlari\bin\Debug\IskambilKartlari.pdb
+C:\Users\Ayça\Desktop\160902_FileExplorer_Iskambil\FileExplorer\IskambilKartlari\obj\Debug\IskambilKartlari.csprojResolveAssemblyReference.cache
+C:\Users\Ayça\Desktop\160902_FileExplorer_Iskambil\FileExplorer\IskambilKartlari\obj\Debug\IskambilKartlari.Form1.resources
+C:\Users\Ayça\Desktop\160902_FileExplorer_Iskambil\FileExplorer\IskambilKartlari\obj\Debug\IskambilKartlari.KartGoster.resources
+C:\Users\Ayça\Desktop\160902_FileExplorer_Iskambil\FileExplorer\IskambilKartlari\obj\Debug\IskambilKartlari.Properties.Resources.resources
+C:\Users\Ayça\Desktop\160902_FileExplorer_Iskambil\FileExplorer\IskambilKartlari\obj\Debug\IskambilKartlari.csproj.GenerateResource.Cache
+C:\Users\Ayça\Desktop\Bilge Adam\drive-download-20161214T130250Z\160902_FileExplorer_Iskambil\160902_FileExplorer_Iskambil\FileExplorer\IskambilKartlari\bin\Debug\IskambilKartlari.exe.config
+C:\Users\Ayça\Desktop\Bilge Adam\drive-download-20161214T130250Z\160902_FileExplorer_Iskambil\160902_FileExplorer_Iskambil\FileExplorer\IskambilKartlari\bin\Debug\IskambilKartlari.exe
+C:\Users\Ayça\Desktop\Bilge Adam\drive-download-20161214T130250Z\160902_FileExplorer_Iskambil\160902_FileExplorer_Iskambil\FileExplorer\IskambilKartlari\bin\Debug\IskambilKartlari.pdb
+C:\Users\Ayça\Desktop\Bilge Adam\drive-download-20161214T130250Z\160902_FileExplorer_Iskambil\160902_FileExplorer_Iskambil\FileExplorer\IskambilKartlari\obj\Debug\IskambilKartlari.csprojResolveAssemblyReference.cache
+C:\Users\Ayça\Desktop\Bilge Adam\drive-download-20161214T130250Z\160902_FileExplorer_Iskambil\160902_FileExplorer_Iskambil\FileExplorer\IskambilKartlari\obj\Debug\IskambilKartlari.Form1.resources
+C:\Users\Ayça\Desktop\Bilge Adam\drive-download-20161214T130250Z\160902_FileExplorer_Iskambil\160902_FileExplorer_Iskambil\FileExplorer\IskambilKartlari\obj\Debug\IskambilKartlari.KartGoster.resources
+C:\Users\Ayça\Desktop\Bilge Adam\drive-download-20161214T130250Z\160902_FileExplorer_Iskambil\160902_FileExplorer_Iskambil\FileExplorer\IskambilKartlari\obj\Debug\IskambilKartlari.Properties.Resources.resources
+C:\Users\Ayça\Desktop\Bilge Adam\drive-download-20161214T130250Z\160902_FileExplorer_Iskambil\160902_FileExplorer_Iskambil\FileExplorer\IskambilKartlari\obj\Debug\IskambilKartlari.csproj.GenerateResource.Cache
+C:\Users\Ayça\Desktop\Bilge Adam\drive-download-20161214T130250Z\160902_FileExplorer_Iskambil\160902_FileExplorer_Iskambil\FileExplorer\IskambilKartlari\obj\Debug\IskambilKartlari.csproj.CoreCompileInputs.cache
+C:\Users\Ayça\Desktop\Bilge Adam\drive-download-20161214T130250Z\160902_FileExplorer_Iskambil\160902_FileExplorer_Iskambil\FileExplorer\IskambilKartlari\obj\Debug\IskambilKartlari.exe
+C:\Users\Ayça\Desktop\Bilge Adam\drive-download-20161214T130250Z\160902_FileExplorer_Iskambil\160902_FileExplorer_Iskambil\FileExplorer\IskambilKartlari\obj\Debug\IskambilKartlari.pdb

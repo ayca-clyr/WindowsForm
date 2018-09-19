@@ -1,0 +1,18 @@
+c:\users\ferhat\documents\visual studio 2015\Projects\160930 FullDatabase\160930 FullDatabase\bin\Debug\160930 FullDatabase.exe.config
+c:\users\ferhat\documents\visual studio 2015\Projects\160930 FullDatabase\160930 FullDatabase\bin\Debug\160930 FullDatabase.exe
+c:\users\ferhat\documents\visual studio 2015\Projects\160930 FullDatabase\160930 FullDatabase\bin\Debug\160930 FullDatabase.pdb
+c:\users\ferhat\documents\visual studio 2015\Projects\160930 FullDatabase\160930 FullDatabase\obj\Debug\160930 FullDatabase.csprojResolveAssemblyReference.cache
+c:\users\ferhat\documents\visual studio 2015\Projects\160930 FullDatabase\160930 FullDatabase\obj\Debug\_160930_FullDatabase.Form1.resources
+c:\users\ferhat\documents\visual studio 2015\Projects\160930 FullDatabase\160930 FullDatabase\obj\Debug\_160930_FullDatabase.Properties.Resources.resources
+c:\users\ferhat\documents\visual studio 2015\Projects\160930 FullDatabase\160930 FullDatabase\obj\Debug\160930 FullDatabase.csproj.GenerateResource.Cache
+c:\users\ferhat\documents\visual studio 2015\Projects\160930 FullDatabase\160930 FullDatabase\obj\Debug\160930 FullDatabase.exe
+c:\users\ferhat\documents\visual studio 2015\Projects\160930 FullDatabase\160930 FullDatabase\obj\Debug\160930 FullDatabase.pdb
+C:\Users\BA\Desktop\160930 FullDatabase\160930 FullDatabase\bin\Debug\160930 FullDatabase.exe.config
+C:\Users\BA\Desktop\160930 FullDatabase\160930 FullDatabase\obj\Debug\160930 FullDatabase.exe
+C:\Users\BA\Desktop\160930 FullDatabase\160930 FullDatabase\obj\Debug\160930 FullDatabase.pdb
+C:\Users\BA\Desktop\160930 FullDatabase\160930 FullDatabase\bin\Debug\160930 FullDatabase.exe
+C:\Users\BA\Desktop\160930 FullDatabase\160930 FullDatabase\bin\Debug\160930 FullDatabase.pdb
+C:\Users\BA\Desktop\160930 FullDatabase\160930 FullDatabase\obj\Debug\160930 FullDatabase.csprojResolveAssemblyReference.cache
+C:\Users\BA\Desktop\160930 FullDatabase\160930 FullDatabase\obj\Debug\_160930_FullDatabase.Form1.resources
+C:\Users\BA\Desktop\160930 FullDatabase\160930 FullDatabase\obj\Debug\_160930_FullDatabase.Properties.Resources.resources
+C:\Users\BA\Desktop\160930 FullDatabase\160930 FullDatabase\obj\Debug\160930 FullDatabase.csproj.GenerateResource.Cache

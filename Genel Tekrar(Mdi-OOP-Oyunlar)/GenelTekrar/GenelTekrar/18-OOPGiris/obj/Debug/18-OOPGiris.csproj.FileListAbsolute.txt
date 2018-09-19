@@ -1,0 +1,10 @@
+C:\Users\Gunaydın\Documents\Visual Studio 2013\Projects\GenelTekrar\18-OOPGiris\bin\Debug\18-OOPGiris.exe.config
+C:\Users\Gunaydın\Documents\Visual Studio 2013\Projects\GenelTekrar\18-OOPGiris\bin\Debug\18-OOPGiris.exe
+C:\Users\Gunaydın\Documents\Visual Studio 2013\Projects\GenelTekrar\18-OOPGiris\bin\Debug\18-OOPGiris.pdb
+C:\Users\Gunaydın\Documents\Visual Studio 2013\Projects\GenelTekrar\18-OOPGiris\obj\Debug\18-OOPGiris.csprojResolveAssemblyReference.cache
+C:\Users\Gunaydın\Documents\Visual Studio 2013\Projects\GenelTekrar\18-OOPGiris\obj\Debug\_18_OOPGiris.Form1.resources
+C:\Users\Gunaydın\Documents\Visual Studio 2013\Projects\GenelTekrar\18-OOPGiris\obj\Debug\_18_OOPGiris.Properties.Resources.resources
+C:\Users\Gunaydın\Documents\Visual Studio 2013\Projects\GenelTekrar\18-OOPGiris\obj\Debug\18-OOPGiris.csproj.GenerateResource.Cache
+C:\Users\Gunaydın\Documents\Visual Studio 2013\Projects\GenelTekrar\18-OOPGiris\obj\Debug\18-OOPGiris.exe
+C:\Users\Gunaydın\Documents\Visual Studio 2013\Projects\GenelTekrar\18-OOPGiris\obj\Debug\18-OOPGiris.pdb
+C:\Users\Gunaydın\Documents\Visual Studio 2013\Projects\GenelTekrar\18-OOPGiris\obj\Debug\_18_OOPGiris.Personeller.resources

@@ -1,0 +1,9 @@
+C:\Users\Gunaydın\Documents\Visual Studio 2013\Projects\GenelTekrar\15-XML_Serialization\bin\Debug\15-XML_Serialization.exe.config
+C:\Users\Gunaydın\Documents\Visual Studio 2013\Projects\GenelTekrar\15-XML_Serialization\bin\Debug\15-XML_Serialization.exe
+C:\Users\Gunaydın\Documents\Visual Studio 2013\Projects\GenelTekrar\15-XML_Serialization\bin\Debug\15-XML_Serialization.pdb
+C:\Users\Gunaydın\Documents\Visual Studio 2013\Projects\GenelTekrar\15-XML_Serialization\obj\Debug\15-XML_Serialization.csprojResolveAssemblyReference.cache
+C:\Users\Gunaydın\Documents\Visual Studio 2013\Projects\GenelTekrar\15-XML_Serialization\obj\Debug\_15_XML_Serialization.Form1.resources
+C:\Users\Gunaydın\Documents\Visual Studio 2013\Projects\GenelTekrar\15-XML_Serialization\obj\Debug\_15_XML_Serialization.Properties.Resources.resources
+C:\Users\Gunaydın\Documents\Visual Studio 2013\Projects\GenelTekrar\15-XML_Serialization\obj\Debug\15-XML_Serialization.csproj.GenerateResource.Cache
+C:\Users\Gunaydın\Documents\Visual Studio 2013\Projects\GenelTekrar\15-XML_Serialization\obj\Debug\15-XML_Serialization.exe
+C:\Users\Gunaydın\Documents\Visual Studio 2013\Projects\GenelTekrar\15-XML_Serialization\obj\Debug\15-XML_Serialization.pdb

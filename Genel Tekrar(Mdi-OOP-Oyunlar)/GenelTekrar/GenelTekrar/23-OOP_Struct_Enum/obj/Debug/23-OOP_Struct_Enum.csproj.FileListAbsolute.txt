@@ -1,0 +1,9 @@
+C:\Users\Bilal\Desktop\GenelTekrar\23-OOP_Struct_Enum\bin\Debug\23-OOP_Struct_Enum.exe.config
+C:\Users\Bilal\Desktop\GenelTekrar\23-OOP_Struct_Enum\bin\Debug\23-OOP_Struct_Enum.exe
+C:\Users\Bilal\Desktop\GenelTekrar\23-OOP_Struct_Enum\bin\Debug\23-OOP_Struct_Enum.pdb
+C:\Users\Bilal\Desktop\GenelTekrar\23-OOP_Struct_Enum\obj\Debug\23-OOP_Struct_Enum.csprojResolveAssemblyReference.cache
+C:\Users\Bilal\Desktop\GenelTekrar\23-OOP_Struct_Enum\obj\Debug\_23_OOP_Struct_Enum.Form1.resources
+C:\Users\Bilal\Desktop\GenelTekrar\23-OOP_Struct_Enum\obj\Debug\_23_OOP_Struct_Enum.Properties.Resources.resources
+C:\Users\Bilal\Desktop\GenelTekrar\23-OOP_Struct_Enum\obj\Debug\23-OOP_Struct_Enum.csproj.GenerateResource.Cache
+C:\Users\Bilal\Desktop\GenelTekrar\23-OOP_Struct_Enum\obj\Debug\23-OOP_Struct_Enum.exe
+C:\Users\Bilal\Desktop\GenelTekrar\23-OOP_Struct_Enum\obj\Debug\23-OOP_Struct_Enum.pdb

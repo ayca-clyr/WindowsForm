@@ -1,0 +1,46 @@
+c:\users\faruk\documents\visual studio 2013\Projects\Köstebek oyunu\Köstebek oyunu\bin\Debug\Köstebek oyunu.exe.config
+c:\users\faruk\documents\visual studio 2013\Projects\Köstebek oyunu\Köstebek oyunu\bin\Debug\Köstebek oyunu.exe
+c:\users\faruk\documents\visual studio 2013\Projects\Köstebek oyunu\Köstebek oyunu\bin\Debug\Köstebek oyunu.pdb
+c:\users\faruk\documents\visual studio 2013\Projects\Köstebek oyunu\Köstebek oyunu\obj\Debug\Köstebek oyunu.csprojResolveAssemblyReference.cache
+c:\users\faruk\documents\visual studio 2013\Projects\Köstebek oyunu\Köstebek oyunu\obj\Debug\Köstebek_oyunu.Form1.resources
+c:\users\faruk\documents\visual studio 2013\Projects\Köstebek oyunu\Köstebek oyunu\obj\Debug\Köstebek_oyunu.Properties.Resources.resources
+c:\users\faruk\documents\visual studio 2013\Projects\Köstebek oyunu\Köstebek oyunu\obj\Debug\Köstebek oyunu.csproj.GenerateResource.Cache
+c:\users\faruk\documents\visual studio 2013\Projects\Köstebek oyunu\Köstebek oyunu\obj\Debug\Köstebek oyunu.exe
+c:\users\faruk\documents\visual studio 2013\Projects\Köstebek oyunu\Köstebek oyunu\obj\Debug\Köstebek oyunu.pdb
+D:\masaüstü\c# yapılabilecekler\yaptıklarım\Köstebek oyunu\Köstebek oyunu\bin\Debug\Köstebek oyunu.exe.config
+D:\masaüstü\c# yapılabilecekler\yaptıklarım\Köstebek oyunu\Köstebek oyunu\obj\Debug\Köstebek oyunu.exe
+D:\masaüstü\c# yapılabilecekler\yaptıklarım\Köstebek oyunu\Köstebek oyunu\obj\Debug\Köstebek oyunu.pdb
+D:\masaüstü\c# yapılabilecekler\yaptıklarım\Köstebek oyunu\Köstebek oyunu\bin\Debug\Köstebek oyunu.exe
+D:\masaüstü\c# yapılabilecekler\yaptıklarım\Köstebek oyunu\Köstebek oyunu\bin\Debug\Köstebek oyunu.pdb
+D:\masaüstü\c# yapılabilecekler\yaptıklarım\Köstebek oyunu\Köstebek oyunu\obj\Debug\Köstebek oyunu.csprojResolveAssemblyReference.cache
+D:\masaüstü\c# yapılabilecekler\yaptıklarım\Köstebek oyunu\Köstebek oyunu\obj\Debug\Köstebek_oyunu.Form1.resources
+D:\masaüstü\c# yapılabilecekler\yaptıklarım\Köstebek oyunu\Köstebek oyunu\obj\Debug\Köstebek_oyunu.Properties.Resources.resources
+D:\masaüstü\c# yapılabilecekler\yaptıklarım\Köstebek oyunu\Köstebek oyunu\obj\Debug\Köstebek oyunu.csproj.GenerateResource.Cache
+C:\Users\Gunaydın\Downloads\Köstebek-oyunu\Köstebek oyunu\Köstebek oyunu\bin\Debug\Köstebek oyunu.exe.config
+C:\Users\Gunaydın\Downloads\Köstebek-oyunu\Köstebek oyunu\Köstebek oyunu\obj\Debug\Köstebek oyunu.exe
+C:\Users\Gunaydın\Downloads\Köstebek-oyunu\Köstebek oyunu\Köstebek oyunu\obj\Debug\Köstebek oyunu.pdb
+C:\Users\Gunaydın\Downloads\Köstebek-oyunu\Köstebek oyunu\Köstebek oyunu\bin\Debug\Köstebek oyunu.exe
+C:\Users\Gunaydın\Downloads\Köstebek-oyunu\Köstebek oyunu\Köstebek oyunu\bin\Debug\Köstebek oyunu.pdb
+C:\Users\Gunaydın\Downloads\Köstebek-oyunu\Köstebek oyunu\Köstebek oyunu\obj\Debug\Köstebek oyunu.csprojResolveAssemblyReference.cache
+C:\Users\Gunaydın\Downloads\Köstebek-oyunu\Köstebek oyunu\Köstebek oyunu\obj\Debug\Köstebek_oyunu.Form1.resources
+C:\Users\Gunaydın\Downloads\Köstebek-oyunu\Köstebek oyunu\Köstebek oyunu\obj\Debug\Köstebek_oyunu.Properties.Resources.resources
+C:\Users\Gunaydın\Downloads\Köstebek-oyunu\Köstebek oyunu\Köstebek oyunu\obj\Debug\Köstebek oyunu.csproj.GenerateResource.Cache
+C:\Users\Gunaydın\Desktop\Stage Windows Form\Stage Windows Form\Erdi Hoca\Köstebek-oyunu\Köstebek oyunu\Köstebek oyunu\bin\Debug\Köstebek oyunu.exe.config
+C:\Users\Gunaydın\Desktop\Stage Windows Form\Stage Windows Form\Erdi Hoca\Köstebek-oyunu\Köstebek oyunu\Köstebek oyunu\obj\Debug\Köstebek oyunu.exe
+C:\Users\Gunaydın\Desktop\Stage Windows Form\Stage Windows Form\Erdi Hoca\Köstebek-oyunu\Köstebek oyunu\Köstebek oyunu\obj\Debug\Köstebek oyunu.pdb
+C:\Users\Gunaydın\Desktop\Stage Windows Form\Stage Windows Form\Erdi Hoca\Köstebek-oyunu\Köstebek oyunu\Köstebek oyunu\bin\Debug\Köstebek oyunu.exe
+C:\Users\Gunaydın\Desktop\Stage Windows Form\Stage Windows Form\Erdi Hoca\Köstebek-oyunu\Köstebek oyunu\Köstebek oyunu\bin\Debug\Köstebek oyunu.pdb
+C:\Users\Gunaydın\Desktop\Stage Windows Form\Stage Windows Form\Erdi Hoca\Köstebek-oyunu\Köstebek oyunu\Köstebek oyunu\obj\Debug\Köstebek oyunu.csprojResolveAssemblyReference.cache
+C:\Users\Gunaydın\Desktop\Stage Windows Form\Stage Windows Form\Erdi Hoca\Köstebek-oyunu\Köstebek oyunu\Köstebek oyunu\obj\Debug\Köstebek_oyunu.Form1.resources
+C:\Users\Gunaydın\Desktop\Stage Windows Form\Stage Windows Form\Erdi Hoca\Köstebek-oyunu\Köstebek oyunu\Köstebek oyunu\obj\Debug\Köstebek_oyunu.Properties.Resources.resources
+C:\Users\Gunaydın\Desktop\Stage Windows Form\Stage Windows Form\Erdi Hoca\Köstebek-oyunu\Köstebek oyunu\Köstebek oyunu\obj\Debug\Köstebek oyunu.csproj.GenerateResource.Cache
+C:\Users\Ayça\Desktop\Bilge Adam\drive-download-20161214T123646Z\Erdi Hoca\Köstebek-oyunu\Köstebek oyunu\Köstebek oyunu\bin\Debug\Köstebek oyunu.exe.config
+C:\Users\Ayça\Desktop\Bilge Adam\drive-download-20161214T123646Z\Erdi Hoca\Köstebek-oyunu\Köstebek oyunu\Köstebek oyunu\bin\Debug\Köstebek oyunu.exe
+C:\Users\Ayça\Desktop\Bilge Adam\drive-download-20161214T123646Z\Erdi Hoca\Köstebek-oyunu\Köstebek oyunu\Köstebek oyunu\bin\Debug\Köstebek oyunu.pdb
+C:\Users\Ayça\Desktop\Bilge Adam\drive-download-20161214T123646Z\Erdi Hoca\Köstebek-oyunu\Köstebek oyunu\Köstebek oyunu\obj\Debug\Köstebek oyunu.csprojResolveAssemblyReference.cache
+C:\Users\Ayça\Desktop\Bilge Adam\drive-download-20161214T123646Z\Erdi Hoca\Köstebek-oyunu\Köstebek oyunu\Köstebek oyunu\obj\Debug\Köstebek_oyunu.Form1.resources
+C:\Users\Ayça\Desktop\Bilge Adam\drive-download-20161214T123646Z\Erdi Hoca\Köstebek-oyunu\Köstebek oyunu\Köstebek oyunu\obj\Debug\Köstebek_oyunu.Properties.Resources.resources
+C:\Users\Ayça\Desktop\Bilge Adam\drive-download-20161214T123646Z\Erdi Hoca\Köstebek-oyunu\Köstebek oyunu\Köstebek oyunu\obj\Debug\Köstebek oyunu.csproj.GenerateResource.Cache
+C:\Users\Ayça\Desktop\Bilge Adam\drive-download-20161214T123646Z\Erdi Hoca\Köstebek-oyunu\Köstebek oyunu\Köstebek oyunu\obj\Debug\Köstebek oyunu.csproj.CoreCompileInputs.cache
+C:\Users\Ayça\Desktop\Bilge Adam\drive-download-20161214T123646Z\Erdi Hoca\Köstebek-oyunu\Köstebek oyunu\Köstebek oyunu\obj\Debug\Köstebek oyunu.exe
+C:\Users\Ayça\Desktop\Bilge Adam\drive-download-20161214T123646Z\Erdi Hoca\Köstebek-oyunu\Köstebek oyunu\Köstebek oyunu\obj\Debug\Köstebek oyunu.pdb

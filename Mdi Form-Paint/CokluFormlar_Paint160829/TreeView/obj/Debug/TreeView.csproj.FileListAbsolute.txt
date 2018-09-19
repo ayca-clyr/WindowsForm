@@ -1,0 +1,9 @@
+C:\Users\BA\Downloads\(Kalınlık)CokluFormlar_Paint160829\31-08CokluFormlar_Paint160829\CokluFormlar_Paint160829\TreeView\bin\Debug\TreeView.exe.config
+C:\Users\BA\Downloads\(Kalınlık)CokluFormlar_Paint160829\31-08CokluFormlar_Paint160829\CokluFormlar_Paint160829\TreeView\bin\Debug\TreeView.exe
+C:\Users\BA\Downloads\(Kalınlık)CokluFormlar_Paint160829\31-08CokluFormlar_Paint160829\CokluFormlar_Paint160829\TreeView\bin\Debug\TreeView.pdb
+C:\Users\BA\Downloads\(Kalınlık)CokluFormlar_Paint160829\31-08CokluFormlar_Paint160829\CokluFormlar_Paint160829\TreeView\obj\Debug\TreeView.csprojResolveAssemblyReference.cache
+C:\Users\BA\Downloads\(Kalınlık)CokluFormlar_Paint160829\31-08CokluFormlar_Paint160829\CokluFormlar_Paint160829\TreeView\obj\Debug\TreeView.Form1.resources
+C:\Users\BA\Downloads\(Kalınlık)CokluFormlar_Paint160829\31-08CokluFormlar_Paint160829\CokluFormlar_Paint160829\TreeView\obj\Debug\TreeView.Properties.Resources.resources
+C:\Users\BA\Downloads\(Kalınlık)CokluFormlar_Paint160829\31-08CokluFormlar_Paint160829\CokluFormlar_Paint160829\TreeView\obj\Debug\TreeView.csproj.GenerateResource.Cache
+C:\Users\BA\Downloads\(Kalınlık)CokluFormlar_Paint160829\31-08CokluFormlar_Paint160829\CokluFormlar_Paint160829\TreeView\obj\Debug\TreeView.exe
+C:\Users\BA\Downloads\(Kalınlık)CokluFormlar_Paint160829\31-08CokluFormlar_Paint160829\CokluFormlar_Paint160829\TreeView\obj\Debug\TreeView.pdb

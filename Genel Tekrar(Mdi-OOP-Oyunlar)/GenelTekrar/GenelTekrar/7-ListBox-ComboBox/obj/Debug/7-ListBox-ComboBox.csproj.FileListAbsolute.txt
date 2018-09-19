@@ -1,0 +1,9 @@
+c:\users\gunaydın\documents\visual studio 2013\Projects\GenelTekrar\7-ListBox-ComboBox\bin\Debug\7-ListBox-ComboBox.exe.config
+c:\users\gunaydın\documents\visual studio 2013\Projects\GenelTekrar\7-ListBox-ComboBox\bin\Debug\7-ListBox-ComboBox.exe
+c:\users\gunaydın\documents\visual studio 2013\Projects\GenelTekrar\7-ListBox-ComboBox\bin\Debug\7-ListBox-ComboBox.pdb
+c:\users\gunaydın\documents\visual studio 2013\Projects\GenelTekrar\7-ListBox-ComboBox\obj\Debug\7-ListBox-ComboBox.csprojResolveAssemblyReference.cache
+c:\users\gunaydın\documents\visual studio 2013\Projects\GenelTekrar\7-ListBox-ComboBox\obj\Debug\_7_ListBox_ComboBox.Form1.resources
+c:\users\gunaydın\documents\visual studio 2013\Projects\GenelTekrar\7-ListBox-ComboBox\obj\Debug\_7_ListBox_ComboBox.Properties.Resources.resources
+c:\users\gunaydın\documents\visual studio 2013\Projects\GenelTekrar\7-ListBox-ComboBox\obj\Debug\7-ListBox-ComboBox.csproj.GenerateResource.Cache
+c:\users\gunaydın\documents\visual studio 2013\Projects\GenelTekrar\7-ListBox-ComboBox\obj\Debug\7-ListBox-ComboBox.exe
+c:\users\gunaydın\documents\visual studio 2013\Projects\GenelTekrar\7-ListBox-ComboBox\obj\Debug\7-ListBox-ComboBox.pdb

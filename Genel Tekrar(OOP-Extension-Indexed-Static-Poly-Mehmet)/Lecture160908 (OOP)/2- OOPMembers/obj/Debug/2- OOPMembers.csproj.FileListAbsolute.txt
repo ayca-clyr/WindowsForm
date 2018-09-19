@@ -1,0 +1,18 @@
+c:\users\ba\documents\visual studio 2013\Projects\Lecture160908 (OOP)\2- OOPMembers\bin\Debug\2- OOPMembers.exe.config
+c:\users\ba\documents\visual studio 2013\Projects\Lecture160908 (OOP)\2- OOPMembers\bin\Debug\2- OOPMembers.exe
+c:\users\ba\documents\visual studio 2013\Projects\Lecture160908 (OOP)\2- OOPMembers\bin\Debug\2- OOPMembers.pdb
+c:\users\ba\documents\visual studio 2013\Projects\Lecture160908 (OOP)\2- OOPMembers\obj\Debug\2- OOPMembers.csprojResolveAssemblyReference.cache
+c:\users\ba\documents\visual studio 2013\Projects\Lecture160908 (OOP)\2- OOPMembers\obj\Debug\_2__OOPMembers.Form1.resources
+c:\users\ba\documents\visual studio 2013\Projects\Lecture160908 (OOP)\2- OOPMembers\obj\Debug\_2__OOPMembers.Properties.Resources.resources
+c:\users\ba\documents\visual studio 2013\Projects\Lecture160908 (OOP)\2- OOPMembers\obj\Debug\2- OOPMembers.csproj.GenerateResource.Cache
+c:\users\ba\documents\visual studio 2013\Projects\Lecture160908 (OOP)\2- OOPMembers\obj\Debug\2- OOPMembers.exe
+c:\users\ba\documents\visual studio 2013\Projects\Lecture160908 (OOP)\2- OOPMembers\obj\Debug\2- OOPMembers.pdb
+C:\Users\BA\Documents\Visual Studio 2013\Projects\160908\Lecture160908 (OOP)\2- OOPMembers\bin\Debug\2- OOPMembers.exe.config
+C:\Users\BA\Documents\Visual Studio 2013\Projects\160908\Lecture160908 (OOP)\2- OOPMembers\obj\Debug\2- OOPMembers.exe
+C:\Users\BA\Documents\Visual Studio 2013\Projects\160908\Lecture160908 (OOP)\2- OOPMembers\obj\Debug\2- OOPMembers.pdb
+C:\Users\BA\Documents\Visual Studio 2013\Projects\160908\Lecture160908 (OOP)\2- OOPMembers\bin\Debug\2- OOPMembers.exe
+C:\Users\BA\Documents\Visual Studio 2013\Projects\160908\Lecture160908 (OOP)\2- OOPMembers\bin\Debug\2- OOPMembers.pdb
+C:\Users\BA\Documents\Visual Studio 2013\Projects\160908\Lecture160908 (OOP)\2- OOPMembers\obj\Debug\2- OOPMembers.csprojResolveAssemblyReference.cache
+C:\Users\BA\Documents\Visual Studio 2013\Projects\160908\Lecture160908 (OOP)\2- OOPMembers\obj\Debug\_2__OOPMembers.Form1.resources
+C:\Users\BA\Documents\Visual Studio 2013\Projects\160908\Lecture160908 (OOP)\2- OOPMembers\obj\Debug\_2__OOPMembers.Properties.Resources.resources
+C:\Users\BA\Documents\Visual Studio 2013\Projects\160908\Lecture160908 (OOP)\2- OOPMembers\obj\Debug\2- OOPMembers.csproj.GenerateResource.Cache

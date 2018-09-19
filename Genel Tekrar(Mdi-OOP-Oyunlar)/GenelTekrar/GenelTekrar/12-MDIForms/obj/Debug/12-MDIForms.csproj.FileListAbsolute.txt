@@ -1,0 +1,30 @@
+C:\Users\Gunaydın\Documents\Visual Studio 2013\Projects\GenelTekrar\12-MDIForms\bin\Debug\12-MDIForms.exe.config
+C:\Users\Gunaydın\Documents\Visual Studio 2013\Projects\GenelTekrar\12-MDIForms\bin\Debug\12-MDIForms.exe
+C:\Users\Gunaydın\Documents\Visual Studio 2013\Projects\GenelTekrar\12-MDIForms\bin\Debug\12-MDIForms.pdb
+C:\Users\Gunaydın\Documents\Visual Studio 2013\Projects\GenelTekrar\12-MDIForms\obj\Debug\_12_MDIForms.Form1.resources
+C:\Users\Gunaydın\Documents\Visual Studio 2013\Projects\GenelTekrar\12-MDIForms\obj\Debug\_12_MDIForms.Properties.Resources.resources
+C:\Users\Gunaydın\Documents\Visual Studio 2013\Projects\GenelTekrar\12-MDIForms\obj\Debug\12-MDIForms.csproj.GenerateResource.Cache
+C:\Users\Gunaydın\Documents\Visual Studio 2013\Projects\GenelTekrar\12-MDIForms\obj\Debug\12-MDIForms.exe
+C:\Users\Gunaydın\Documents\Visual Studio 2013\Projects\GenelTekrar\12-MDIForms\obj\Debug\12-MDIForms.pdb
+C:\Users\Gunaydın\Documents\Visual Studio 2013\Projects\GenelTekrar\12-MDIForms\obj\Debug\12-MDIForms.csprojResolveAssemblyReference.cache
+C:\Users\Gunaydın\Documents\Visual Studio 2013\Projects\GenelTekrar\12-MDIForms\obj\Debug\_12_MDIForms.EmployeeForm.resources
+C:\Users\Gunaydın\Documents\Visual Studio 2013\Projects\GenelTekrar\12-MDIForms\obj\Debug\_12_MDIForms.EmployeeListForm.resources
+C:\Users\Gunaydın\Documents\Visual Studio 2013\Projects\GenelTekrar\12-MDIForms\obj\Debug\_12_MDIForms.ProductForm.resources
+C:\Users\Gunaydın\Documents\Visual Studio 2013\Projects\GenelTekrar\12-MDIForms\obj\Debug\_12_MDIForms.ProductListForm.resources
+C:\Users\Bilal\Desktop\GenelTekrar\12-MDIForms\bin\Debug\12-MDIForms.exe.config
+C:\Users\Bilal\Desktop\GenelTekrar\12-MDIForms\obj\Debug\12-MDIForms.exe
+C:\Users\Bilal\Desktop\GenelTekrar\12-MDIForms\obj\Debug\12-MDIForms.pdb
+C:\Users\Ayça\Desktop\Bilge Adam\drive-download-20161214T123646Z\GenelTekrar\GenelTekrar\GenelTekrar\12-MDIForms\bin\Debug\12-MDIForms.exe.config
+C:\Users\Ayça\Desktop\Bilge Adam\drive-download-20161214T123646Z\GenelTekrar\GenelTekrar\GenelTekrar\12-MDIForms\bin\Debug\12-MDIForms.exe
+C:\Users\Ayça\Desktop\Bilge Adam\drive-download-20161214T123646Z\GenelTekrar\GenelTekrar\GenelTekrar\12-MDIForms\bin\Debug\12-MDIForms.pdb
+C:\Users\Ayça\Desktop\Bilge Adam\drive-download-20161214T123646Z\GenelTekrar\GenelTekrar\GenelTekrar\12-MDIForms\obj\Debug\12-MDIForms.csprojResolveAssemblyReference.cache
+C:\Users\Ayça\Desktop\Bilge Adam\drive-download-20161214T123646Z\GenelTekrar\GenelTekrar\GenelTekrar\12-MDIForms\obj\Debug\_12_MDIForms.EmployeeForm.resources
+C:\Users\Ayça\Desktop\Bilge Adam\drive-download-20161214T123646Z\GenelTekrar\GenelTekrar\GenelTekrar\12-MDIForms\obj\Debug\_12_MDIForms.EmployeeListForm.resources
+C:\Users\Ayça\Desktop\Bilge Adam\drive-download-20161214T123646Z\GenelTekrar\GenelTekrar\GenelTekrar\12-MDIForms\obj\Debug\_12_MDIForms.Form1.resources
+C:\Users\Ayça\Desktop\Bilge Adam\drive-download-20161214T123646Z\GenelTekrar\GenelTekrar\GenelTekrar\12-MDIForms\obj\Debug\_12_MDIForms.ProductForm.resources
+C:\Users\Ayça\Desktop\Bilge Adam\drive-download-20161214T123646Z\GenelTekrar\GenelTekrar\GenelTekrar\12-MDIForms\obj\Debug\_12_MDIForms.ProductListForm.resources
+C:\Users\Ayça\Desktop\Bilge Adam\drive-download-20161214T123646Z\GenelTekrar\GenelTekrar\GenelTekrar\12-MDIForms\obj\Debug\_12_MDIForms.Properties.Resources.resources
+C:\Users\Ayça\Desktop\Bilge Adam\drive-download-20161214T123646Z\GenelTekrar\GenelTekrar\GenelTekrar\12-MDIForms\obj\Debug\12-MDIForms.csproj.GenerateResource.Cache
+C:\Users\Ayça\Desktop\Bilge Adam\drive-download-20161214T123646Z\GenelTekrar\GenelTekrar\GenelTekrar\12-MDIForms\obj\Debug\12-MDIForms.csproj.CoreCompileInputs.cache
+C:\Users\Ayça\Desktop\Bilge Adam\drive-download-20161214T123646Z\GenelTekrar\GenelTekrar\GenelTekrar\12-MDIForms\obj\Debug\12-MDIForms.exe
+C:\Users\Ayça\Desktop\Bilge Adam\drive-download-20161214T123646Z\GenelTekrar\GenelTekrar\GenelTekrar\12-MDIForms\obj\Debug\12-MDIForms.pdb

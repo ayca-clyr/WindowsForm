@@ -1,0 +1,10 @@
+c:\users\gunaydın\documents\visual studio 2013\Projects\GenelTekrar\6-ProgessBarr\bin\Debug\6-ProgessBarr.exe.config
+c:\users\gunaydın\documents\visual studio 2013\Projects\GenelTekrar\6-ProgessBarr\bin\Debug\6-ProgessBarr.exe
+c:\users\gunaydın\documents\visual studio 2013\Projects\GenelTekrar\6-ProgessBarr\bin\Debug\6-ProgessBarr.pdb
+c:\users\gunaydın\documents\visual studio 2013\Projects\GenelTekrar\6-ProgessBarr\obj\Debug\6-ProgessBarr.csprojResolveAssemblyReference.cache
+c:\users\gunaydın\documents\visual studio 2013\Projects\GenelTekrar\6-ProgessBarr\obj\Debug\_6_ProgessBarr.Form1.resources
+c:\users\gunaydın\documents\visual studio 2013\Projects\GenelTekrar\6-ProgessBarr\obj\Debug\_6_ProgessBarr.indirmeEkranı.resources
+c:\users\gunaydın\documents\visual studio 2013\Projects\GenelTekrar\6-ProgessBarr\obj\Debug\_6_ProgessBarr.Properties.Resources.resources
+c:\users\gunaydın\documents\visual studio 2013\Projects\GenelTekrar\6-ProgessBarr\obj\Debug\6-ProgessBarr.csproj.GenerateResource.Cache
+c:\users\gunaydın\documents\visual studio 2013\Projects\GenelTekrar\6-ProgessBarr\obj\Debug\6-ProgessBarr.exe
+c:\users\gunaydın\documents\visual studio 2013\Projects\GenelTekrar\6-ProgessBarr\obj\Debug\6-ProgessBarr.pdb

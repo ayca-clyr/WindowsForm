@@ -1,0 +1,9 @@
+c:\users\ba\documents\visual studio 2013\Projects\161011_Linq\Linq\bin\Debug\Linq.exe.config
+c:\users\ba\documents\visual studio 2013\Projects\161011_Linq\Linq\bin\Debug\Linq.exe
+c:\users\ba\documents\visual studio 2013\Projects\161011_Linq\Linq\bin\Debug\Linq.pdb
+c:\users\ba\documents\visual studio 2013\Projects\161011_Linq\Linq\obj\Debug\Linq.csprojResolveAssemblyReference.cache
+c:\users\ba\documents\visual studio 2013\Projects\161011_Linq\Linq\obj\Debug\Linq.Form1.resources
+c:\users\ba\documents\visual studio 2013\Projects\161011_Linq\Linq\obj\Debug\Linq.Properties.Resources.resources
+c:\users\ba\documents\visual studio 2013\Projects\161011_Linq\Linq\obj\Debug\Linq.csproj.GenerateResource.Cache
+c:\users\ba\documents\visual studio 2013\Projects\161011_Linq\Linq\obj\Debug\Linq.exe
+c:\users\ba\documents\visual studio 2013\Projects\161011_Linq\Linq\obj\Debug\Linq.pdb

@@ -1,0 +1,11 @@
+C:\Users\Ayça\Desktop\Task-Green - Yenisi\TaskManagementProc\BussinessLayer\bin\Debug\BussinessLayer.dll
+C:\Users\Ayça\Desktop\Task-Green - Yenisi\TaskManagementProc\BussinessLayer\bin\Debug\BussinessLayer.pdb
+C:\Users\Ayça\Desktop\Task-Green - Yenisi\TaskManagementProc\BussinessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Ayça\Desktop\Task-Green - Yenisi\TaskManagementProc\BussinessLayer\bin\Debug\Entities.dll
+C:\Users\Ayça\Desktop\Task-Green - Yenisi\TaskManagementProc\BussinessLayer\bin\Debug\EntityFramework.dll
+C:\Users\Ayça\Desktop\Task-Green - Yenisi\TaskManagementProc\BussinessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Ayça\Desktop\Task-Green - Yenisi\TaskManagementProc\BussinessLayer\bin\Debug\Entities.pdb
+C:\Users\Ayça\Desktop\Task-Green - Yenisi\TaskManagementProc\BussinessLayer\bin\Debug\EntityFramework.xml
+C:\Users\Ayça\Desktop\Task-Green - Yenisi\TaskManagementProc\BussinessLayer\obj\Debug\BussinessLayer.csprojResolveAssemblyReference.cache
+C:\Users\Ayça\Desktop\Task-Green - Yenisi\TaskManagementProc\BussinessLayer\obj\Debug\BussinessLayer.dll
+C:\Users\Ayça\Desktop\Task-Green - Yenisi\TaskManagementProc\BussinessLayer\obj\Debug\BussinessLayer.pdb

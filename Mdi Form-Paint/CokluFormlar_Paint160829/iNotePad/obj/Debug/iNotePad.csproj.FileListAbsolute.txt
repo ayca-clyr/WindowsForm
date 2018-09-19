@@ -1,0 +1,8 @@
+C:\Users\BA\Downloads\(Kalınlık)CokluFormlar_Paint160829\31-08CokluFormlar_Paint160829\CokluFormlar_Paint160829\iNotePad\bin\Debug\iNotePad.exe.config
+C:\Users\BA\Downloads\(Kalınlık)CokluFormlar_Paint160829\31-08CokluFormlar_Paint160829\CokluFormlar_Paint160829\iNotePad\obj\Debug\iNotePad.Form1.resources
+C:\Users\BA\Downloads\(Kalınlık)CokluFormlar_Paint160829\31-08CokluFormlar_Paint160829\CokluFormlar_Paint160829\iNotePad\obj\Debug\iNotePad.Properties.Resources.resources
+C:\Users\BA\Downloads\(Kalınlık)CokluFormlar_Paint160829\31-08CokluFormlar_Paint160829\CokluFormlar_Paint160829\iNotePad\obj\Debug\iNotePad.csproj.GenerateResource.Cache
+C:\Users\BA\Downloads\(Kalınlık)CokluFormlar_Paint160829\31-08CokluFormlar_Paint160829\CokluFormlar_Paint160829\iNotePad\bin\Debug\iNotePad.exe
+C:\Users\BA\Downloads\(Kalınlık)CokluFormlar_Paint160829\31-08CokluFormlar_Paint160829\CokluFormlar_Paint160829\iNotePad\bin\Debug\iNotePad.pdb
+C:\Users\BA\Downloads\(Kalınlık)CokluFormlar_Paint160829\31-08CokluFormlar_Paint160829\CokluFormlar_Paint160829\iNotePad\obj\Debug\iNotePad.exe
+C:\Users\BA\Downloads\(Kalınlık)CokluFormlar_Paint160829\31-08CokluFormlar_Paint160829\CokluFormlar_Paint160829\iNotePad\obj\Debug\iNotePad.pdb

@@ -1,0 +1,19 @@
+c:\users\gunaydın\documents\visual studio 2013\Projects\GenelTekrar\3-TaşKagıtMakas\bin\Debug\3-TaşKagıtMakas.exe.config
+c:\users\gunaydın\documents\visual studio 2013\Projects\GenelTekrar\3-TaşKagıtMakas\bin\Debug\3-TaşKagıtMakas.exe
+c:\users\gunaydın\documents\visual studio 2013\Projects\GenelTekrar\3-TaşKagıtMakas\bin\Debug\3-TaşKagıtMakas.pdb
+c:\users\gunaydın\documents\visual studio 2013\Projects\GenelTekrar\3-TaşKagıtMakas\obj\Debug\3-TaşKagıtMakas.csprojResolveAssemblyReference.cache
+c:\users\gunaydın\documents\visual studio 2013\Projects\GenelTekrar\3-TaşKagıtMakas\obj\Debug\_3_TaşKagıtMakas.Form1.resources
+c:\users\gunaydın\documents\visual studio 2013\Projects\GenelTekrar\3-TaşKagıtMakas\obj\Debug\_3_TaşKagıtMakas.Properties.Resources.resources
+c:\users\gunaydın\documents\visual studio 2013\Projects\GenelTekrar\3-TaşKagıtMakas\obj\Debug\3-TaşKagıtMakas.csproj.GenerateResource.Cache
+c:\users\gunaydın\documents\visual studio 2013\Projects\GenelTekrar\3-TaşKagıtMakas\obj\Debug\3-TaşKagıtMakas.exe
+c:\users\gunaydın\documents\visual studio 2013\Projects\GenelTekrar\3-TaşKagıtMakas\obj\Debug\3-TaşKagıtMakas.pdb
+C:\Users\Ayça\Desktop\Bilge Adam\drive-download-20161214T123646Z\GenelTekrar\GenelTekrar\GenelTekrar\3-TaşKagıtMakas\bin\Debug\3-TaşKagıtMakas.exe.config
+C:\Users\Ayça\Desktop\Bilge Adam\drive-download-20161214T123646Z\GenelTekrar\GenelTekrar\GenelTekrar\3-TaşKagıtMakas\bin\Debug\3-TaşKagıtMakas.exe
+C:\Users\Ayça\Desktop\Bilge Adam\drive-download-20161214T123646Z\GenelTekrar\GenelTekrar\GenelTekrar\3-TaşKagıtMakas\bin\Debug\3-TaşKagıtMakas.pdb
+C:\Users\Ayça\Desktop\Bilge Adam\drive-download-20161214T123646Z\GenelTekrar\GenelTekrar\GenelTekrar\3-TaşKagıtMakas\obj\Debug\3-TaşKagıtMakas.csprojResolveAssemblyReference.cache
+C:\Users\Ayça\Desktop\Bilge Adam\drive-download-20161214T123646Z\GenelTekrar\GenelTekrar\GenelTekrar\3-TaşKagıtMakas\obj\Debug\_3_TaşKagıtMakas.Form1.resources
+C:\Users\Ayça\Desktop\Bilge Adam\drive-download-20161214T123646Z\GenelTekrar\GenelTekrar\GenelTekrar\3-TaşKagıtMakas\obj\Debug\_3_TaşKagıtMakas.Properties.Resources.resources
+C:\Users\Ayça\Desktop\Bilge Adam\drive-download-20161214T123646Z\GenelTekrar\GenelTekrar\GenelTekrar\3-TaşKagıtMakas\obj\Debug\3-TaşKagıtMakas.csproj.GenerateResource.Cache
+C:\Users\Ayça\Desktop\Bilge Adam\drive-download-20161214T123646Z\GenelTekrar\GenelTekrar\GenelTekrar\3-TaşKagıtMakas\obj\Debug\3-TaşKagıtMakas.csproj.CoreCompileInputs.cache
+C:\Users\Ayça\Desktop\Bilge Adam\drive-download-20161214T123646Z\GenelTekrar\GenelTekrar\GenelTekrar\3-TaşKagıtMakas\obj\Debug\3-TaşKagıtMakas.exe
+C:\Users\Ayça\Desktop\Bilge Adam\drive-download-20161214T123646Z\GenelTekrar\GenelTekrar\GenelTekrar\3-TaşKagıtMakas\obj\Debug\3-TaşKagıtMakas.pdb

@@ -1,0 +1,6 @@
+C:\Users\BA\Desktop\160920_Maraton_Part1\160920_Maraton\StaticMain\bin\Debug\StaticMain.exe.config
+C:\Users\BA\Desktop\160920_Maraton_Part1\160920_Maraton\StaticMain\bin\Debug\StaticMain.exe
+C:\Users\BA\Desktop\160920_Maraton_Part1\160920_Maraton\StaticMain\bin\Debug\StaticMain.pdb
+C:\Users\BA\Desktop\160920_Maraton_Part1\160920_Maraton\StaticMain\obj\Debug\StaticMain.csprojResolveAssemblyReference.cache
+C:\Users\BA\Desktop\160920_Maraton_Part1\160920_Maraton\StaticMain\obj\Debug\StaticMain.exe
+C:\Users\BA\Desktop\160920_Maraton_Part1\160920_Maraton\StaticMain\obj\Debug\StaticMain.pdb

@@ -1,0 +1,23 @@
+C:\Users\Gunaydın\Documents\Visual Studio 2013\Projects\GenelTekrar\11-MultipleForms\bin\Debug\11-MultipleForms.exe.config
+C:\Users\Gunaydın\Documents\Visual Studio 2013\Projects\GenelTekrar\11-MultipleForms\bin\Debug\11-MultipleForms.exe
+C:\Users\Gunaydın\Documents\Visual Studio 2013\Projects\GenelTekrar\11-MultipleForms\bin\Debug\11-MultipleForms.pdb
+C:\Users\Gunaydın\Documents\Visual Studio 2013\Projects\GenelTekrar\11-MultipleForms\obj\Debug\_11_MultipleForms.Form1.resources
+C:\Users\Gunaydın\Documents\Visual Studio 2013\Projects\GenelTekrar\11-MultipleForms\obj\Debug\_11_MultipleForms.Properties.Resources.resources
+C:\Users\Gunaydın\Documents\Visual Studio 2013\Projects\GenelTekrar\11-MultipleForms\obj\Debug\_11_MultipleForms.StudentDeleteForm.resources
+C:\Users\Gunaydın\Documents\Visual Studio 2013\Projects\GenelTekrar\11-MultipleForms\obj\Debug\_11_MultipleForms.StudentForm.resources
+C:\Users\Gunaydın\Documents\Visual Studio 2013\Projects\GenelTekrar\11-MultipleForms\obj\Debug\11-MultipleForms.csproj.GenerateResource.Cache
+C:\Users\Gunaydın\Documents\Visual Studio 2013\Projects\GenelTekrar\11-MultipleForms\obj\Debug\11-MultipleForms.exe
+C:\Users\Gunaydın\Documents\Visual Studio 2013\Projects\GenelTekrar\11-MultipleForms\obj\Debug\11-MultipleForms.pdb
+C:\Users\Gunaydın\Documents\Visual Studio 2013\Projects\GenelTekrar\11-MultipleForms\obj\Debug\11-MultipleForms.csprojResolveAssemblyReference.cache
+C:\Users\Ayça\Desktop\Bilge Adam\drive-download-20161214T123646Z\GenelTekrar\GenelTekrar\GenelTekrar\11-MultipleForms\bin\Debug\11-MultipleForms.exe.config
+C:\Users\Ayça\Desktop\Bilge Adam\drive-download-20161214T123646Z\GenelTekrar\GenelTekrar\GenelTekrar\11-MultipleForms\bin\Debug\11-MultipleForms.exe
+C:\Users\Ayça\Desktop\Bilge Adam\drive-download-20161214T123646Z\GenelTekrar\GenelTekrar\GenelTekrar\11-MultipleForms\bin\Debug\11-MultipleForms.pdb
+C:\Users\Ayça\Desktop\Bilge Adam\drive-download-20161214T123646Z\GenelTekrar\GenelTekrar\GenelTekrar\11-MultipleForms\obj\Debug\11-MultipleForms.csprojResolveAssemblyReference.cache
+C:\Users\Ayça\Desktop\Bilge Adam\drive-download-20161214T123646Z\GenelTekrar\GenelTekrar\GenelTekrar\11-MultipleForms\obj\Debug\_11_MultipleForms.Form1.resources
+C:\Users\Ayça\Desktop\Bilge Adam\drive-download-20161214T123646Z\GenelTekrar\GenelTekrar\GenelTekrar\11-MultipleForms\obj\Debug\_11_MultipleForms.Properties.Resources.resources
+C:\Users\Ayça\Desktop\Bilge Adam\drive-download-20161214T123646Z\GenelTekrar\GenelTekrar\GenelTekrar\11-MultipleForms\obj\Debug\_11_MultipleForms.StudentDeleteForm.resources
+C:\Users\Ayça\Desktop\Bilge Adam\drive-download-20161214T123646Z\GenelTekrar\GenelTekrar\GenelTekrar\11-MultipleForms\obj\Debug\_11_MultipleForms.StudentForm.resources
+C:\Users\Ayça\Desktop\Bilge Adam\drive-download-20161214T123646Z\GenelTekrar\GenelTekrar\GenelTekrar\11-MultipleForms\obj\Debug\11-MultipleForms.csproj.GenerateResource.Cache
+C:\Users\Ayça\Desktop\Bilge Adam\drive-download-20161214T123646Z\GenelTekrar\GenelTekrar\GenelTekrar\11-MultipleForms\obj\Debug\11-MultipleForms.csproj.CoreCompileInputs.cache
+C:\Users\Ayça\Desktop\Bilge Adam\drive-download-20161214T123646Z\GenelTekrar\GenelTekrar\GenelTekrar\11-MultipleForms\obj\Debug\11-MultipleForms.exe
+C:\Users\Ayça\Desktop\Bilge Adam\drive-download-20161214T123646Z\GenelTekrar\GenelTekrar\GenelTekrar\11-MultipleForms\obj\Debug\11-MultipleForms.pdb

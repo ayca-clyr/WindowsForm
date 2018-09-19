@@ -1,0 +1,9 @@
+C:\Users\BA\Documents\Visual Studio 2013\Projects\Lecture160908 (OOP)\7- Abstraction\bin\Debug\7- Abstraction.exe.config
+C:\Users\BA\Documents\Visual Studio 2013\Projects\Lecture160908 (OOP)\7- Abstraction\bin\Debug\7- Abstraction.exe
+C:\Users\BA\Documents\Visual Studio 2013\Projects\Lecture160908 (OOP)\7- Abstraction\bin\Debug\7- Abstraction.pdb
+C:\Users\BA\Documents\Visual Studio 2013\Projects\Lecture160908 (OOP)\7- Abstraction\obj\Debug\7- Abstraction.csprojResolveAssemblyReference.cache
+C:\Users\BA\Documents\Visual Studio 2013\Projects\Lecture160908 (OOP)\7- Abstraction\obj\Debug\_7__Abstraction.Form1.resources
+C:\Users\BA\Documents\Visual Studio 2013\Projects\Lecture160908 (OOP)\7- Abstraction\obj\Debug\_7__Abstraction.Properties.Resources.resources
+C:\Users\BA\Documents\Visual Studio 2013\Projects\Lecture160908 (OOP)\7- Abstraction\obj\Debug\7- Abstraction.csproj.GenerateResource.Cache
+C:\Users\BA\Documents\Visual Studio 2013\Projects\Lecture160908 (OOP)\7- Abstraction\obj\Debug\7- Abstraction.exe
+C:\Users\BA\Documents\Visual Studio 2013\Projects\Lecture160908 (OOP)\7- Abstraction\obj\Debug\7- Abstraction.pdb

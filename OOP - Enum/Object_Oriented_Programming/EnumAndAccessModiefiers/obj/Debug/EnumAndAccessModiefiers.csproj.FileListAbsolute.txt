@@ -1,0 +1,19 @@
+C:\Users\BA\Documents\Visual Studio 2013\Projects\Object_Oriented_Programming\EnumAndAccessModiefiers\bin\Debug\EnumAndAccessModiefiers.exe.config
+C:\Users\BA\Documents\Visual Studio 2013\Projects\Object_Oriented_Programming\EnumAndAccessModiefiers\obj\Debug\EnumAndAccessModiefiers.csprojResolveAssemblyReference.cache
+C:\Users\BA\Documents\Visual Studio 2013\Projects\Object_Oriented_Programming\EnumAndAccessModiefiers\obj\Debug\EnumAndAccessModiefiers.Form1.resources
+C:\Users\BA\Documents\Visual Studio 2013\Projects\Object_Oriented_Programming\EnumAndAccessModiefiers\obj\Debug\EnumAndAccessModiefiers.Properties.Resources.resources
+C:\Users\BA\Documents\Visual Studio 2013\Projects\Object_Oriented_Programming\EnumAndAccessModiefiers\obj\Debug\EnumAndAccessModiefiers.csproj.GenerateResource.Cache
+C:\Users\BA\Documents\Visual Studio 2013\Projects\Object_Oriented_Programming\EnumAndAccessModiefiers\bin\Debug\EnumAndAccessModiefiers.exe
+C:\Users\BA\Documents\Visual Studio 2013\Projects\Object_Oriented_Programming\EnumAndAccessModiefiers\bin\Debug\EnumAndAccessModiefiers.pdb
+C:\Users\BA\Documents\Visual Studio 2013\Projects\Object_Oriented_Programming\EnumAndAccessModiefiers\obj\Debug\EnumAndAccessModiefiers.exe
+C:\Users\BA\Documents\Visual Studio 2013\Projects\Object_Oriented_Programming\EnumAndAccessModiefiers\obj\Debug\EnumAndAccessModiefiers.pdb
+C:\Users\Ayça\Desktop\Bilge Adam\drive-download-20161214T130031Z\160909_OOP\Object_Oriented_Programming\EnumAndAccessModiefiers\bin\Debug\EnumAndAccessModiefiers.exe.config
+C:\Users\Ayça\Desktop\Bilge Adam\drive-download-20161214T130031Z\160909_OOP\Object_Oriented_Programming\EnumAndAccessModiefiers\bin\Debug\EnumAndAccessModiefiers.exe
+C:\Users\Ayça\Desktop\Bilge Adam\drive-download-20161214T130031Z\160909_OOP\Object_Oriented_Programming\EnumAndAccessModiefiers\bin\Debug\EnumAndAccessModiefiers.pdb
+C:\Users\Ayça\Desktop\Bilge Adam\drive-download-20161214T130031Z\160909_OOP\Object_Oriented_Programming\EnumAndAccessModiefiers\obj\Debug\EnumAndAccessModiefiers.csprojResolveAssemblyReference.cache
+C:\Users\Ayça\Desktop\Bilge Adam\drive-download-20161214T130031Z\160909_OOP\Object_Oriented_Programming\EnumAndAccessModiefiers\obj\Debug\EnumAndAccessModiefiers.Form1.resources
+C:\Users\Ayça\Desktop\Bilge Adam\drive-download-20161214T130031Z\160909_OOP\Object_Oriented_Programming\EnumAndAccessModiefiers\obj\Debug\EnumAndAccessModiefiers.Properties.Resources.resources
+C:\Users\Ayça\Desktop\Bilge Adam\drive-download-20161214T130031Z\160909_OOP\Object_Oriented_Programming\EnumAndAccessModiefiers\obj\Debug\EnumAndAccessModiefiers.csproj.GenerateResource.Cache
+C:\Users\Ayça\Desktop\Bilge Adam\drive-download-20161214T130031Z\160909_OOP\Object_Oriented_Programming\EnumAndAccessModiefiers\obj\Debug\EnumAndAccessModiefiers.csproj.CoreCompileInputs.cache
+C:\Users\Ayça\Desktop\Bilge Adam\drive-download-20161214T130031Z\160909_OOP\Object_Oriented_Programming\EnumAndAccessModiefiers\obj\Debug\EnumAndAccessModiefiers.exe
+C:\Users\Ayça\Desktop\Bilge Adam\drive-download-20161214T130031Z\160909_OOP\Object_Oriented_Programming\EnumAndAccessModiefiers\obj\Debug\EnumAndAccessModiefiers.pdb

@@ -1,0 +1,9 @@
+c:\users\ba\documents\visual studio 2013\Projects\161003_Diconnected\Uygulama_01\bin\Debug\Uygulama_01.exe.config
+c:\users\ba\documents\visual studio 2013\Projects\161003_Diconnected\Uygulama_01\bin\Debug\Uygulama_01.exe
+c:\users\ba\documents\visual studio 2013\Projects\161003_Diconnected\Uygulama_01\bin\Debug\Uygulama_01.pdb
+c:\users\ba\documents\visual studio 2013\Projects\161003_Diconnected\Uygulama_01\obj\Debug\Uygulama_01.csprojResolveAssemblyReference.cache
+c:\users\ba\documents\visual studio 2013\Projects\161003_Diconnected\Uygulama_01\obj\Debug\Uygulama_01.Form1.resources
+c:\users\ba\documents\visual studio 2013\Projects\161003_Diconnected\Uygulama_01\obj\Debug\Uygulama_01.Properties.Resources.resources
+c:\users\ba\documents\visual studio 2013\Projects\161003_Diconnected\Uygulama_01\obj\Debug\Uygulama_01.csproj.GenerateResource.Cache
+c:\users\ba\documents\visual studio 2013\Projects\161003_Diconnected\Uygulama_01\obj\Debug\Uygulama_01.exe
+c:\users\ba\documents\visual studio 2013\Projects\161003_Diconnected\Uygulama_01\obj\Debug\Uygulama_01.pdb

@@ -1,0 +1,9 @@
+C:\Users\BA\Desktop\160920_Maraton_Part1\160920_Maraton\Part2-Hocanın Çözdüğü\bin\Debug\Part2-Hocanın Çözdüğü.exe.config
+C:\Users\BA\Desktop\160920_Maraton_Part1\160920_Maraton\Part2-Hocanın Çözdüğü\bin\Debug\Part2-Hocanın Çözdüğü.exe
+C:\Users\BA\Desktop\160920_Maraton_Part1\160920_Maraton\Part2-Hocanın Çözdüğü\bin\Debug\Part2-Hocanın Çözdüğü.pdb
+C:\Users\BA\Desktop\160920_Maraton_Part1\160920_Maraton\Part2-Hocanın Çözdüğü\obj\Debug\Part2-Hocanın Çözdüğü.csprojResolveAssemblyReference.cache
+C:\Users\BA\Desktop\160920_Maraton_Part1\160920_Maraton\Part2-Hocanın Çözdüğü\obj\Debug\Part2_Hocanın_Çözdüğü.Form1.resources
+C:\Users\BA\Desktop\160920_Maraton_Part1\160920_Maraton\Part2-Hocanın Çözdüğü\obj\Debug\Part2_Hocanın_Çözdüğü.Properties.Resources.resources
+C:\Users\BA\Desktop\160920_Maraton_Part1\160920_Maraton\Part2-Hocanın Çözdüğü\obj\Debug\Part2-Hocanın Çözdüğü.csproj.GenerateResource.Cache
+C:\Users\BA\Desktop\160920_Maraton_Part1\160920_Maraton\Part2-Hocanın Çözdüğü\obj\Debug\Part2-Hocanın Çözdüğü.exe
+C:\Users\BA\Desktop\160920_Maraton_Part1\160920_Maraton\Part2-Hocanın Çözdüğü\obj\Debug\Part2-Hocanın Çözdüğü.pdb

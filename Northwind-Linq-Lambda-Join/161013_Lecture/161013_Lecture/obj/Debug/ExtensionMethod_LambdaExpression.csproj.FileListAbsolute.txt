@@ -1,0 +1,27 @@
+c:\users\ba\documents\visual studio 2013\Projects\161013_Lecture\161013_Lecture\bin\Debug\161013_Lecture.exe.config
+c:\users\ba\documents\visual studio 2013\Projects\161013_Lecture\161013_Lecture\bin\Debug\161013_Lecture.exe
+c:\users\ba\documents\visual studio 2013\Projects\161013_Lecture\161013_Lecture\bin\Debug\161013_Lecture.pdb
+c:\users\ba\documents\visual studio 2013\Projects\161013_Lecture\161013_Lecture\bin\Debug\EntityFramework.dll
+c:\users\ba\documents\visual studio 2013\Projects\161013_Lecture\161013_Lecture\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\ba\documents\visual studio 2013\Projects\161013_Lecture\161013_Lecture\bin\Debug\EntityFramework.xml
+c:\users\ba\documents\visual studio 2013\Projects\161013_Lecture\161013_Lecture\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\ba\documents\visual studio 2013\Projects\161013_Lecture\161013_Lecture\obj\Debug\_161013_Lecture.Form1.resources
+c:\users\ba\documents\visual studio 2013\Projects\161013_Lecture\161013_Lecture\obj\Debug\_161013_Lecture.Properties.Resources.resources
+c:\users\ba\documents\visual studio 2013\Projects\161013_Lecture\161013_Lecture\obj\Debug\ExtensionMethod_LambdaExpression.csproj.GenerateResource.Cache
+c:\users\ba\documents\visual studio 2013\Projects\161013_Lecture\161013_Lecture\obj\Debug\161013_Lecture.exe
+c:\users\ba\documents\visual studio 2013\Projects\161013_Lecture\161013_Lecture\obj\Debug\161013_Lecture.pdb
+c:\users\ba\documents\visual studio 2013\Projects\161013_Lecture\161013_Lecture\obj\Debug\ExtensionMethod_LambdaExpression.csprojResolveAssemblyReference.cache
+C:\Users\Ayça\Desktop\Bilge Adam\drive-download-20161214T130342Z\161013_Lecture\161013_Lecture\161013_Lecture\bin\Debug\161013_Lecture.exe.config
+C:\Users\Ayça\Desktop\Bilge Adam\drive-download-20161214T130342Z\161013_Lecture\161013_Lecture\161013_Lecture\bin\Debug\161013_Lecture.exe
+C:\Users\Ayça\Desktop\Bilge Adam\drive-download-20161214T130342Z\161013_Lecture\161013_Lecture\161013_Lecture\bin\Debug\161013_Lecture.pdb
+C:\Users\Ayça\Desktop\Bilge Adam\drive-download-20161214T130342Z\161013_Lecture\161013_Lecture\161013_Lecture\bin\Debug\EntityFramework.dll
+C:\Users\Ayça\Desktop\Bilge Adam\drive-download-20161214T130342Z\161013_Lecture\161013_Lecture\161013_Lecture\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ayça\Desktop\Bilge Adam\drive-download-20161214T130342Z\161013_Lecture\161013_Lecture\161013_Lecture\bin\Debug\EntityFramework.xml
+C:\Users\Ayça\Desktop\Bilge Adam\drive-download-20161214T130342Z\161013_Lecture\161013_Lecture\161013_Lecture\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ayça\Desktop\Bilge Adam\drive-download-20161214T130342Z\161013_Lecture\161013_Lecture\161013_Lecture\obj\Debug\ExtensionMethod_LambdaExpression.csprojResolveAssemblyReference.cache
+C:\Users\Ayça\Desktop\Bilge Adam\drive-download-20161214T130342Z\161013_Lecture\161013_Lecture\161013_Lecture\obj\Debug\_161013_Lecture.Form1.resources
+C:\Users\Ayça\Desktop\Bilge Adam\drive-download-20161214T130342Z\161013_Lecture\161013_Lecture\161013_Lecture\obj\Debug\_161013_Lecture.Properties.Resources.resources
+C:\Users\Ayça\Desktop\Bilge Adam\drive-download-20161214T130342Z\161013_Lecture\161013_Lecture\161013_Lecture\obj\Debug\ExtensionMethod_LambdaExpression.csproj.GenerateResource.Cache
+C:\Users\Ayça\Desktop\Bilge Adam\drive-download-20161214T130342Z\161013_Lecture\161013_Lecture\161013_Lecture\obj\Debug\ExtensionMethod_LambdaExpression.csproj.CoreCompileInputs.cache
+C:\Users\Ayça\Desktop\Bilge Adam\drive-download-20161214T130342Z\161013_Lecture\161013_Lecture\161013_Lecture\obj\Debug\161013_Lecture.exe
+C:\Users\Ayça\Desktop\Bilge Adam\drive-download-20161214T130342Z\161013_Lecture\161013_Lecture\161013_Lecture\obj\Debug\161013_Lecture.pdb

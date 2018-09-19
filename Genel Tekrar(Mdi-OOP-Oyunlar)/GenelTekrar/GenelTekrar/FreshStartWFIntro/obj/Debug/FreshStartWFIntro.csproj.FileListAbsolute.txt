@@ -1,0 +1,9 @@
+c:\users\gunaydın\documents\visual studio 2013\Projects\GenelTekrar\FreshStartWFIntro\bin\Debug\FreshStartWFIntro.exe.config
+c:\users\gunaydın\documents\visual studio 2013\Projects\GenelTekrar\FreshStartWFIntro\bin\Debug\FreshStartWFIntro.exe
+c:\users\gunaydın\documents\visual studio 2013\Projects\GenelTekrar\FreshStartWFIntro\bin\Debug\FreshStartWFIntro.pdb
+c:\users\gunaydın\documents\visual studio 2013\Projects\GenelTekrar\FreshStartWFIntro\obj\Debug\FreshStartWFIntro.csprojResolveAssemblyReference.cache
+c:\users\gunaydın\documents\visual studio 2013\Projects\GenelTekrar\FreshStartWFIntro\obj\Debug\FreshStartWFIntro.Form1.resources
+c:\users\gunaydın\documents\visual studio 2013\Projects\GenelTekrar\FreshStartWFIntro\obj\Debug\FreshStartWFIntro.Properties.Resources.resources
+c:\users\gunaydın\documents\visual studio 2013\Projects\GenelTekrar\FreshStartWFIntro\obj\Debug\FreshStartWFIntro.csproj.GenerateResource.Cache
+c:\users\gunaydın\documents\visual studio 2013\Projects\GenelTekrar\FreshStartWFIntro\obj\Debug\FreshStartWFIntro.exe
+c:\users\gunaydın\documents\visual studio 2013\Projects\GenelTekrar\FreshStartWFIntro\obj\Debug\FreshStartWFIntro.pdb

@@ -1,0 +1,9 @@
+C:\Users\BA\Downloads\(Kalınlık)CokluFormlar_Paint160829\31-08CokluFormlar_Paint160829\CokluFormlar_Paint160829\Paint_Input_Output\bin\Debug\Paint_Input_Output.exe.config
+C:\Users\BA\Downloads\(Kalınlık)CokluFormlar_Paint160829\31-08CokluFormlar_Paint160829\CokluFormlar_Paint160829\Paint_Input_Output\bin\Debug\Paint_Input_Output.exe
+C:\Users\BA\Downloads\(Kalınlık)CokluFormlar_Paint160829\31-08CokluFormlar_Paint160829\CokluFormlar_Paint160829\Paint_Input_Output\bin\Debug\Paint_Input_Output.pdb
+C:\Users\BA\Downloads\(Kalınlık)CokluFormlar_Paint160829\31-08CokluFormlar_Paint160829\CokluFormlar_Paint160829\Paint_Input_Output\obj\Debug\Paint_Input_Output.csprojResolveAssemblyReference.cache
+C:\Users\BA\Downloads\(Kalınlık)CokluFormlar_Paint160829\31-08CokluFormlar_Paint160829\CokluFormlar_Paint160829\Paint_Input_Output\obj\Debug\Paint_Input_Output.Form1.resources
+C:\Users\BA\Downloads\(Kalınlık)CokluFormlar_Paint160829\31-08CokluFormlar_Paint160829\CokluFormlar_Paint160829\Paint_Input_Output\obj\Debug\Paint_Input_Output.Properties.Resources.resources
+C:\Users\BA\Downloads\(Kalınlık)CokluFormlar_Paint160829\31-08CokluFormlar_Paint160829\CokluFormlar_Paint160829\Paint_Input_Output\obj\Debug\Paint_Input_Output.csproj.GenerateResource.Cache
+C:\Users\BA\Downloads\(Kalınlık)CokluFormlar_Paint160829\31-08CokluFormlar_Paint160829\CokluFormlar_Paint160829\Paint_Input_Output\obj\Debug\Paint_Input_Output.exe
+C:\Users\BA\Downloads\(Kalınlık)CokluFormlar_Paint160829\31-08CokluFormlar_Paint160829\CokluFormlar_Paint160829\Paint_Input_Output\obj\Debug\Paint_Input_Output.pdb

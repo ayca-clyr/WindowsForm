@@ -1,0 +1,13 @@
+c:\users\ba\documents\visual studio 2013\Projects\161013_Lecture\161013_Lecture\bin\Debug\161013_Lecture.exe.config
+c:\users\ba\documents\visual studio 2013\Projects\161013_Lecture\161013_Lecture\bin\Debug\161013_Lecture.exe
+c:\users\ba\documents\visual studio 2013\Projects\161013_Lecture\161013_Lecture\bin\Debug\161013_Lecture.pdb
+c:\users\ba\documents\visual studio 2013\Projects\161013_Lecture\161013_Lecture\bin\Debug\EntityFramework.dll
+c:\users\ba\documents\visual studio 2013\Projects\161013_Lecture\161013_Lecture\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\ba\documents\visual studio 2013\Projects\161013_Lecture\161013_Lecture\bin\Debug\EntityFramework.xml
+c:\users\ba\documents\visual studio 2013\Projects\161013_Lecture\161013_Lecture\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\ba\documents\visual studio 2013\Projects\161013_Lecture\161013_Lecture\obj\Debug\Lambda.csprojResolveAssemblyReference.cache
+c:\users\ba\documents\visual studio 2013\Projects\161013_Lecture\161013_Lecture\obj\Debug\_161013_Lecture.Form1.resources
+c:\users\ba\documents\visual studio 2013\Projects\161013_Lecture\161013_Lecture\obj\Debug\_161013_Lecture.Properties.Resources.resources
+c:\users\ba\documents\visual studio 2013\Projects\161013_Lecture\161013_Lecture\obj\Debug\Lambda.csproj.GenerateResource.Cache
+c:\users\ba\documents\visual studio 2013\Projects\161013_Lecture\161013_Lecture\obj\Debug\161013_Lecture.exe
+c:\users\ba\documents\visual studio 2013\Projects\161013_Lecture\161013_Lecture\obj\Debug\161013_Lecture.pdb

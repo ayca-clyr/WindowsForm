@@ -1,0 +1,5 @@
+c:\users\ba\documents\visual studio 2013\Projects\CodeFirst_KatmanlıMimari\01-Entities\bin\Debug\01-Entities.dll
+c:\users\ba\documents\visual studio 2013\Projects\CodeFirst_KatmanlıMimari\01-Entities\bin\Debug\01-Entities.pdb
+c:\users\ba\documents\visual studio 2013\Projects\CodeFirst_KatmanlıMimari\01-Entities\obj\Debug\01-Entities.csprojResolveAssemblyReference.cache
+c:\users\ba\documents\visual studio 2013\Projects\CodeFirst_KatmanlıMimari\01-Entities\obj\Debug\01-Entities.dll
+c:\users\ba\documents\visual studio 2013\Projects\CodeFirst_KatmanlıMimari\01-Entities\obj\Debug\01-Entities.pdb

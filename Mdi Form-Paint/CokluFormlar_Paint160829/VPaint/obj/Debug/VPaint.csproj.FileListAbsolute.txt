@@ -1,0 +1,27 @@
+C:\Users\BA\documents\visual studio 2013\Projects\CokluFormlar_160829\VPaint\bin\Debug\VPaint.exe.config
+C:\Users\BA\documents\visual studio 2013\Projects\CokluFormlar_160829\VPaint\obj\Debug\VPaint.csprojResolveAssemblyReference.cache
+C:\Users\BA\documents\visual studio 2013\Projects\CokluFormlar_160829\VPaint\obj\Debug\VPaint.Form1.resources
+C:\Users\BA\documents\visual studio 2013\Projects\CokluFormlar_160829\VPaint\obj\Debug\VPaint.Properties.Resources.resources
+C:\Users\BA\documents\visual studio 2013\Projects\CokluFormlar_160829\VPaint\obj\Debug\VPaint.csproj.GenerateResource.Cache
+C:\Users\BA\documents\visual studio 2013\Projects\CokluFormlar_160829\VPaint\bin\Debug\VPaint.exe
+C:\Users\BA\documents\visual studio 2013\Projects\CokluFormlar_160829\VPaint\bin\Debug\VPaint.pdb
+C:\Users\BA\documents\visual studio 2013\Projects\CokluFormlar_160829\VPaint\obj\Debug\VPaint.exe
+C:\Users\BA\documents\visual studio 2013\Projects\CokluFormlar_160829\VPaint\obj\Debug\VPaint.pdb
+C:\Users\Ayça\Downloads\31-08CokluFormlar_Paint160829\CokluFormlar_Paint160829\VPaint\bin\Debug\VPaint.exe.config
+C:\Users\Ayça\Downloads\31-08CokluFormlar_Paint160829\CokluFormlar_Paint160829\VPaint\obj\Debug\VPaint.exe
+C:\Users\Ayça\Downloads\31-08CokluFormlar_Paint160829\CokluFormlar_Paint160829\VPaint\obj\Debug\VPaint.pdb
+C:\Users\Ayça\Downloads\31-08CokluFormlar_Paint160829\CokluFormlar_Paint160829\VPaint\bin\Debug\VPaint.exe
+C:\Users\Ayça\Downloads\31-08CokluFormlar_Paint160829\CokluFormlar_Paint160829\VPaint\bin\Debug\VPaint.pdb
+C:\Users\Ayça\Downloads\31-08CokluFormlar_Paint160829\CokluFormlar_Paint160829\VPaint\obj\Debug\VPaint.csprojResolveAssemblyReference.cache
+C:\Users\Ayça\Downloads\31-08CokluFormlar_Paint160829\CokluFormlar_Paint160829\VPaint\obj\Debug\VPaint.Form1.resources
+C:\Users\Ayça\Downloads\31-08CokluFormlar_Paint160829\CokluFormlar_Paint160829\VPaint\obj\Debug\VPaint.Properties.Resources.resources
+C:\Users\Ayça\Downloads\31-08CokluFormlar_Paint160829\CokluFormlar_Paint160829\VPaint\obj\Debug\VPaint.csproj.GenerateResource.Cache
+C:\Users\BA\Downloads\(Kalınlık)CokluFormlar_Paint160829\31-08CokluFormlar_Paint160829\CokluFormlar_Paint160829\VPaint\bin\Debug\VPaint.exe.config
+C:\Users\BA\Downloads\(Kalınlık)CokluFormlar_Paint160829\31-08CokluFormlar_Paint160829\CokluFormlar_Paint160829\VPaint\obj\Debug\VPaint.exe
+C:\Users\BA\Downloads\(Kalınlık)CokluFormlar_Paint160829\31-08CokluFormlar_Paint160829\CokluFormlar_Paint160829\VPaint\obj\Debug\VPaint.pdb
+C:\Users\BA\Downloads\(Kalınlık)CokluFormlar_Paint160829\31-08CokluFormlar_Paint160829\CokluFormlar_Paint160829\VPaint\bin\Debug\VPaint.exe
+C:\Users\BA\Downloads\(Kalınlık)CokluFormlar_Paint160829\31-08CokluFormlar_Paint160829\CokluFormlar_Paint160829\VPaint\bin\Debug\VPaint.pdb
+C:\Users\BA\Downloads\(Kalınlık)CokluFormlar_Paint160829\31-08CokluFormlar_Paint160829\CokluFormlar_Paint160829\VPaint\obj\Debug\VPaint.csprojResolveAssemblyReference.cache
+C:\Users\BA\Downloads\(Kalınlık)CokluFormlar_Paint160829\31-08CokluFormlar_Paint160829\CokluFormlar_Paint160829\VPaint\obj\Debug\VPaint.Form1.resources
+C:\Users\BA\Downloads\(Kalınlık)CokluFormlar_Paint160829\31-08CokluFormlar_Paint160829\CokluFormlar_Paint160829\VPaint\obj\Debug\VPaint.Properties.Resources.resources
+C:\Users\BA\Downloads\(Kalınlık)CokluFormlar_Paint160829\31-08CokluFormlar_Paint160829\CokluFormlar_Paint160829\VPaint\obj\Debug\VPaint.csproj.GenerateResource.Cache

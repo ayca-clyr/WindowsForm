@@ -1,0 +1,11 @@
+C:\Users\Bilall\Downloads\Stage Windows Adonet\Stage Windows Adonet\ADONET\08_Uygulama_StroeProcedure\bin\Debug\08_Uygulama_StroeProcedure.exe.config
+C:\Users\Bilall\Downloads\Stage Windows Adonet\Stage Windows Adonet\ADONET\08_Uygulama_StroeProcedure\bin\Debug\08_Uygulama_StroeProcedure.exe
+C:\Users\Bilall\Downloads\Stage Windows Adonet\Stage Windows Adonet\ADONET\08_Uygulama_StroeProcedure\bin\Debug\08_Uygulama_StroeProcedure.pdb
+C:\Users\Bilall\Downloads\Stage Windows Adonet\Stage Windows Adonet\ADONET\08_Uygulama_StroeProcedure\obj\Debug\08_Uygulama_StroeProcedure.csprojResolveAssemblyReference.cache
+C:\Users\Bilall\Downloads\Stage Windows Adonet\Stage Windows Adonet\ADONET\08_Uygulama_StroeProcedure\obj\Debug\_08_Uygulama_StroeProcedure.Form1.resources
+C:\Users\Bilall\Downloads\Stage Windows Adonet\Stage Windows Adonet\ADONET\08_Uygulama_StroeProcedure\obj\Debug\_08_Uygulama_StroeProcedure.Properties.Resources.resources
+C:\Users\Bilall\Downloads\Stage Windows Adonet\Stage Windows Adonet\ADONET\08_Uygulama_StroeProcedure\obj\Debug\08_Uygulama_StroeProcedure.csproj.GenerateResource.Cache
+C:\Users\Bilall\Downloads\Stage Windows Adonet\Stage Windows Adonet\ADONET\08_Uygulama_StroeProcedure\obj\Debug\08_Uygulama_StroeProcedure.exe
+C:\Users\Bilall\Downloads\Stage Windows Adonet\Stage Windows Adonet\ADONET\08_Uygulama_StroeProcedure\obj\Debug\08_Uygulama_StroeProcedure.pdb
+C:\Users\Bilal\Downloads\Stage Windows Adonet\Stage Windows Adonet\Stage Windows Adonet\Stage Windows Adonet\ADONET\08_Uygulama_StroeProcedure\bin\Debug\08_Uygulama_StroeProcedure.exe.config
+C:\Users\Bilal\Downloads\Stage Windows Adonet\Stage Windows Adonet\Stage Windows Adonet\Stage Windows Adonet\ADONET\08_Uygulama_StroeProcedure\obj\Debug\08_Uygulama_StroeProcedure.pdb
